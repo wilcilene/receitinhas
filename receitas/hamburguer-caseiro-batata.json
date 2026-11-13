@@ -1,0 +1,79 @@
+{
+  "id": "hamburguer-caseiro-batata",
+  "titulo": "Hambúrguer caseiro no prato",
+  "descricao": "Com batata na air fryer e salada.",
+  "refeicoes": [
+    "almoco",
+    "jantar"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "dia-normal",
+  "tempoTotalMin": 35,
+  "maoNaMassaMin": 20,
+  "rendimento": "1 pessoa",
+  "ingredientes": [
+    {
+      "grupo": "Hambúrguer",
+      "itens": [
+        "150 g de carne moída (patinho ou acém)",
+        "1 pitada de sal e pimenta-do-reino",
+        "1 fatia de queijo",
+        "1 colher (chá) de azeite"
+      ]
+    },
+    {
+      "grupo": "Acompanhamentos",
+      "itens": [
+        "1 batata média em palitos",
+        "1 colher (chá) de azeite",
+        "Folhas de alface",
+        "1/2 tomate em rodelas",
+        "Cebola roxa em fatias finas",
+        "Azeite, limão e sal"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Melancia"
+      }
+    ],
+    "bebidas": "Suco natural de laranja ou água."
+  },
+  "notaPassos": "Alguns preparos acontecem ao mesmo tempo, por isso os tempos não se somam.",
+  "passos": [
+    {
+      "titulo": "Batata na air fryer",
+      "tempo": "20 min",
+      "texto": "Seque bem os palitos, misture com o azeite e o sal e asse a 200 °C por 18 a 20 minutos, chacoalhando na metade."
+    },
+    {
+      "titulo": "Modele",
+      "tempo": "3 min",
+      "texto": "Modele a carne em um disco de 2 cm de altura, sem amassar demais. Tempere só por fora, na hora de ir ao fogo."
+    },
+    {
+      "titulo": "Grelhe",
+      "tempo": "8 min",
+      "texto": "Em frigideira bem quente com o azeite, grelhe 3 a 4 minutos de cada lado. Coloque o queijo no último minuto e tampe."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "2 min",
+      "texto": "Tempere a salada e sirva com o hambúrguer e a batata."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Não aperte com a espátula.",
+      "texto": "Apertar expulsa o suco e deixa o hambúrguer seco."
+    },
+    {
+      "titulo": "Carne moída bem cozida.",
+      "texto": "Diferente do bife, o hambúrguer caseiro não deve ficar cru no centro."
+    }
+  ]
+}

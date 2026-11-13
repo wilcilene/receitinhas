@@ -1,0 +1,76 @@
+{
+  "id": "linguine-camarao-alho",
+  "titulo": "Linguine com camarão ao alho",
+  "descricao": "Com tomate-cereja e rúcula.",
+  "refeicoes": [
+    "almoco",
+    "jantar"
+  ],
+  "ocasioes": [
+    "especial"
+  ],
+  "energia": "inspirada",
+  "tempoTotalMin": 35,
+  "maoNaMassaMin": 30,
+  "rendimento": "2 porções",
+  "ingredientes": [
+    {
+      "grupo": "Prato",
+      "itens": [
+        "200 g de linguine ou espaguete",
+        "300 g de camarão limpo, descongelado",
+        "4 dentes de alho fatiados",
+        "10 tomates-cereja cortados ao meio",
+        "2 colheres (sopa) de azeite",
+        "1 colher (sopa) de manteiga",
+        "Suco de 1/2 limão",
+        "2 punhados de rúcula",
+        "Sal, pimenta-do-reino e salsinha"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Sorvete de limão"
+      },
+      {
+        "titulo": "Morangos"
+      }
+    ],
+    "bebidas": "Vinho branco seco, água com gás e limão ou suco de maracujá."
+  },
+  "notaPassos": "Alguns preparos acontecem ao mesmo tempo, por isso os tempos não se somam.",
+  "passos": [
+    {
+      "titulo": "Cozinhe a massa",
+      "tempo": "10 min",
+      "texto": "Cozinhe o linguine em água com sal. Reserve uma xícara da água antes de escorrer."
+    },
+    {
+      "titulo": "Sele o camarão",
+      "tempo": "4 min",
+      "texto": "Seque bem o camarão e tempere com sal e pimenta. Em fogo alto, doure no azeite por 1 a 2 minutos de cada lado. Reserve."
+    },
+    {
+      "titulo": "Faça o molho",
+      "tempo": "5 min",
+      "texto": "Na mesma frigideira, doure o alho na manteiga em fogo baixo. Junte os tomates e meia xícara da água da massa."
+    },
+    {
+      "titulo": "Finalize",
+      "tempo": "3 min",
+      "texto": "Junte a massa, o camarão e o limão e misture por 1 minuto. Fora do fogo, acrescente a rúcula e a salsinha."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Camarão cozinha em minutos.",
+      "texto": "Assim que ficar rosado e curvo em forma de C, está pronto; passou disso, fica borrachudo."
+    },
+    {
+      "titulo": "Descongele na geladeira.",
+      "texto": "De um dia para o outro, numa peneira sobre uma tigela."
+    }
+  ]
+}

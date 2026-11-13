@@ -1,0 +1,72 @@
+{
+  "id": "fritada-legumes",
+  "titulo": "Fritada de legumes no forno",
+  "descricao": "Com arroz integral e salada de tomate.",
+  "refeicoes": [
+    "almoco",
+    "jantar"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "dia-normal",
+  "tempoTotalMin": 30,
+  "maoNaMassaMin": 15,
+  "rendimento": "1 pessoa",
+  "ingredientes": [
+    {
+      "grupo": "Fritada",
+      "itens": [
+        "3 ovos",
+        "1/2 abobrinha ralada e espremida",
+        "1/2 cenoura ralada",
+        "2 colheres (sopa) de cebola picada",
+        "2 colheres (sopa) de queijo ralado",
+        "1 colher (chá) de azeite",
+        "Sal, pimenta-do-reino e orégano"
+      ]
+    },
+    {
+      "grupo": "Acompanhamentos",
+      "itens": [
+        "1 xícara de arroz integral cozido",
+        "1 tomate em rodelas, com azeite e sal"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Mamão"
+      }
+    ],
+    "bebidas": "Suco natural de laranja ou água."
+  },
+  "passos": [
+    {
+      "titulo": "Misture",
+      "tempo": "5 min",
+      "texto": "Bata os ovos e misture os legumes, a cebola, o queijo e os temperos."
+    },
+    {
+      "titulo": "Asse",
+      "tempo": "18 min",
+      "texto": "Despeje numa forma pequena untada com o azeite. Asse a 200 °C por 18 minutos, ou na air fryer a 170 °C por 12 minutos, até firmar e dourar."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "3 min",
+      "texto": "Aqueça o arroz e sirva com a fritada e o tomate."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Esprema a abobrinha.",
+      "texto": "Ela solta muita água; sem espremer, a fritada fica mole."
+    },
+    {
+      "titulo": "Teste do palito.",
+      "texto": "Está pronta quando o palito sai limpo do centro."
+    }
+  ]
+}

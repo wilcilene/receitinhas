@@ -1,0 +1,78 @@
+{
+  "id": "frango-legumes-air-fryer",
+  "titulo": "Frango com legumes na air fryer",
+  "descricao": "Tudo no mesmo cesto, quase sem trabalho.",
+  "refeicoes": [
+    "almoco",
+    "jantar"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 30,
+  "maoNaMassaMin": 10,
+  "rendimento": "1 pessoa",
+  "ingredientes": [
+    {
+      "grupo": "Frango",
+      "itens": [
+        "2 sobrecoxas de frango desossadas (ou 1 filé de peito grande)",
+        "1 colher (chá) de páprica",
+        "1 dente de alho amassado",
+        "Suco de 1/2 limão",
+        "Sal e pimenta-do-reino"
+      ]
+    },
+    {
+      "grupo": "Legumes",
+      "itens": [
+        "1 batata média em cubos pequenos",
+        "1 cenoura em rodelas",
+        "1/2 abobrinha em meias-luas",
+        "1 colher (sopa) de azeite",
+        "Sal"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Fruta da estação"
+      }
+    ],
+    "bebidas": "Água, ou água com gás e limão."
+  },
+  "passos": [
+    {
+      "titulo": "Tempere",
+      "tempo": "5 min",
+      "texto": "Esfregue o frango com alho, páprica, limão, sal e pimenta. Misture os legumes com o azeite e o sal."
+    },
+    {
+      "titulo": "Comece pelos legumes duros",
+      "tempo": "8 min",
+      "texto": "Coloque a batata e a cenoura na air fryer a 200 °C por 8 minutos."
+    },
+    {
+      "titulo": "Junte o frango",
+      "tempo": "15 min",
+      "texto": "Acrescente o frango e a abobrinha. Asse por mais 15 minutos, virando o frango na metade do tempo."
+    },
+    {
+      "titulo": "Confira o ponto",
+      "tempo": "1 min",
+      "texto": "Corte a parte mais grossa do frango: a carne deve estar branca por inteiro e o caldo, transparente."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Não encha o cesto.",
+      "texto": "Com tudo amontoado, os alimentos cozinham no vapor e não douram."
+    },
+    {
+      "titulo": "Corte a batata pequena.",
+      "texto": "Cubos de 2 cm ficam prontos junto com o frango."
+    }
+  ]
+}

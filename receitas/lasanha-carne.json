@@ -1,0 +1,95 @@
+{
+  "id": "lasanha-carne",
+  "titulo": "Lasanha de carne",
+  "descricao": "Com molho branco e salada verde. Rende para receber ou congelar.",
+  "refeicoes": [
+    "almoco",
+    "jantar"
+  ],
+  "ocasioes": [
+    "visitas"
+  ],
+  "energia": "inspirada",
+  "tempoTotalMin": 90,
+  "maoNaMassaMin": 40,
+  "rendimento": "4 porções",
+  "ingredientes": [
+    {
+      "grupo": "Molho de carne",
+      "itens": [
+        "400 g de carne moída",
+        "1 cebola picada",
+        "2 dentes de alho picados",
+        "2 sachês de molho de tomate (680 g)",
+        "1 colher (sopa) de azeite",
+        "Sal, pimenta-do-reino e manjericão"
+      ]
+    },
+    {
+      "grupo": "Molho branco",
+      "itens": [
+        "2 colheres (sopa) de manteiga",
+        "2 colheres (sopa) de farinha de trigo",
+        "500 ml de leite",
+        "Sal e noz-moscada"
+      ]
+    },
+    {
+      "grupo": "Montagem",
+      "itens": [
+        "250 g de massa para lasanha (direto ao forno)",
+        "300 g de muçarela fatiada",
+        "50 g de queijo parmesão ralado",
+        "Folhas verdes para acompanhar"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Mousse de limão"
+      },
+      {
+        "titulo": "Salada de frutas"
+      }
+    ],
+    "bebidas": "Vinho tinto leve, suco de uva integral ou água com gás."
+  },
+  "passos": [
+    {
+      "titulo": "Molho de carne",
+      "tempo": "15 min",
+      "texto": "Doure a carne no azeite, junte a cebola e o alho e refogue. Acrescente o molho de tomate e meia xícara de água e cozinhe 10 minutos. O molho deve ficar mais líquido que o normal."
+    },
+    {
+      "titulo": "Molho branco",
+      "tempo": "8 min",
+      "texto": "Derreta a manteiga, misture a farinha por 1 minuto e junte o leite aos poucos, mexendo até engrossar. Tempere."
+    },
+    {
+      "titulo": "Monte",
+      "tempo": "10 min",
+      "texto": "Num refratário, alterne camadas: molho de carne, massa, molho branco e muçarela. Repita e termine com molho, muçarela e parmesão."
+    },
+    {
+      "titulo": "Asse",
+      "tempo": "40 min",
+      "texto": "Cubra com papel-alumínio e asse a 200 °C por 25 minutos. Descubra e asse mais 15, até dourar."
+    },
+    {
+      "titulo": "Descanse",
+      "tempo": "10 min",
+      "texto": "Espere 10 minutos antes de cortar, para as camadas firmarem."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Molho bem líquido.",
+      "texto": "A massa que vai direto ao forno cozinha com o líquido dos molhos; se faltar, fica dura."
+    },
+    {
+      "titulo": "Congele em porções.",
+      "texto": "Corte depois de fria e congele os pedaços separados, por até 3 meses."
+    }
+  ]
+}

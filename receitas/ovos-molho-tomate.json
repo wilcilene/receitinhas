@@ -1,0 +1,72 @@
+{
+  "id": "ovos-molho-tomate",
+  "titulo": "Ovos no molho de tomate",
+  "descricao": "Feitos na frigideira, para comer com pão integral.",
+  "refeicoes": [
+    "almoco",
+    "jantar"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 20,
+  "maoNaMassaMin": 10,
+  "rendimento": "1 pessoa",
+  "ingredientes": [
+    {
+      "grupo": "Prato",
+      "itens": [
+        "2 ovos",
+        "1 xícara de molho de tomate (ou 2 tomates maduros picados)",
+        "1/2 cebola picada",
+        "1/2 pimentão picado",
+        "1 dente de alho picado",
+        "1 colher (sopa) de azeite",
+        "1 pitada de cominho e de páprica",
+        "Sal, pimenta-do-reino e salsinha",
+        "2 fatias de pão integral"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Banana"
+      }
+    ],
+    "bebidas": "Suco natural de laranja ou água."
+  },
+  "passos": [
+    {
+      "titulo": "Refogue",
+      "tempo": "5 min",
+      "texto": "Refogue a cebola, o pimentão e o alho no azeite, até amaciarem."
+    },
+    {
+      "titulo": "Faça o molho",
+      "tempo": "6 min",
+      "texto": "Junte o molho de tomate, o cominho, a páprica e o sal. Cozinhe em fogo baixo por 5 minutos."
+    },
+    {
+      "titulo": "Cozinhe os ovos",
+      "tempo": "6 min",
+      "texto": "Abra duas covinhas no molho e quebre um ovo em cada. Tampe e cozinhe por 5 a 6 minutos, até a clara firmar."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "1 min",
+      "texto": "Finalize com salsinha e sirva na própria frigideira, com o pão."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Tampe a frigideira.",
+      "texto": "O vapor cozinha a parte de cima do ovo sem precisar virar."
+    },
+    {
+      "titulo": "Gema mole ou dura.",
+      "texto": "Com 5 minutos a gema fica mole; para firme, deixe 8."
+    }
+  ]
+}

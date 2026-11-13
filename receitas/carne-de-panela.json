@@ -1,0 +1,96 @@
+{
+  "id": "carne-de-panela",
+  "titulo": "Carne de panela com batata e cenoura",
+  "descricao": "Na panela de pressão, com arroz.",
+  "refeicoes": [
+    "almoco",
+    "jantar"
+  ],
+  "ocasioes": [
+    "dia-a-dia",
+    "visitas"
+  ],
+  "energia": "inspirada",
+  "tempoTotalMin": 70,
+  "maoNaMassaMin": 25,
+  "rendimento": "4 porções",
+  "ingredientes": [
+    {
+      "grupo": "Carne",
+      "itens": [
+        "600 g de acém ou músculo em cubos grandes",
+        "1 cebola picada",
+        "3 dentes de alho picados",
+        "2 tomates picados",
+        "1 colher (sopa) de extrato de tomate",
+        "2 xícaras de água quente",
+        "1 folha de louro",
+        "1 colher (sopa) de óleo",
+        "Sal e pimenta-do-reino"
+      ]
+    },
+    {
+      "grupo": "Legumes",
+      "itens": [
+        "2 batatas em pedaços grandes",
+        "2 cenouras em rodelas grossas",
+        "Salsinha"
+      ]
+    },
+    {
+      "grupo": "Arroz",
+      "itens": [
+        "1 e 1/2 xícara de arroz",
+        "3 xícaras de água fervente"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Pudim de leite"
+      },
+      {
+        "titulo": "Laranja"
+      }
+    ],
+    "bebidas": "Vinho tinto leve, suco de uva integral ou água com gás."
+  },
+  "passos": [
+    {
+      "titulo": "Sele a carne",
+      "tempo": "8 min",
+      "texto": "Seque a carne e tempere com sal e pimenta. Na panela de pressão, doure em duas levas no óleo bem quente."
+    },
+    {
+      "titulo": "Refogue",
+      "tempo": "4 min",
+      "texto": "Junte a cebola, o alho, os tomates e o extrato. Acrescente a água e o louro."
+    },
+    {
+      "titulo": "Pressão",
+      "tempo": "35 min",
+      "texto": "Feche a panela. Quando pegar pressão, abaixe o fogo e conte 35 minutos. Desligue e deixe a pressão sair sozinha."
+    },
+    {
+      "titulo": "Legumes",
+      "tempo": "10 min",
+      "texto": "Abra, junte a batata e a cenoura e cozinhe mais 8 a 10 minutos sem pressão, até ficarem macias. Faça o arroz enquanto isso."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "1 min",
+      "texto": "Acerte o sal, finalize com salsinha e sirva com o arroz."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Fogo baixo depois da pressão.",
+      "texto": "Fogo alto não cozinha mais rápido, só evapora o caldo e pode queimar o fundo."
+    },
+    {
+      "titulo": "Corte com colágeno.",
+      "texto": "Acém e músculo ficam macios no cozimento longo; cortes magros ficam secos."
+    }
+  ]
+}

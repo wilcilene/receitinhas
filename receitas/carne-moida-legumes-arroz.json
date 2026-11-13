@@ -1,0 +1,80 @@
+{
+  "id": "carne-moida-legumes-arroz",
+  "titulo": "Carne moída com legumes e arroz",
+  "descricao": "Refogado de uma panela, com legumes picados miúdos.",
+  "refeicoes": [
+    "almoco",
+    "jantar"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "dia-normal",
+  "tempoTotalMin": 30,
+  "maoNaMassaMin": 25,
+  "rendimento": "2 porções",
+  "ingredientes": [
+    {
+      "grupo": "Refogado",
+      "itens": [
+        "300 g de carne moída magra (patinho)",
+        "1/2 cebola picada",
+        "2 dentes de alho picados",
+        "1 cenoura em cubinhos",
+        "1/2 abobrinha em cubinhos",
+        "1 tomate picado",
+        "1 colher (sopa) de azeite",
+        "Sal, pimenta-do-reino e salsinha"
+      ]
+    },
+    {
+      "grupo": "Arroz",
+      "itens": [
+        "1 xícara de arroz",
+        "2 xícaras de água fervente",
+        "Sal"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Banana"
+      }
+    ],
+    "bebidas": "Água, ou água com gás e limão."
+  },
+  "notaPassos": "Alguns preparos acontecem ao mesmo tempo, por isso os tempos não se somam.",
+  "passos": [
+    {
+      "titulo": "Comece o arroz",
+      "tempo": "18 min",
+      "texto": "Refogue o arroz num fio de óleo, junte a água e o sal e cozinhe em fogo baixo até secar."
+    },
+    {
+      "titulo": "Doure a carne",
+      "tempo": "7 min",
+      "texto": "Em fogo alto, espalhe a carne no azeite quente e deixe dourar sem mexer por 2 minutos. Depois solte os grumos e tempere com sal e pimenta."
+    },
+    {
+      "titulo": "Junte os legumes",
+      "tempo": "10 min",
+      "texto": "Acrescente a cebola, o alho e a cenoura e refogue 4 minutos. Junte a abobrinha e o tomate e cozinhe mais 5 minutos."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "1 min",
+      "texto": "Finalize com salsinha e sirva com o arroz."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Não mexa a carne no início.",
+      "texto": "Mexendo sem parar ela solta água e cozinha em vez de dourar."
+    },
+    {
+      "titulo": "Rende recheio.",
+      "texto": "A segunda porção serve para rechear panqueca, tapioca ou batata."
+    }
+  ]
+}

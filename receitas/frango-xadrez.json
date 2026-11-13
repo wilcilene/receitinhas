@@ -1,0 +1,87 @@
+{
+  "id": "frango-xadrez",
+  "titulo": "Frango xadrez",
+  "descricao": "Com pimentão, amendoim e arroz.",
+  "refeicoes": [
+    "almoco",
+    "jantar"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "dia-normal",
+  "tempoTotalMin": 30,
+  "maoNaMassaMin": 25,
+  "rendimento": "2 porções",
+  "ingredientes": [
+    {
+      "grupo": "Frango",
+      "itens": [
+        "2 filés de peito de frango em cubos",
+        "1 colher (sopa) de shoyu",
+        "1 colher (chá) de amido de milho",
+        "1 colher (sopa) de óleo"
+      ]
+    },
+    {
+      "grupo": "Legumes e molho",
+      "itens": [
+        "1/2 pimentão verde e 1/2 vermelho em cubos",
+        "1/2 cebola em pétalas",
+        "1 dente de alho picado",
+        "2 colheres (sopa) de shoyu",
+        "1/2 xícara de água",
+        "1 colher (chá) de amido de milho",
+        "2 colheres (sopa) de amendoim torrado sem sal"
+      ]
+    },
+    {
+      "grupo": "Arroz",
+      "itens": [
+        "1 xícara de arroz",
+        "2 xícaras de água fervente"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Tangerina"
+      }
+    ],
+    "bebidas": "Chá gelado sem açúcar ou água."
+  },
+  "notaPassos": "Alguns preparos acontecem ao mesmo tempo, por isso os tempos não se somam.",
+  "passos": [
+    {
+      "titulo": "Comece o arroz",
+      "tempo": "18 min",
+      "texto": "Cozinhe o arroz com a água e uma pitada de sal, em fogo baixo, até secar."
+    },
+    {
+      "titulo": "Marine o frango",
+      "tempo": "5 min",
+      "texto": "Misture o frango com o shoyu e o amido e deixe descansar enquanto corta os legumes."
+    },
+    {
+      "titulo": "Doure",
+      "tempo": "6 min",
+      "texto": "Em fogo alto, doure o frango no óleo e reserve. Na mesma panela, salteie o alho, a cebola e os pimentões por 3 minutos."
+    },
+    {
+      "titulo": "Engrosse o molho",
+      "tempo": "3 min",
+      "texto": "Dissolva o amido na água com o shoyu, despeje na panela, volte o frango e mexa até o molho ficar brilhante. Junte o amendoim."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Legumes ainda crocantes.",
+      "texto": "Três minutos em fogo alto bastam; cozidos demais, perdem cor e textura."
+    },
+    {
+      "titulo": "Cuidado com o sal.",
+      "texto": "O shoyu já salga o prato inteiro."
+    }
+  ]
+}

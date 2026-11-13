@@ -1,0 +1,79 @@
+{
+  "id": "yakisoba-simples",
+  "titulo": "Yakisoba simples",
+  "descricao": "De frango com legumes, numa frigideira grande.",
+  "refeicoes": [
+    "almoco",
+    "jantar"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "dia-normal",
+  "tempoTotalMin": 30,
+  "maoNaMassaMin": 25,
+  "rendimento": "2 porções",
+  "ingredientes": [
+    {
+      "grupo": "Yakisoba",
+      "itens": [
+        "200 g de macarrão para yakisoba",
+        "1 filé de peito de frango em tiras",
+        "1 cenoura em rodelas finas",
+        "1 xícara de brócolis em floretes",
+        "2 folhas de repolho ou acelga em tiras",
+        "1/2 cebola em pétalas",
+        "1 colher (sopa) de óleo"
+      ]
+    },
+    {
+      "grupo": "Molho",
+      "itens": [
+        "3 colheres (sopa) de shoyu",
+        "1 xícara de água",
+        "1 colher (chá) de açúcar",
+        "1 colher (sopa) de amido de milho"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Abacaxi"
+      }
+    ],
+    "bebidas": "Chá gelado sem açúcar ou água."
+  },
+  "passos": [
+    {
+      "titulo": "Cozinhe o macarrão",
+      "tempo": "5 min",
+      "texto": "Cozinhe pelo tempo da embalagem, escorra e passe por água fria."
+    },
+    {
+      "titulo": "Doure o frango",
+      "tempo": "5 min",
+      "texto": "Em fogo alto, doure o frango no óleo com uma pitada de sal."
+    },
+    {
+      "titulo": "Salteie os legumes",
+      "tempo": "6 min",
+      "texto": "Junte a cenoura e o brócolis e mexa por 3 minutos. Acrescente a cebola e o repolho por mais 2 minutos."
+    },
+    {
+      "titulo": "Molho e finalização",
+      "tempo": "4 min",
+      "texto": "Misture os ingredientes do molho a frio, despeje na frigideira e mexa até engrossar. Junte o macarrão e envolva bem."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Corte tudo antes de ligar o fogo.",
+      "texto": "O preparo é rápido e não dá tempo de picar durante."
+    },
+    {
+      "titulo": "Dissolva o amido a frio.",
+      "texto": "Jogado direto no líquido quente, ele empelota."
+    }
+  ]
+}

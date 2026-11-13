@@ -1,0 +1,81 @@
+{
+  "id": "frango-curry-arroz",
+  "titulo": "Frango ao curry com arroz",
+  "descricao": "Com leite de coco e legumes.",
+  "refeicoes": [
+    "almoco",
+    "jantar"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "dia-normal",
+  "tempoTotalMin": 35,
+  "maoNaMassaMin": 25,
+  "rendimento": "2 porções",
+  "ingredientes": [
+    {
+      "grupo": "Curry",
+      "itens": [
+        "2 filés de peito de frango em cubos",
+        "1/2 cebola picada",
+        "2 dentes de alho picados",
+        "1 colher (sopa) de curry em pó",
+        "1 cenoura em rodelas finas",
+        "1 xícara de couve-flor ou brócolis em floretes",
+        "200 ml de leite de coco",
+        "1/2 xícara de água",
+        "1 colher (sopa) de azeite",
+        "Sal e coentro ou salsinha"
+      ]
+    },
+    {
+      "grupo": "Arroz",
+      "itens": [
+        "1 xícara de arroz",
+        "2 xícaras de água fervente"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Manga"
+      }
+    ],
+    "bebidas": "Chá gelado sem açúcar ou água."
+  },
+  "notaPassos": "Alguns preparos acontecem ao mesmo tempo, por isso os tempos não se somam.",
+  "passos": [
+    {
+      "titulo": "Comece o arroz",
+      "tempo": "18 min",
+      "texto": "Cozinhe o arroz com a água e uma pitada de sal, em fogo baixo."
+    },
+    {
+      "titulo": "Doure o frango",
+      "tempo": "6 min",
+      "texto": "Tempere o frango com sal e doure no azeite. Junte a cebola, o alho e o curry e mexa por 1 minuto."
+    },
+    {
+      "titulo": "Cozinhe",
+      "tempo": "15 min",
+      "texto": "Acrescente a cenoura, a couve-flor, o leite de coco e a água. Cozinhe em fogo baixo, semitampado, por 12 a 15 minutos."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "1 min",
+      "texto": "Acerte o sal, finalize com coentro e sirva com o arroz."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Toste o curry.",
+      "texto": "Um minuto no refogado, antes do líquido, solta o aroma do tempero."
+    },
+    {
+      "titulo": "Fogo baixo com leite de coco.",
+      "texto": "Em fervura forte ele pode separar."
+    }
+  ]
+}

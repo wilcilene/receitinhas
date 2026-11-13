@@ -1,0 +1,69 @@
+{
+  "id": "macarrao-alho-oleo-brocolis",
+  "titulo": "Macarrão alho e óleo com brócolis e ovo",
+  "descricao": "O brócolis cozinha junto com a massa, na mesma panela.",
+  "refeicoes": [
+    "almoco",
+    "jantar"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 20,
+  "maoNaMassaMin": 15,
+  "rendimento": "1 pessoa",
+  "ingredientes": [
+    {
+      "grupo": "Prato",
+      "itens": [
+        "100 g de espaguete integral",
+        "1 xícara de brócolis em floretes (fresco ou congelado)",
+        "3 dentes de alho fatiados",
+        "2 colheres (sopa) de azeite",
+        "2 ovos",
+        "Sal, pimenta-do-reino e queijo ralado"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Fruta da estação"
+      }
+    ],
+    "bebidas": "Água, ou água com gás e limão."
+  },
+  "passos": [
+    {
+      "titulo": "Cozinhe a massa",
+      "tempo": "10 min",
+      "texto": "Cozinhe o espaguete em água fervente com sal. Nos últimos 3 minutos, junte o brócolis à mesma panela."
+    },
+    {
+      "titulo": "Doure o alho",
+      "tempo": "3 min",
+      "texto": "Numa frigideira, aqueça o azeite em fogo baixo e doure o alho devagar, até ficar dourado-claro."
+    },
+    {
+      "titulo": "Misture",
+      "tempo": "2 min",
+      "texto": "Escorra a massa e o brócolis, reservando um pouco da água. Junte ao alho com duas colheres da água e misture."
+    },
+    {
+      "titulo": "Finalize com o ovo",
+      "tempo": "4 min",
+      "texto": "Frite ou cozinhe os ovos como preferir e sirva sobre a massa, com queijo ralado."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Alho em fogo baixo.",
+      "texto": "Alho queimado amarga o prato inteiro; tire do fogo assim que dourar."
+    },
+    {
+      "titulo": "Use a água da massa.",
+      "texto": "Ela liga o azeite e evita que o prato fique seco."
+    }
+  ]
+}

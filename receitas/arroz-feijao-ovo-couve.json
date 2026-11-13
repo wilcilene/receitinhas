@@ -1,0 +1,71 @@
+{
+  "id": "arroz-feijao-ovo-couve",
+  "titulo": "Arroz, feijão, ovo mexido e couve",
+  "descricao": "O prato feito mais rápido, com arroz e feijão já prontos.",
+  "refeicoes": [
+    "almoco",
+    "jantar"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 15,
+  "maoNaMassaMin": 15,
+  "rendimento": "1 pessoa",
+  "ingredientes": [
+    {
+      "grupo": "Prato",
+      "itens": [
+        "1 xícara de arroz cozido",
+        "1 concha de feijão cozido e temperado",
+        "2 ovos",
+        "3 folhas de couve em tiras finas",
+        "1 dente de alho picado",
+        "1 colher (sopa) de azeite",
+        "1/2 tomate em fatias",
+        "Sal e pimenta-do-reino"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Laranja"
+      }
+    ],
+    "bebidas": "Suco natural de laranja ou água."
+  },
+  "passos": [
+    {
+      "titulo": "Aqueça arroz e feijão",
+      "tempo": "5 min",
+      "texto": "Aqueça o feijão numa panelinha e o arroz no micro-ondas, com uma colher de água, por 1 a 2 minutos."
+    },
+    {
+      "titulo": "Refogue a couve",
+      "tempo": "2 min",
+      "texto": "Doure o alho em metade do azeite, junte a couve com uma pitada de sal e mexa por 1 minuto. Reserve."
+    },
+    {
+      "titulo": "Mexa os ovos",
+      "tempo": "3 min",
+      "texto": "Na mesma frigideira, aqueça o resto do azeite e mexa os ovos em fogo baixo, até ficarem cremosos."
+    },
+    {
+      "titulo": "Monte",
+      "tempo": "1 min",
+      "texto": "Sirva tudo junto, com o tomate ao lado."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Congele feijão em porções.",
+      "texto": "Cozinhe uma panela no fim de semana e congele em potes de uma concha."
+    },
+    {
+      "titulo": "Ovo mexido em fogo baixo.",
+      "texto": "Tire do fogo ainda úmido; ele termina de cozinhar no calor da frigideira."
+    }
+  ]
+}

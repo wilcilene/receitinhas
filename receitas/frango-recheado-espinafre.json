@@ -1,0 +1,86 @@
+{
+  "id": "frango-recheado-espinafre",
+  "titulo": "Filé de frango recheado com espinafre e queijo",
+  "descricao": "Com arroz e legumes salteados.",
+  "refeicoes": [
+    "almoco",
+    "jantar"
+  ],
+  "ocasioes": [
+    "dia-a-dia",
+    "especial"
+  ],
+  "energia": "inspirada",
+  "tempoTotalMin": 50,
+  "maoNaMassaMin": 30,
+  "rendimento": "2 porções",
+  "ingredientes": [
+    {
+      "grupo": "Frango",
+      "itens": [
+        "2 filés de peito de frango grandes",
+        "1 maço pequeno de espinafre (só as folhas)",
+        "1 dente de alho picado",
+        "4 fatias de muçarela",
+        "1 colher (sopa) de azeite",
+        "Sal, pimenta-do-reino e páprica",
+        "Palitos de dente"
+      ]
+    },
+    {
+      "grupo": "Acompanhamentos",
+      "itens": [
+        "1 xícara de arroz e 2 xícaras de água fervente",
+        "1 cenoura em palitos finos",
+        "1/2 abobrinha em meias-luas",
+        "Azeite e sal"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Pera"
+      }
+    ],
+    "bebidas": "Vinho branco seco, água com gás e limão ou suco de maracujá."
+  },
+  "notaPassos": "Alguns preparos acontecem ao mesmo tempo, por isso os tempos não se somam.",
+  "passos": [
+    {
+      "titulo": "Refogue o espinafre",
+      "tempo": "4 min",
+      "texto": "Murche o espinafre com o alho num fio de azeite. Esprema para tirar a água."
+    },
+    {
+      "titulo": "Recheie",
+      "tempo": "8 min",
+      "texto": "Abra cada filé em bolso com uma faca, pela lateral. Tempere, recheie com espinafre e queijo e feche com palitos."
+    },
+    {
+      "titulo": "Doure e asse",
+      "tempo": "25 min",
+      "texto": "Doure os filés no azeite por 2 minutos de cada lado. Passe para o forno a 200 °C por 18 a 20 minutos, ou para a air fryer a 180 °C por 15 minutos."
+    },
+    {
+      "titulo": "Acompanhamentos",
+      "tempo": "18 min",
+      "texto": "Enquanto isso, cozinhe o arroz e salteie a cenoura e a abobrinha por 5 minutos."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "2 min",
+      "texto": "Retire os palitos, fatie o frango na diagonal e sirva."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Esprema o espinafre.",
+      "texto": "Com água, o recheio escorre e o frango cozinha no vapor."
+    },
+    {
+      "titulo": "Conte os palitos.",
+      "texto": "Saiba quantos colocou para tirar todos antes de servir."
+    }
+  ]
+}

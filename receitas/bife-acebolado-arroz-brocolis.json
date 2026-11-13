@@ -1,0 +1,85 @@
+{
+  "id": "bife-acebolado-arroz-brocolis",
+  "titulo": "Bife acebolado com arroz de brócolis",
+  "descricao": "Com salada de tomate.",
+  "refeicoes": [
+    "almoco",
+    "jantar"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "dia-normal",
+  "tempoTotalMin": 30,
+  "maoNaMassaMin": 25,
+  "rendimento": "1 pessoa",
+  "ingredientes": [
+    {
+      "grupo": "Bife",
+      "itens": [
+        "1 bife de alcatra ou coxão mole (150 g)",
+        "1/2 cebola em rodelas",
+        "1 colher (sopa) de azeite",
+        "Sal e pimenta-do-reino"
+      ]
+    },
+    {
+      "grupo": "Arroz de brócolis",
+      "itens": [
+        "1/2 xícara de arroz",
+        "1 xícara de água fervente",
+        "1 xícara de brócolis picado miúdo",
+        "2 dentes de alho picados",
+        "1 colher (chá) de azeite",
+        "Sal"
+      ]
+    },
+    {
+      "grupo": "Salada",
+      "itens": [
+        "1 tomate em fatias, azeite e sal"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Banana"
+      }
+    ],
+    "bebidas": "Água, ou água com gás e limão."
+  },
+  "notaPassos": "Alguns preparos acontecem ao mesmo tempo, por isso os tempos não se somam.",
+  "passos": [
+    {
+      "titulo": "Faça o arroz",
+      "tempo": "18 min",
+      "texto": "Refogue o alho no azeite, junte o arroz e a água com sal. Quando faltarem 5 minutos, misture o brócolis e termine de cozinhar tampado."
+    },
+    {
+      "titulo": "Sele o bife",
+      "tempo": "5 min",
+      "texto": "Seque o bife e tempere com sal e pimenta. Em frigideira bem quente com metade do azeite, sele 2 minutos de cada lado. Reserve coberto."
+    },
+    {
+      "titulo": "Doure a cebola",
+      "tempo": "5 min",
+      "texto": "Na mesma frigideira, com o resto do azeite, doure a cebola em fogo médio. Se grudar, pingue uma colher de água."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "2 min",
+      "texto": "Cubra o bife com a cebola e sirva com o arroz e o tomate."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Bife fino, fogo alto.",
+      "texto": "Dois minutos de cada lado bastam; mais que isso, ele endurece."
+    },
+    {
+      "titulo": "Deixe o bife descansar.",
+      "texto": "Os minutos sob o papel-alumínio seguram o suco dentro da carne."
+    }
+  ]
+}

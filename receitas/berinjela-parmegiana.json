@@ -1,0 +1,86 @@
+{
+  "id": "berinjela-parmegiana",
+  "titulo": "Berinjela à parmegiana",
+  "descricao": "Vegetariana, com arroz e salada.",
+  "refeicoes": [
+    "almoco",
+    "jantar"
+  ],
+  "ocasioes": [
+    "dia-a-dia",
+    "visitas"
+  ],
+  "energia": "inspirada",
+  "tempoTotalMin": 60,
+  "maoNaMassaMin": 30,
+  "rendimento": "3 porções",
+  "ingredientes": [
+    {
+      "grupo": "Berinjela",
+      "itens": [
+        "2 berinjelas em rodelas de 1 cm",
+        "2 ovos batidos",
+        "1 xícara de farinha de rosca",
+        "2 colheres (sopa) de azeite",
+        "Sal"
+      ]
+    },
+    {
+      "grupo": "Montagem",
+      "itens": [
+        "1 sachê de molho de tomate (340 g)",
+        "200 g de muçarela fatiada",
+        "3 colheres (sopa) de parmesão ralado",
+        "Manjericão"
+      ]
+    },
+    {
+      "grupo": "Acompanhamentos",
+      "itens": [
+        "1 xícara de arroz e 2 xícaras de água fervente",
+        "Folhas verdes, azeite e limão"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Uvas"
+      }
+    ],
+    "bebidas": "Vinho tinto leve, suco de uva integral ou água com gás."
+  },
+  "notaPassos": "Alguns preparos acontecem ao mesmo tempo, por isso os tempos não se somam.",
+  "passos": [
+    {
+      "titulo": "Tire a água da berinjela",
+      "tempo": "15 min",
+      "texto": "Salpique sal nas rodelas e deixe numa peneira por 15 minutos. Seque com papel-toalha."
+    },
+    {
+      "titulo": "Empane",
+      "tempo": "8 min",
+      "texto": "Passe as rodelas no ovo e na farinha de rosca. Arrume numa assadeira e regue com o azeite."
+    },
+    {
+      "titulo": "Asse",
+      "tempo": "20 min",
+      "texto": "Asse a 200 °C por 20 minutos, virando na metade, ou em levas na air fryer a 190 °C por 10 minutos."
+    },
+    {
+      "titulo": "Monte e gratine",
+      "tempo": "15 min",
+      "texto": "Num refratário, alterne berinjela, molho e muçarela. Termine com parmesão e asse por 12 a 15 minutos. Faça o arroz enquanto isso."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Não pule o sal na berinjela.",
+      "texto": "Ele tira o amargor e a água, e a rodela fica firme."
+    },
+    {
+      "titulo": "Assada, não frita.",
+      "texto": "No forno ela absorve bem menos gordura do que na fritura."
+    }
+  ]
+}

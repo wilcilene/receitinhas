@@ -1,0 +1,78 @@
+{
+  "id": "cuscuz-ovo-queijo",
+  "titulo": "Cuscuz com ovo e queijo",
+  "descricao": "Com tomate e couve refogada para completar o prato.",
+  "refeicoes": [
+    "almoco",
+    "jantar"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 20,
+  "maoNaMassaMin": 15,
+  "rendimento": "1 pessoa",
+  "ingredientes": [
+    {
+      "grupo": "Cuscuz",
+      "itens": [
+        "1/2 xícara de flocão de milho",
+        "1/4 de xícara de água",
+        "1 pitada de sal"
+      ]
+    },
+    {
+      "grupo": "Acompanhamentos",
+      "itens": [
+        "2 ovos",
+        "50 g de queijo coalho ou minas em cubos",
+        "2 folhas de couve em tiras finas",
+        "1 dente de alho picado",
+        "1 colher (chá) de azeite",
+        "1/2 tomate em cubos"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Mamão"
+      }
+    ],
+    "bebidas": "Suco natural de laranja ou água."
+  },
+  "notaPassos": "Alguns preparos acontecem ao mesmo tempo, por isso os tempos não se somam.",
+  "passos": [
+    {
+      "titulo": "Hidrate o flocão",
+      "tempo": "5 min",
+      "texto": "Misture o flocão com a água e o sal e deixe descansar 5 minutos."
+    },
+    {
+      "titulo": "Cozinhe no vapor",
+      "tempo": "8 min",
+      "texto": "Leve à cuscuzeira por 8 minutos depois que a água ferver. Sem cuscuzeira, use uma peneira de metal sobre uma panela com água fervente, tampada."
+    },
+    {
+      "titulo": "Prepare os acompanhamentos",
+      "tempo": "6 min",
+      "texto": "Enquanto isso, refogue o alho no azeite e murche a couve por 1 minuto. Na mesma frigideira, mexa os ovos com o queijo até firmarem."
+    },
+    {
+      "titulo": "Monte",
+      "tempo": "1 min",
+      "texto": "Sirva o cuscuz com os ovos, a couve e o tomate."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Não aperte o flocão.",
+      "texto": "Coloque solto na cuscuzeira, para o vapor passar e o cuscuz ficar fofo."
+    },
+    {
+      "titulo": "Couve cozinha em 1 minuto.",
+      "texto": "Mais do que isso ela escurece e amarga."
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "peixe-pure-batata",
+  "titulo": "Peixe na frigideira com purê de batata",
+  "descricao": "Com vagem ou brócolis no vapor.",
+  "refeicoes": [
+    "almoco",
+    "jantar"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "dia-normal",
+  "tempoTotalMin": 35,
+  "maoNaMassaMin": 25,
+  "rendimento": "1 pessoa",
+  "ingredientes": [
+    {
+      "grupo": "Peixe",
+      "itens": [
+        "2 filés de tilápia ou pescada",
+        "Suco de 1/2 limão",
+        "1 colher (sopa) de farinha de trigo",
+        "1 colher (sopa) de azeite",
+        "Sal e pimenta-do-reino"
+      ]
+    },
+    {
+      "grupo": "Purê",
+      "itens": [
+        "2 batatas médias em pedaços",
+        "1 colher (sopa) de manteiga",
+        "3 colheres (sopa) de leite",
+        "Sal e noz-moscada"
+      ]
+    },
+    {
+      "grupo": "Vegetal",
+      "itens": [
+        "1 xícara de vagem ou brócolis",
+        "Sal e azeite"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Pera"
+      }
+    ],
+    "bebidas": "Vinho branco seco, água com gás e limão ou suco de maracujá."
+  },
+  "notaPassos": "Alguns preparos acontecem ao mesmo tempo, por isso os tempos não se somam.",
+  "passos": [
+    {
+      "titulo": "Cozinhe a batata",
+      "tempo": "15 min",
+      "texto": "Cubra a batata com água e sal e cozinhe até ficar bem macia. Nos últimos 4 minutos, cozinhe a vagem numa peneira sobre a panela, tampada."
+    },
+    {
+      "titulo": "Faça o purê",
+      "tempo": "4 min",
+      "texto": "Escorra a batata e amasse ainda quente com a manteiga, o leite, sal e noz-moscada."
+    },
+    {
+      "titulo": "Prepare o peixe",
+      "tempo": "3 min",
+      "texto": "Seque os filés, tempere com limão, sal e pimenta e passe levemente na farinha."
+    },
+    {
+      "titulo": "Frite",
+      "tempo": "7 min",
+      "texto": "Aqueça o azeite e doure os filés por 3 minutos de cada lado. Sirva com o purê e a vagem."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Vire o peixe uma vez só.",
+      "texto": "Espere soltar sozinho da frigideira; se forçar antes, o filé quebra."
+    },
+    {
+      "titulo": "Amasse a batata quente.",
+      "texto": "Fria, ela fica elástica e o purê sai pesado."
+    }
+  ]
+}

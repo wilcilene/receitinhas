@@ -1,0 +1,76 @@
+{
+  "id": "omelete-queijo-tomate",
+  "titulo": "Omelete de queijo e tomate",
+  "descricao": "Com salada verde e pão integral.",
+  "refeicoes": [
+    "almoco",
+    "jantar"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 15,
+  "maoNaMassaMin": 15,
+  "rendimento": "1 pessoa",
+  "ingredientes": [
+    {
+      "grupo": "Omelete",
+      "itens": [
+        "2 ovos",
+        "1/2 tomate em cubos",
+        "2 fatias de queijo muçarela",
+        "1 colher (chá) de azeite",
+        "Sal, pimenta-do-reino e orégano"
+      ]
+    },
+    {
+      "grupo": "Para servir",
+      "itens": [
+        "2 punhados de folhas verdes",
+        "1 colher (chá) de azeite e gotas de limão",
+        "2 fatias de pão integral"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Fruta da estação"
+      }
+    ],
+    "bebidas": "Suco natural de laranja ou água."
+  },
+  "passos": [
+    {
+      "titulo": "Bata os ovos",
+      "tempo": "2 min",
+      "texto": "Bata os ovos com um garfo, uma pitada de sal e pimenta, só até misturar."
+    },
+    {
+      "titulo": "Cozinhe a omelete",
+      "tempo": "5 min",
+      "texto": "Aqueça o azeite em frigideira antiaderente, em fogo médio. Despeje os ovos e deixe firmar sem mexer, por uns 2 minutos."
+    },
+    {
+      "titulo": "Recheie e dobre",
+      "tempo": "3 min",
+      "texto": "Espalhe o tomate, o queijo e o orégano em metade da omelete. Dobre, tampe e deixe 1 minuto, até o queijo derreter."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "3 min",
+      "texto": "Tempere as folhas com azeite, limão e sal. Sirva a omelete com a salada e o pão."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Fogo médio, não alto.",
+      "texto": "Em fogo alto o ovo doura demais por fora e fica borrachudo."
+    },
+    {
+      "titulo": "Tire as sementes do tomate.",
+      "texto": "Assim a omelete não solta água."
+    }
+  ]
+}

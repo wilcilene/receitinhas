@@ -1,0 +1,78 @@
+{
+  "id": "macarrao-frango-brocolis-molho-branco",
+  "titulo": "Macarrão com frango e brócolis ao molho branco",
+  "descricao": "Molho leve, feito com leite.",
+  "refeicoes": [
+    "almoco",
+    "jantar"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "dia-normal",
+  "tempoTotalMin": 30,
+  "maoNaMassaMin": 25,
+  "rendimento": "2 porções",
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "itens": [
+        "200 g de penne ou parafuso",
+        "2 xícaras de brócolis em floretes"
+      ]
+    },
+    {
+      "grupo": "Molho",
+      "itens": [
+        "1 filé de peito de frango em cubos",
+        "1 colher (sopa) de manteiga",
+        "1 colher (sopa) de farinha de trigo",
+        "1 e 1/2 xícara de leite",
+        "2 colheres (sopa) de queijo ralado",
+        "1 dente de alho picado",
+        "Sal, pimenta-do-reino e noz-moscada"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Pera"
+      }
+    ],
+    "bebidas": "Vinho branco seco, água com gás e limão ou suco de maracujá."
+  },
+  "notaPassos": "Alguns preparos acontecem ao mesmo tempo, por isso os tempos não se somam.",
+  "passos": [
+    {
+      "titulo": "Cozinhe a massa",
+      "tempo": "10 min",
+      "texto": "Cozinhe o macarrão em água com sal. Nos últimos 3 minutos, junte o brócolis."
+    },
+    {
+      "titulo": "Doure o frango",
+      "tempo": "6 min",
+      "texto": "Tempere o frango e doure na metade da manteiga com o alho. Reserve."
+    },
+    {
+      "titulo": "Faça o molho",
+      "tempo": "6 min",
+      "texto": "Na mesma panela, derreta o resto da manteiga, misture a farinha por 1 minuto e junte o leite aos poucos, mexendo, até engrossar. Tempere."
+    },
+    {
+      "titulo": "Misture",
+      "tempo": "2 min",
+      "texto": "Junte o frango, a massa, o brócolis e o queijo ao molho."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Leite aos poucos.",
+      "texto": "Despejando devagar e mexendo sempre, o molho não empelota."
+    },
+    {
+      "titulo": "Molho engrossou demais?",
+      "texto": "Solte com um pouco da água do cozimento da massa."
+    }
+  ]
+}

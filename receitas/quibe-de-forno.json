@@ -1,0 +1,79 @@
+{
+  "id": "quibe-de-forno",
+  "titulo": "Quibe de forno",
+  "descricao": "Com salada de pepino e coalhada.",
+  "refeicoes": [
+    "almoco",
+    "jantar"
+  ],
+  "ocasioes": [
+    "dia-a-dia",
+    "visitas"
+  ],
+  "energia": "inspirada",
+  "tempoTotalMin": 60,
+  "maoNaMassaMin": 25,
+  "rendimento": "4 porções",
+  "ingredientes": [
+    {
+      "grupo": "Quibe",
+      "itens": [
+        "1 xícara de trigo para quibe",
+        "400 g de carne moída (patinho)",
+        "1 cebola ralada",
+        "2 dentes de alho amassados",
+        "1/2 xícara de hortelã picada",
+        "2 colheres (sopa) de azeite",
+        "Sal, pimenta-do-reino e pimenta síria"
+      ]
+    },
+    {
+      "grupo": "Salada",
+      "itens": [
+        "2 pepinos em cubos",
+        "1 xícara de coalhada ou iogurte natural",
+        "Hortelã, azeite, limão e sal"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Laranja"
+      }
+    ],
+    "bebidas": "Chá gelado sem açúcar ou água."
+  },
+  "passos": [
+    {
+      "titulo": "Hidrate o trigo",
+      "tempo": "20 min",
+      "texto": "Cubra o trigo com água morna e deixe 20 minutos. Escorra e esprema bem com as mãos."
+    },
+    {
+      "titulo": "Misture",
+      "tempo": "8 min",
+      "texto": "Junte o trigo, a carne, a cebola, o alho, a hortelã e os temperos. Amasse até formar uma massa uniforme."
+    },
+    {
+      "titulo": "Asse",
+      "tempo": "30 min",
+      "texto": "Aperte a massa numa assadeira untada, risque em losangos e regue com azeite. Asse a 200 °C por 30 minutos, até dourar."
+    },
+    {
+      "titulo": "Salada",
+      "tempo": "5 min",
+      "texto": "Misture o pepino com a coalhada, hortelã, limão e sal."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Esprema bem o trigo.",
+      "texto": "Trigo encharcado deixa o quibe mole e sem ponto de corte."
+    },
+    {
+      "titulo": "Risque antes de assar.",
+      "texto": "Os cortes ajudam a assar por igual e facilitam servir."
+    }
+  ]
+}

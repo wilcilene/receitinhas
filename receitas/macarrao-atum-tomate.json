@@ -1,0 +1,72 @@
+{
+  "id": "macarrao-atum-tomate",
+  "titulo": "Macarrão com atum e tomate",
+  "descricao": "Molho rápido feito enquanto a massa cozinha.",
+  "refeicoes": [
+    "almoco",
+    "jantar"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 20,
+  "maoNaMassaMin": 15,
+  "rendimento": "1 pessoa",
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "itens": [
+        "100 g de macarrão integral (parafuso ou penne)",
+        "Água e sal para o cozimento"
+      ]
+    },
+    {
+      "grupo": "Molho",
+      "itens": [
+        "1 lata de atum, escorrido",
+        "1 tomate grande em cubos",
+        "1 dente de alho picado",
+        "1 colher (sopa) de azeite",
+        "1 punhado de espinafre ou rúcula",
+        "Sal, pimenta-do-reino e orégano"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Laranja em gomos"
+      }
+    ],
+    "bebidas": "Água, ou água com gás e limão."
+  },
+  "notaPassos": "Alguns preparos acontecem ao mesmo tempo, por isso os tempos não se somam.",
+  "passos": [
+    {
+      "titulo": "Cozinhe a massa",
+      "tempo": "10 min",
+      "texto": "Ferva a água, salgue e cozinhe o macarrão pelo tempo da embalagem. Reserve meia xícara da água antes de escorrer."
+    },
+    {
+      "titulo": "Faça o molho",
+      "tempo": "6 min",
+      "texto": "Enquanto isso, refogue o alho no azeite, junte o tomate e cozinhe por 4 minutos, até desmanchar um pouco. Acrescente o atum e o orégano."
+    },
+    {
+      "titulo": "Misture",
+      "tempo": "2 min",
+      "texto": "Junte a massa e as folhas ao molho e mexa até as folhas murcharem. Se ficar seco, use um pouco da água reservada."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Guarde a água do cozimento.",
+      "texto": "Ela ajuda o molho a envolver a massa."
+    },
+    {
+      "titulo": "Coloque as folhas no fim.",
+      "texto": "Elas murcham em segundos e mantêm a cor."
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "tilapia-batata-doce-air-fryer",
+  "titulo": "Tilápia com batata-doce na air fryer",
+  "descricao": "Com salada de tomate e pepino.",
+  "refeicoes": [
+    "almoco",
+    "jantar"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 30,
+  "maoNaMassaMin": 10,
+  "rendimento": "1 pessoa",
+  "ingredientes": [
+    {
+      "grupo": "Peixe",
+      "itens": [
+        "2 filés de tilápia descongelados",
+        "Suco de 1/2 limão",
+        "1 colher (chá) de azeite",
+        "Sal, pimenta-do-reino e páprica"
+      ]
+    },
+    {
+      "grupo": "Acompanhamentos",
+      "itens": [
+        "1 batata-doce pequena em palitos",
+        "1 colher (chá) de azeite",
+        "1 tomate em cubos",
+        "1/2 pepino em rodelas",
+        "Sal e limão para a salada"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Abacaxi em fatias"
+      }
+    ],
+    "bebidas": "Água, ou água com gás e limão."
+  },
+  "passos": [
+    {
+      "titulo": "Batata-doce primeiro",
+      "tempo": "12 min",
+      "texto": "Misture a batata-doce com o azeite e uma pitada de sal. Leve à air fryer a 200 °C por 12 minutos, chacoalhando na metade."
+    },
+    {
+      "titulo": "Tempere o peixe",
+      "tempo": "3 min",
+      "texto": "Seque os filés com papel-toalha e tempere com limão, sal, pimenta, páprica e azeite."
+    },
+    {
+      "titulo": "Asse o peixe",
+      "tempo": "8 min",
+      "texto": "Afaste a batata para o lado e coloque os filés. Asse por 8 a 10 minutos, até a carne ficar opaca e se soltar em lascas."
+    },
+    {
+      "titulo": "Monte a salada",
+      "tempo": "3 min",
+      "texto": "Tempere o tomate e o pepino com sal e limão e sirva com o peixe e a batata."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Seque bem o peixe.",
+      "texto": "Peixe úmido não doura e solta água no cesto."
+    },
+    {
+      "titulo": "Unte o cesto.",
+      "texto": "Um fio de azeite evita que o filé grude e quebre na hora de tirar."
+    }
+  ]
+}

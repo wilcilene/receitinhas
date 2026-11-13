@@ -1,0 +1,71 @@
+{
+  "id": "arroz-ovo-legumes",
+  "titulo": "Arroz com ovo frito e legumes salteados",
+  "descricao": "Um prato de uma frigideira só, com o arroz que já está pronto.",
+  "refeicoes": [
+    "almoco",
+    "jantar"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 20,
+  "maoNaMassaMin": 15,
+  "rendimento": "1 pessoa",
+  "ingredientes": [
+    {
+      "grupo": "Prato",
+      "itens": [
+        "1 xícara de arroz cozido (pode ser do dia anterior)",
+        "1 cenoura pequena ralada",
+        "1/2 abobrinha em cubos",
+        "1 dente de alho picado",
+        "1 colher (sopa) de azeite",
+        "1 colher (chá) de shoyu",
+        "2 ovos",
+        "Cebolinha picada, opcional"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Fruta da estação"
+      }
+    ],
+    "bebidas": "Água, ou água com gás e limão."
+  },
+  "passos": [
+    {
+      "titulo": "Salteie os legumes",
+      "tempo": "5 min",
+      "texto": "Aqueça metade do azeite e refogue o alho. Junte a abobrinha e a cenoura e mexa por 3 a 4 minutos, até ficarem macias, mas ainda firmes."
+    },
+    {
+      "titulo": "Junte o arroz",
+      "tempo": "3 min",
+      "texto": "Acrescente o arroz e o shoyu e misture até aquecer bem. Passe para o prato."
+    },
+    {
+      "titulo": "Frite os ovos",
+      "tempo": "4 min",
+      "texto": "Na mesma frigideira, aqueça o resto do azeite e frite os ovos em fogo médio, até a clara firmar."
+    },
+    {
+      "titulo": "Monte",
+      "tempo": "1 min",
+      "texto": "Coloque os ovos sobre o arroz e finalize com cebolinha."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Arroz frio solta melhor.",
+      "texto": "O arroz de geladeira fica soltinho na frigideira; o recém-feito tende a empapar."
+    },
+    {
+      "titulo": "Prove antes de salgar.",
+      "texto": "O shoyu já tempera o prato."
+    }
+  ]
+}

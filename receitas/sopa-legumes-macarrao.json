@@ -1,0 +1,73 @@
+{
+  "id": "sopa-legumes-macarrao",
+  "titulo": "Sopa de legumes com frango e macarrão",
+  "descricao": "Uma panela só; o fogo faz quase todo o trabalho.",
+  "refeicoes": [
+    "almoco",
+    "jantar"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 35,
+  "maoNaMassaMin": 10,
+  "rendimento": "2 porções",
+  "ingredientes": [
+    {
+      "grupo": "Sopa",
+      "itens": [
+        "1 filé de peito de frango em cubos pequenos",
+        "1 batata em cubos",
+        "1 cenoura em cubos",
+        "1/2 abobrinha em cubos",
+        "1/2 cebola picada",
+        "1 dente de alho picado",
+        "1 colher (sopa) de azeite",
+        "1 litro de água",
+        "1/2 xícara de macarrão para sopa",
+        "Sal, pimenta-do-reino e salsinha"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Maçã"
+      }
+    ],
+    "bebidas": "Água, ou água com gás e limão."
+  },
+  "passos": [
+    {
+      "titulo": "Refogue",
+      "tempo": "5 min",
+      "texto": "Na panela, refogue a cebola e o alho no azeite. Junte o frango e mexa até perder a cor rosada."
+    },
+    {
+      "titulo": "Cozinhe os legumes",
+      "tempo": "15 min",
+      "texto": "Acrescente a batata, a cenoura, a água e o sal. Depois de ferver, cozinhe em fogo médio por 15 minutos."
+    },
+    {
+      "titulo": "Junte o macarrão",
+      "tempo": "8 min",
+      "texto": "Coloque a abobrinha e o macarrão e cozinhe pelo tempo da embalagem."
+    },
+    {
+      "titulo": "Finalize",
+      "tempo": "1 min",
+      "texto": "Acerte o sal e a pimenta e finalize com salsinha."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Guarde a segunda porção.",
+      "texto": "Dura até 3 dias na geladeira. O macarrão absorve o caldo, então junte um pouco de água ao reaquecer."
+    },
+    {
+      "titulo": "Corte tudo do mesmo tamanho.",
+      "texto": "Assim os legumes ficam prontos ao mesmo tempo."
+    }
+  ]
+}

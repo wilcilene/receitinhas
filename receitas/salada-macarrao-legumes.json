@@ -1,0 +1,75 @@
+{
+  "id": "salada-macarrao-legumes",
+  "titulo": "Salada de macarrão com legumes e queijo",
+  "descricao": "Boa também fria, para levar de marmita.",
+  "refeicoes": [
+    "almoco",
+    "jantar"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 20,
+  "maoNaMassaMin": 15,
+  "rendimento": "1 pessoa",
+  "ingredientes": [
+    {
+      "grupo": "Salada",
+      "itens": [
+        "100 g de macarrão parafuso integral",
+        "1/2 cenoura ralada",
+        "1/2 pepino em cubos",
+        "6 tomates-cereja cortados ao meio",
+        "80 g de queijo minas em cubos",
+        "2 colheres (sopa) de milho",
+        "1 ovo cozido picado"
+      ]
+    },
+    {
+      "grupo": "Tempero",
+      "itens": [
+        "1 colher (sopa) de azeite",
+        "1 colher (sopa) de iogurte natural",
+        "Suco de 1/2 limão",
+        "Sal, pimenta-do-reino e salsinha"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Melancia"
+      }
+    ],
+    "bebidas": "Chá gelado sem açúcar ou água."
+  },
+  "notaPassos": "Alguns preparos acontecem ao mesmo tempo, por isso os tempos não se somam.",
+  "passos": [
+    {
+      "titulo": "Cozinhe a massa",
+      "tempo": "10 min",
+      "texto": "Cozinhe o macarrão em água com sal, escorra e passe por água fria para interromper o cozimento."
+    },
+    {
+      "titulo": "Corte os legumes",
+      "tempo": "5 min",
+      "texto": "Enquanto a massa cozinha, prepare a cenoura, o pepino, o tomate e o queijo."
+    },
+    {
+      "titulo": "Tempere",
+      "tempo": "2 min",
+      "texto": "Misture o azeite, o iogurte, o limão, sal e pimenta. Junte tudo e mexa bem."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Cozinhe o ovo junto.",
+      "texto": "Coloque o ovo na água da massa por 10 minutos e economize uma panela."
+    },
+    {
+      "titulo": "Tempere perto de comer.",
+      "texto": "Se for marmita, leve o tempero num potinho separado."
+    }
+  ]
+}

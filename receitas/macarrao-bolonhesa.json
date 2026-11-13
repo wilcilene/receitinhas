@@ -1,0 +1,79 @@
+{
+  "id": "macarrao-bolonhesa",
+  "titulo": "Macarrão à bolonhesa",
+  "descricao": "Com salada verde.",
+  "refeicoes": [
+    "almoco",
+    "jantar"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "dia-normal",
+  "tempoTotalMin": 35,
+  "maoNaMassaMin": 20,
+  "rendimento": "2 porções",
+  "ingredientes": [
+    {
+      "grupo": "Molho",
+      "itens": [
+        "250 g de carne moída",
+        "1/2 cebola picada",
+        "2 dentes de alho picados",
+        "1 cenoura pequena ralada",
+        "1 lata de tomate pelado ou 1 sachê de molho (340 g)",
+        "1 colher (sopa) de azeite",
+        "Sal, pimenta-do-reino e manjericão"
+      ]
+    },
+    {
+      "grupo": "Massa e salada",
+      "itens": [
+        "200 g de espaguete",
+        "Queijo ralado",
+        "Folhas verdes, azeite e limão"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Uvas"
+      }
+    ],
+    "bebidas": "Vinho tinto leve, suco de uva integral ou água com gás."
+  },
+  "notaPassos": "Alguns preparos acontecem ao mesmo tempo, por isso os tempos não se somam.",
+  "passos": [
+    {
+      "titulo": "Doure a carne",
+      "tempo": "6 min",
+      "texto": "Aqueça o azeite e doure a carne em fogo alto. Tempere com sal e pimenta."
+    },
+    {
+      "titulo": "Faça o molho",
+      "tempo": "20 min",
+      "texto": "Junte a cebola, o alho e a cenoura e refogue 3 minutos. Acrescente o tomate e meia xícara de água. Cozinhe em fogo baixo, semitampado, por 15 minutos."
+    },
+    {
+      "titulo": "Cozinhe a massa",
+      "tempo": "10 min",
+      "texto": "Enquanto o molho apura, cozinhe o espaguete em água fervente com sal."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "2 min",
+      "texto": "Misture a massa ao molho, finalize com manjericão e queijo e sirva com a salada."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Cenoura ralada no molho.",
+      "texto": "Ela corta a acidez do tomate e acrescenta um vegetal sem ninguém perceber."
+    },
+    {
+      "titulo": "Congele o molho.",
+      "texto": "Dobre a receita do molho e congele em porções para dias sem tempo."
+    }
+  ]
+}

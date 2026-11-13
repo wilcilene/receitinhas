@@ -1,0 +1,87 @@
+{
+  "id": "panqueca-carne-gratinada",
+  "titulo": "Panqueca de carne gratinada",
+  "descricao": "Com salada verde.",
+  "refeicoes": [
+    "almoco",
+    "jantar"
+  ],
+  "ocasioes": [
+    "dia-a-dia",
+    "visitas"
+  ],
+  "energia": "inspirada",
+  "tempoTotalMin": 60,
+  "maoNaMassaMin": 40,
+  "rendimento": "3 porções",
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "itens": [
+        "1 xícara de leite",
+        "1 xícara de farinha de trigo",
+        "2 ovos",
+        "1 pitada de sal",
+        "Óleo para untar"
+      ]
+    },
+    {
+      "grupo": "Recheio",
+      "itens": [
+        "300 g de carne moída",
+        "1/2 cebola picada",
+        "2 dentes de alho picados",
+        "1 tomate picado",
+        "Sal, pimenta-do-reino e salsinha"
+      ]
+    },
+    {
+      "grupo": "Cobertura",
+      "itens": [
+        "1 sachê de molho de tomate (340 g)",
+        "100 g de muçarela ralada",
+        "Folhas verdes para acompanhar"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Gelatina com frutas"
+      }
+    ],
+    "bebidas": "Suco natural de laranja ou água."
+  },
+  "passos": [
+    {
+      "titulo": "Bata a massa",
+      "tempo": "5 min",
+      "texto": "Bata o leite, a farinha, os ovos e o sal no liquidificador. Deixe descansar 10 minutos."
+    },
+    {
+      "titulo": "Faça o recheio",
+      "tempo": "12 min",
+      "texto": "Doure a carne, junte a cebola, o alho e o tomate e refogue até secar. Tempere."
+    },
+    {
+      "titulo": "Frite os discos",
+      "tempo": "15 min",
+      "texto": "Unte uma frigideira antiaderente e despeje meia concha de massa, girando para espalhar. Doure 1 minuto de cada lado. Rende cerca de 6 discos."
+    },
+    {
+      "titulo": "Monte e gratine",
+      "tempo": "20 min",
+      "texto": "Recheie e enrole. Arrume num refratário, cubra com o molho e a muçarela e leve ao forno a 200 °C por 15 minutos."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "A primeira panqueca é teste.",
+      "texto": "Ela ajusta a temperatura da frigideira; é normal sair torta."
+    },
+    {
+      "titulo": "Massa descansada.",
+      "texto": "Os 10 minutos de descanso deixam o disco mais flexível, sem rasgar."
+    }
+  ]
+}

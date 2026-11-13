@@ -1,0 +1,65 @@
+{
+  "id": "linguica-frango-legumes-air-fryer",
+  "titulo": "Linguiça de frango com legumes na air fryer",
+  "descricao": "Com arroz que já está pronto.",
+  "refeicoes": [
+    "almoco",
+    "jantar"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 25,
+  "maoNaMassaMin": 5,
+  "rendimento": "1 pessoa",
+  "ingredientes": [
+    {
+      "grupo": "Prato",
+      "itens": [
+        "2 linguiças de frango",
+        "1/2 pimentão em tiras",
+        "1/2 cebola em pétalas",
+        "1/2 abobrinha em meias-luas",
+        "1 colher (chá) de azeite",
+        "Sal e orégano",
+        "1 xícara de arroz cozido"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Fruta da estação"
+      }
+    ],
+    "bebidas": "Água, ou água com gás e limão."
+  },
+  "passos": [
+    {
+      "titulo": "Prepare",
+      "tempo": "4 min",
+      "texto": "Fure as linguiças com um garfo. Misture os legumes com o azeite, o sal e o orégano."
+    },
+    {
+      "titulo": "Asse",
+      "tempo": "18 min",
+      "texto": "Coloque tudo na air fryer a 190 °C por 18 a 20 minutos, virando na metade do tempo."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "2 min",
+      "texto": "Aqueça o arroz e sirva com a linguiça e os legumes."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Confira o centro da linguiça.",
+      "texto": "Corte uma ao meio: não deve haver parte rosada."
+    },
+    {
+      "titulo": "Prato para de vez em quando.",
+      "texto": "Linguiça é um embutido, com bastante sal; alterne com carnes frescas nos outros dias."
+    }
+  ]
+}

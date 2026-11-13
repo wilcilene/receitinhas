@@ -1,0 +1,81 @@
+{
+  "id": "picadinho-carne-legumes",
+  "titulo": "Picadinho de carne com legumes",
+  "descricao": "Com arroz e couve refogada.",
+  "refeicoes": [
+    "almoco",
+    "jantar"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "dia-normal",
+  "tempoTotalMin": 40,
+  "maoNaMassaMin": 25,
+  "rendimento": "2 porções",
+  "ingredientes": [
+    {
+      "grupo": "Picadinho",
+      "itens": [
+        "300 g de alcatra ou patinho em cubos pequenos",
+        "1/2 cebola picada",
+        "2 dentes de alho picados",
+        "1 tomate picado",
+        "1 batata em cubinhos",
+        "1 cenoura em cubinhos",
+        "1 xícara de água quente",
+        "1 colher (sopa) de azeite",
+        "Sal, pimenta-do-reino e salsinha"
+      ]
+    },
+    {
+      "grupo": "Acompanhamentos",
+      "itens": [
+        "1 xícara de arroz",
+        "2 xícaras de água fervente",
+        "4 folhas de couve em tiras, 1 dente de alho e azeite"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Laranja"
+      }
+    ],
+    "bebidas": "Água, ou água com gás e limão."
+  },
+  "notaPassos": "Alguns preparos acontecem ao mesmo tempo, por isso os tempos não se somam.",
+  "passos": [
+    {
+      "titulo": "Doure a carne",
+      "tempo": "6 min",
+      "texto": "Seque a carne, tempere com sal e pimenta e doure em fogo alto, em duas levas."
+    },
+    {
+      "titulo": "Refogue e cozinhe",
+      "tempo": "20 min",
+      "texto": "Junte a cebola, o alho e o tomate. Acrescente a batata, a cenoura e a água e cozinhe em fogo médio, semitampado, até os legumes ficarem macios."
+    },
+    {
+      "titulo": "Arroz e couve",
+      "tempo": "18 min",
+      "texto": "Enquanto isso, cozinhe o arroz. No final, refogue a couve com o alho por 1 minuto."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "1 min",
+      "texto": "Finalize o picadinho com salsinha e sirva com o arroz e a couve."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Doure em levas.",
+      "texto": "Com a panela cheia, a carne solta água e fica cinza em vez de dourada."
+    },
+    {
+      "titulo": "Cubos pequenos.",
+      "texto": "Com 1,5 cm, a carne fica macia nesse tempo curto de cozimento."
+    }
+  ]
+}

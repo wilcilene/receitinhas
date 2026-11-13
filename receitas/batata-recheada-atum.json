@@ -1,0 +1,76 @@
+{
+  "id": "batata-recheada-atum",
+  "titulo": "Batata recheada com atum e requeijão",
+  "descricao": "Batata cozida no micro-ondas, com salada de folhas.",
+  "refeicoes": [
+    "almoco",
+    "jantar"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 15,
+  "maoNaMassaMin": 10,
+  "rendimento": "1 pessoa",
+  "ingredientes": [
+    {
+      "grupo": "Batata",
+      "itens": [
+        "1 batata grande, lavada e com casca",
+        "1 lata de atum, escorrido",
+        "1 colher (sopa) de requeijão",
+        "1 colher (sopa) de milho ou ervilha",
+        "Cebolinha, sal e pimenta-do-reino"
+      ]
+    },
+    {
+      "grupo": "Salada",
+      "itens": [
+        "2 punhados de folhas verdes",
+        "1/2 cenoura ralada",
+        "Azeite, limão e sal"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Fruta da estação"
+      }
+    ],
+    "bebidas": "Água, ou água com gás e limão."
+  },
+  "passos": [
+    {
+      "titulo": "Cozinhe a batata",
+      "tempo": "8 min",
+      "texto": "Fure a batata várias vezes com um garfo. Leve ao micro-ondas em potência alta por 6 a 8 minutos, virando na metade, até ficar macia."
+    },
+    {
+      "titulo": "Misture o recheio",
+      "tempo": "3 min",
+      "texto": "Junte o atum, o requeijão, o milho, a cebolinha, sal e pimenta."
+    },
+    {
+      "titulo": "Recheie",
+      "tempo": "2 min",
+      "texto": "Corte a batata ao meio no sentido do comprimento, afofe a polpa com um garfo e cubra com o recheio."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "2 min",
+      "texto": "Tempere as folhas e a cenoura e sirva ao lado."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Fure a batata antes.",
+      "texto": "Sem os furos, o vapor fica preso e ela pode estourar no micro-ondas."
+    },
+    {
+      "titulo": "Cuidado ao abrir.",
+      "texto": "O vapor sai muito quente; espere 1 minuto antes de cortar."
+    }
+  ]
+}

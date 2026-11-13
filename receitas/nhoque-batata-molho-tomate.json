@@ -1,0 +1,92 @@
+{
+  "id": "nhoque-batata-molho-tomate",
+  "titulo": "Nhoque de batata ao molho de tomate",
+  "descricao": "Massa feita em casa, com salada.",
+  "refeicoes": [
+    "almoco",
+    "jantar"
+  ],
+  "ocasioes": [
+    "especial"
+  ],
+  "energia": "inspirada",
+  "tempoTotalMin": 70,
+  "maoNaMassaMin": 50,
+  "rendimento": "2 porções",
+  "ingredientes": [
+    {
+      "grupo": "Nhoque",
+      "itens": [
+        "500 g de batata (de preferência asterix, de casca rosada)",
+        "1 gema",
+        "1 xícara de farinha de trigo, aproximadamente",
+        "Sal e noz-moscada"
+      ]
+    },
+    {
+      "grupo": "Molho",
+      "itens": [
+        "1 lata de tomate pelado",
+        "2 dentes de alho fatiados",
+        "2 colheres (sopa) de azeite",
+        "Manjericão, sal e pimenta-do-reino",
+        "Parmesão ralado"
+      ]
+    },
+    {
+      "grupo": "Salada",
+      "itens": [
+        "Folhas verdes, azeite e limão"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Morangos com creme"
+      },
+      {
+        "titulo": "Pudim de leite"
+      }
+    ],
+    "bebidas": "Vinho tinto leve, suco de uva integral ou água com gás."
+  },
+  "notaPassos": "Alguns preparos acontecem ao mesmo tempo, por isso os tempos não se somam.",
+  "passos": [
+    {
+      "titulo": "Cozinhe a batata",
+      "tempo": "25 min",
+      "texto": "Cozinhe as batatas inteiras e com casca, até ficarem macias. Descasque e amasse ainda quentes. Deixe amornar."
+    },
+    {
+      "titulo": "Faça o molho",
+      "tempo": "15 min",
+      "texto": "Doure o alho no azeite, junte o tomate amassado, sal e pimenta e cozinhe 12 minutos em fogo baixo. Finalize com manjericão."
+    },
+    {
+      "titulo": "Faça a massa",
+      "tempo": "10 min",
+      "texto": "Misture a batata com a gema, sal e noz-moscada. Junte a farinha aos poucos, só até parar de grudar nas mãos."
+    },
+    {
+      "titulo": "Modele",
+      "tempo": "10 min",
+      "texto": "Faça rolinhos de 2 cm de espessura sobre a bancada enfarinhada e corte em pedaços."
+    },
+    {
+      "titulo": "Cozinhe",
+      "tempo": "5 min",
+      "texto": "Cozinhe em água fervente com sal, em levas. Quando subirem, espere 30 segundos, retire com escumadeira e passe para o molho."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Pouca farinha.",
+      "texto": "Farinha demais deixa o nhoque duro; a massa deve ficar macia e levemente pegajosa."
+    },
+    {
+      "titulo": "Batata com casca.",
+      "texto": "Cozida inteira, ela absorve menos água e pede menos farinha."
+    }
+  ]
+}

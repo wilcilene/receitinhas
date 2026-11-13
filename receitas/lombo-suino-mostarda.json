@@ -1,0 +1,93 @@
+{
+  "id": "lombo-suino-mostarda",
+  "titulo": "Filé-mignon suíno ao molho de mostarda",
+  "descricao": "Com batatas na air fryer e brócolis.",
+  "refeicoes": [
+    "almoco",
+    "jantar"
+  ],
+  "ocasioes": [
+    "especial"
+  ],
+  "energia": "inspirada",
+  "tempoTotalMin": 50,
+  "maoNaMassaMin": 30,
+  "rendimento": "2 porções",
+  "ingredientes": [
+    {
+      "grupo": "Carne",
+      "itens": [
+        "1 filé-mignon suíno (400 g)",
+        "Sal e pimenta-do-reino",
+        "1 colher (sopa) de azeite"
+      ]
+    },
+    {
+      "grupo": "Molho",
+      "itens": [
+        "1/2 cebola picada",
+        "1/2 xícara de caldo de legumes ou água",
+        "1 colher (sopa) de mostarda",
+        "1 colher (chá) de mel",
+        "3 colheres (sopa) de creme de leite"
+      ]
+    },
+    {
+      "grupo": "Acompanhamentos",
+      "itens": [
+        "3 batatas pequenas cortadas ao meio",
+        "1 colher (chá) de azeite e alecrim",
+        "2 xícaras de brócolis em floretes"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Maçã assada com canela"
+      },
+      {
+        "titulo": "Sorvete de creme"
+      }
+    ],
+    "bebidas": "Vinho tinto leve, suco de uva integral ou água com gás."
+  },
+  "notaPassos": "Alguns preparos acontecem ao mesmo tempo, por isso os tempos não se somam.",
+  "passos": [
+    {
+      "titulo": "Batatas",
+      "tempo": "25 min",
+      "texto": "Misture as batatas com azeite, sal e alecrim. Asse na air fryer a 200 °C por 22 a 25 minutos, chacoalhando na metade."
+    },
+    {
+      "titulo": "Sele a carne",
+      "tempo": "8 min",
+      "texto": "Seque e tempere a carne. Doure de todos os lados no azeite, em fogo alto."
+    },
+    {
+      "titulo": "Termine no forno",
+      "tempo": "18 min",
+      "texto": "Passe a carne para o forno a 200 °C por 15 a 18 minutos. Cubra com papel-alumínio e deixe descansar 5 minutos."
+    },
+    {
+      "titulo": "Faça o molho",
+      "tempo": "6 min",
+      "texto": "Na frigideira da carne, refogue a cebola, junte o caldo, a mostarda e o mel e reduza pela metade. Desligue e misture o creme de leite."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "4 min",
+      "texto": "Cozinhe o brócolis no vapor por 4 minutos. Fatie a carne e sirva com o molho."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Deixe descansar antes de fatiar.",
+      "texto": "Cortada na hora, a carne perde o suco na tábua."
+    },
+    {
+      "titulo": "Carne suína sem rosado.",
+      "texto": "O centro deve estar claro e o caldo, transparente."
+    }
+  ]
+}

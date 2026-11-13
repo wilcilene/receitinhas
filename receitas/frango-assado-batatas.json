@@ -1,0 +1,88 @@
+{
+  "id": "frango-assado-batatas",
+  "titulo": "Frango assado com batatas e legumes",
+  "descricao": "Uma assadeira só; o forno faz o trabalho.",
+  "refeicoes": [
+    "almoco",
+    "jantar"
+  ],
+  "ocasioes": [
+    "visitas"
+  ],
+  "energia": "inspirada",
+  "tempoTotalMin": 80,
+  "maoNaMassaMin": 20,
+  "rendimento": "4 porções",
+  "ingredientes": [
+    {
+      "grupo": "Frango",
+      "itens": [
+        "8 coxas e sobrecoxas de frango",
+        "4 dentes de alho amassados",
+        "Suco de 1 limão",
+        "1 colher (sopa) de páprica",
+        "2 colheres (sopa) de azeite",
+        "Sal, pimenta-do-reino e alecrim"
+      ]
+    },
+    {
+      "grupo": "Legumes",
+      "itens": [
+        "4 batatas em gomos",
+        "2 cenouras em pedaços",
+        "1 cebola em pétalas",
+        "1 colher (sopa) de azeite",
+        "Sal"
+      ]
+    },
+    {
+      "grupo": "Salada",
+      "itens": [
+        "Folhas verdes, tomate, azeite e limão"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Pudim de leite"
+      },
+      {
+        "titulo": "Salada de frutas"
+      }
+    ],
+    "bebidas": "Vinho branco seco, água com gás e limão ou suco de maracujá."
+  },
+  "passos": [
+    {
+      "titulo": "Tempere",
+      "tempo": "10 min",
+      "texto": "Esfregue o frango com alho, limão, páprica, azeite, sal e pimenta. Se der tempo, deixe 30 minutos na geladeira."
+    },
+    {
+      "titulo": "Monte a assadeira",
+      "tempo": "5 min",
+      "texto": "Espalhe os legumes com azeite e sal. Coloque o frango por cima, com a pele para cima, e o alecrim."
+    },
+    {
+      "titulo": "Asse",
+      "tempo": "60 min",
+      "texto": "Asse a 200 °C por 55 a 60 minutos, regando com o caldo da assadeira na metade do tempo, até a pele dourar."
+    },
+    {
+      "titulo": "Descanse e sirva",
+      "tempo": "5 min",
+      "texto": "Espere 5 minutos fora do forno e sirva com a salada."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Uma camada só.",
+      "texto": "Com as peças amontoadas, a pele não fica crocante."
+    },
+    {
+      "titulo": "Teste junto ao osso.",
+      "texto": "Fure a parte mais grossa: o caldo deve sair claro, sem rosado."
+    }
+  ]
+}

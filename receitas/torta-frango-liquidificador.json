@@ -1,0 +1,89 @@
+{
+  "id": "torta-frango-liquidificador",
+  "titulo": "Torta de frango de liquidificador",
+  "descricao": "Com salada. Sobra para o dia seguinte.",
+  "refeicoes": [
+    "almoco",
+    "jantar",
+    "lanche-da-tarde"
+  ],
+  "ocasioes": [
+    "visitas"
+  ],
+  "energia": "inspirada",
+  "tempoTotalMin": 70,
+  "maoNaMassaMin": 25,
+  "rendimento": "6 fatias",
+  "ingredientes": [
+    {
+      "grupo": "Recheio",
+      "itens": [
+        "2 filés de peito de frango cozidos e desfiados",
+        "1/2 cebola picada",
+        "1 tomate picado",
+        "1/2 xícara de milho",
+        "1/2 xícara de ervilha",
+        "2 colheres (sopa) de requeijão",
+        "Sal, pimenta-do-reino e salsinha"
+      ]
+    },
+    {
+      "grupo": "Massa",
+      "itens": [
+        "3 ovos",
+        "1 e 1/2 xícara de leite",
+        "1/2 xícara de óleo",
+        "2 xícaras de farinha de trigo",
+        "3 colheres (sopa) de queijo ralado",
+        "1 colher (sopa) de fermento em pó",
+        "1 colher (chá) de sal"
+      ]
+    },
+    {
+      "grupo": "Salada",
+      "itens": [
+        "Folhas verdes, tomate, azeite e limão"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Salada de frutas"
+      }
+    ],
+    "bebidas": "Suco natural de laranja ou água."
+  },
+  "passos": [
+    {
+      "titulo": "Cozinhe o frango",
+      "tempo": "20 min",
+      "texto": "Cozinhe o frango em água com sal por 20 minutos (ou 10 na pressão) e desfie."
+    },
+    {
+      "titulo": "Faça o recheio",
+      "tempo": "6 min",
+      "texto": "Refogue a cebola e o tomate, junte o frango, o milho, a ervilha e o requeijão. Tempere."
+    },
+    {
+      "titulo": "Bata a massa",
+      "tempo": "4 min",
+      "texto": "Bata no liquidificador os ovos, o leite, o óleo, o sal e o queijo. Junte a farinha e bata. Misture o fermento por último, com uma colher."
+    },
+    {
+      "titulo": "Monte e asse",
+      "tempo": "40 min",
+      "texto": "Numa forma untada, despeje metade da massa, o recheio e o resto da massa. Asse a 180 °C por 35 a 40 minutos, até dourar."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Recheio frio e sequinho.",
+      "texto": "Recheio quente ou com caldo afunda na massa crua."
+    },
+    {
+      "titulo": "Fermento por último.",
+      "texto": "Misturado à mão no fim, ele faz a torta crescer melhor."
+    }
+  ]
+}

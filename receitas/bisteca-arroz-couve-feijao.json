@@ -1,0 +1,79 @@
+{
+  "id": "bisteca-arroz-couve-feijao",
+  "titulo": "Bisteca suína com arroz, feijão e couve",
+  "descricao": "Com laranja para acompanhar.",
+  "refeicoes": [
+    "almoco",
+    "jantar"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "dia-normal",
+  "tempoTotalMin": 30,
+  "maoNaMassaMin": 25,
+  "rendimento": "1 pessoa",
+  "ingredientes": [
+    {
+      "grupo": "Bisteca",
+      "itens": [
+        "1 bisteca suína",
+        "1 dente de alho amassado",
+        "Suco de 1/2 limão",
+        "Sal e pimenta-do-reino",
+        "1 colher (chá) de azeite"
+      ]
+    },
+    {
+      "grupo": "Acompanhamentos",
+      "itens": [
+        "1/2 xícara de arroz e 1 xícara de água fervente",
+        "1 concha de feijão cozido",
+        "3 folhas de couve em tiras finas",
+        "1 dente de alho picado e azeite",
+        "1/2 laranja em gomos"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Laranja"
+      }
+    ],
+    "bebidas": "Água, ou água com gás e limão."
+  },
+  "notaPassos": "Alguns preparos acontecem ao mesmo tempo, por isso os tempos não se somam.",
+  "passos": [
+    {
+      "titulo": "Tempere",
+      "tempo": "3 min",
+      "texto": "Tempere a bisteca com alho, limão, sal e pimenta. Faça dois cortes na borda de gordura, para ela não enrolar."
+    },
+    {
+      "titulo": "Faça o arroz",
+      "tempo": "18 min",
+      "texto": "Cozinhe o arroz com a água e o sal, em fogo baixo."
+    },
+    {
+      "titulo": "Grelhe a bisteca",
+      "tempo": "10 min",
+      "texto": "Em frigideira quente com o azeite, grelhe 4 a 5 minutos de cada lado, até dourar e cozinhar por inteiro."
+    },
+    {
+      "titulo": "Couve e montagem",
+      "tempo": "3 min",
+      "texto": "Refogue a couve com o alho por 1 minuto. Aqueça o feijão e sirva tudo com a laranja."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Carne de porco bem passada.",
+      "texto": "O centro não deve ficar rosado; o caldo que sai ao cortar deve ser claro."
+    },
+    {
+      "titulo": "Cortes na gordura.",
+      "texto": "Sem eles, a bisteca se curva e doura só nas bordas."
+    }
+  ]
+}

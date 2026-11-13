@@ -1,0 +1,77 @@
+{
+  "id": "salmao-air-fryer-salada",
+  "titulo": "Salmão na air fryer com salada e batata",
+  "descricao": "Pronto em 20 minutos, com 5 de trabalho.",
+  "refeicoes": [
+    "almoco",
+    "jantar"
+  ],
+  "ocasioes": [
+    "dia-a-dia",
+    "especial"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 20,
+  "maoNaMassaMin": 5,
+  "rendimento": "1 pessoa",
+  "ingredientes": [
+    {
+      "grupo": "Salmão",
+      "itens": [
+        "1 posta ou filé de salmão (150 g)",
+        "Suco de 1/2 limão",
+        "Sal e pimenta-do-reino"
+      ]
+    },
+    {
+      "grupo": "Acompanhamentos",
+      "itens": [
+        "1 batata pequena em rodelas finas",
+        "1 colher (chá) de azeite",
+        "2 punhados de rúcula ou alface",
+        "6 tomates-cereja",
+        "Azeite, limão e sal para a salada"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Morangos"
+      }
+    ],
+    "bebidas": "Vinho branco seco, água com gás e limão ou suco de maracujá."
+  },
+  "passos": [
+    {
+      "titulo": "Batata primeiro",
+      "tempo": "8 min",
+      "texto": "Misture a batata com o azeite e o sal e leve à air fryer a 200 °C por 8 minutos."
+    },
+    {
+      "titulo": "Tempere o salmão",
+      "tempo": "2 min",
+      "texto": "Seque o salmão e tempere com limão, sal e pimenta."
+    },
+    {
+      "titulo": "Asse o salmão",
+      "tempo": "9 min",
+      "texto": "Coloque o salmão com a pele para baixo, ao lado da batata. Asse por 8 a 10 minutos."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "2 min",
+      "texto": "Tempere a rúcula e os tomates e sirva com o salmão e a batata."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Não passe do ponto.",
+      "texto": "O salmão está pronto quando se separa em lascas e o centro ainda está levemente rosado."
+    },
+    {
+      "titulo": "Rodelas finas.",
+      "texto": "Com meio centímetro, a batata fica pronta junto com o peixe."
+    }
+  ]
+}

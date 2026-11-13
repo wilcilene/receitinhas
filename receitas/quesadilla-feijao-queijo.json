@@ -1,0 +1,76 @@
+{
+  "id": "quesadilla-feijao-queijo",
+  "titulo": "Quesadilla de feijão e queijo",
+  "descricao": "Com salada de tomate e abacate.",
+  "refeicoes": [
+    "almoco",
+    "jantar"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 15,
+  "maoNaMassaMin": 15,
+  "rendimento": "1 pessoa",
+  "ingredientes": [
+    {
+      "grupo": "Quesadilla",
+      "itens": [
+        "2 tortilhas de trigo",
+        "1/2 xícara de feijão cozido, escorrido e amassado",
+        "4 fatias de queijo muçarela",
+        "1 pitada de cominho ou páprica"
+      ]
+    },
+    {
+      "grupo": "Salada",
+      "itens": [
+        "1 tomate em cubos",
+        "1/2 abacate pequeno em cubos",
+        "Coentro ou salsinha",
+        "Suco de 1/2 limão e sal"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Manga em cubos"
+      }
+    ],
+    "bebidas": "Chá gelado sem açúcar ou água."
+  },
+  "passos": [
+    {
+      "titulo": "Monte",
+      "tempo": "3 min",
+      "texto": "Espalhe o feijão amassado sobre uma tortilha, tempere com cominho, cubra com o queijo e feche com a outra tortilha."
+    },
+    {
+      "titulo": "Doure",
+      "tempo": "6 min",
+      "texto": "Leve a uma frigideira seca em fogo médio, por 3 minutos de cada lado, até dourar e o queijo derreter."
+    },
+    {
+      "titulo": "Faça a salada",
+      "tempo": "4 min",
+      "texto": "Misture o tomate, o abacate, o coentro, o limão e o sal."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "1 min",
+      "texto": "Corte a quesadilla em quatro e sirva com a salada."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Use um prato para virar.",
+      "texto": "Deslize a quesadilla para um prato e devolva à frigideira com o outro lado para baixo."
+    },
+    {
+      "titulo": "Escorra bem o feijão.",
+      "texto": "Com caldo, a tortilha amolece em vez de ficar crocante."
+    }
+  ]
+}

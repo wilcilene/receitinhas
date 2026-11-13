@@ -1,0 +1,88 @@
+{
+  "id": "salmao-molho-maracuja",
+  "titulo": "Salmão ao molho de maracujá",
+  "descricao": "Com purê de batata e vagem.",
+  "refeicoes": [
+    "almoco",
+    "jantar"
+  ],
+  "ocasioes": [
+    "especial"
+  ],
+  "energia": "inspirada",
+  "tempoTotalMin": 40,
+  "maoNaMassaMin": 30,
+  "rendimento": "2 porções",
+  "ingredientes": [
+    {
+      "grupo": "Salmão",
+      "itens": [
+        "2 filés de salmão (150 g cada)",
+        "Sal e pimenta-do-reino",
+        "1 colher (sopa) de azeite"
+      ]
+    },
+    {
+      "grupo": "Molho",
+      "itens": [
+        "Polpa de 1 maracujá",
+        "1/2 xícara de água",
+        "1 colher (sopa) de mel ou açúcar",
+        "1 colher (chá) de amido de milho dissolvido em 1 colher de água"
+      ]
+    },
+    {
+      "grupo": "Acompanhamentos",
+      "itens": [
+        "3 batatas em pedaços",
+        "1 colher (sopa) de manteiga e 1/4 de xícara de leite",
+        "200 g de vagem",
+        "Sal"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Mousse de chocolate"
+      },
+      {
+        "titulo": "Morangos"
+      }
+    ],
+    "bebidas": "Vinho branco seco, água com gás e limão ou suco de maracujá."
+  },
+  "notaPassos": "Alguns preparos acontecem ao mesmo tempo, por isso os tempos não se somam.",
+  "passos": [
+    {
+      "titulo": "Purê e vagem",
+      "tempo": "20 min",
+      "texto": "Cozinhe as batatas em água com sal. Nos últimos 5 minutos, cozinhe a vagem junto. Amasse as batatas com a manteiga e o leite."
+    },
+    {
+      "titulo": "Faça o molho",
+      "tempo": "6 min",
+      "texto": "Ferva a polpa de maracujá com a água e o mel por 3 minutos. Junte o amido dissolvido e mexa até engrossar levemente."
+    },
+    {
+      "titulo": "Grelhe o salmão",
+      "tempo": "8 min",
+      "texto": "Seque e tempere o salmão. Em frigideira quente com o azeite, grelhe 4 minutos com a pele para baixo e 2 a 3 minutos do outro lado."
+    },
+    {
+      "titulo": "Monte",
+      "tempo": "2 min",
+      "texto": "Sirva o salmão sobre o purê, com a vagem e o molho por cima."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Comece pela pele.",
+      "texto": "Ela protege a carne e fica crocante; só vire quando soltar da frigideira."
+    },
+    {
+      "titulo": "Prove o molho.",
+      "texto": "O maracujá varia de acidez; acerte com mais mel se precisar."
+    }
+  ]
+}

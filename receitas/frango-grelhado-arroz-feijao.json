@@ -1,0 +1,89 @@
+{
+  "id": "frango-grelhado-arroz-feijao",
+  "titulo": "Frango grelhado com arroz, feijão e salada",
+  "descricao": "O prato feito clássico, com arroz fresco.",
+  "refeicoes": [
+    "almoco",
+    "jantar"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "dia-normal",
+  "tempoTotalMin": 30,
+  "maoNaMassaMin": 25,
+  "rendimento": "1 pessoa",
+  "ingredientes": [
+    {
+      "grupo": "Frango",
+      "itens": [
+        "1 filé de peito de frango aberto ao meio",
+        "1 dente de alho amassado",
+        "Suco de 1/2 limão",
+        "Sal e pimenta-do-reino",
+        "1 colher (chá) de azeite"
+      ]
+    },
+    {
+      "grupo": "Arroz",
+      "itens": [
+        "1/2 xícara de arroz",
+        "1 xícara de água fervente",
+        "1 dente de alho picado",
+        "1 colher (chá) de óleo",
+        "1 pitada de sal"
+      ]
+    },
+    {
+      "grupo": "Para completar",
+      "itens": [
+        "1 concha de feijão cozido",
+        "Folhas de alface",
+        "1/2 tomate em fatias",
+        "1/2 cenoura ralada",
+        "Azeite, limão e sal"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Laranja"
+      }
+    ],
+    "bebidas": "Suco natural de laranja ou água."
+  },
+  "notaPassos": "Alguns preparos acontecem ao mesmo tempo, por isso os tempos não se somam.",
+  "passos": [
+    {
+      "titulo": "Tempere o frango",
+      "tempo": "3 min",
+      "texto": "Tempere o frango com alho, limão, sal e pimenta e deixe descansar enquanto faz o arroz."
+    },
+    {
+      "titulo": "Faça o arroz",
+      "tempo": "18 min",
+      "texto": "Refogue o alho no óleo, junte o arroz e mexa 1 minuto. Acrescente a água e o sal. Depois de ferver, abaixe o fogo, tampe parcialmente e cozinhe até secar."
+    },
+    {
+      "titulo": "Grelhe o frango",
+      "tempo": "10 min",
+      "texto": "Aqueça bem a frigideira com o azeite. Grelhe o frango por 4 a 5 minutos de cada lado, sem mexer, até dourar e cozinhar por inteiro."
+    },
+    {
+      "titulo": "Monte",
+      "tempo": "4 min",
+      "texto": "Aqueça o feijão, tempere a salada e sirva tudo junto."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Abra o filé ao meio.",
+      "texto": "Filé fino cozinha por igual e não resseca por fora."
+    },
+    {
+      "titulo": "Espere a frigideira esquentar.",
+      "texto": "O frango deve chiar ao encostar; assim doura em vez de soltar água."
+    }
+  ]
+}

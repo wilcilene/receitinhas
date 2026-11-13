@@ -1,0 +1,81 @@
+{
+  "id": "baiao-de-dois",
+  "titulo": "Baião de dois com queijo coalho",
+  "descricao": "Arroz, feijão e queijo na mesma panela, com vinagrete.",
+  "refeicoes": [
+    "almoco",
+    "jantar"
+  ],
+  "ocasioes": [
+    "dia-a-dia",
+    "visitas"
+  ],
+  "energia": "inspirada",
+  "tempoTotalMin": 50,
+  "maoNaMassaMin": 30,
+  "rendimento": "3 porções",
+  "ingredientes": [
+    {
+      "grupo": "Baião",
+      "itens": [
+        "2 xícaras de feijão-fradinho ou feijão-de-corda cozido, com um pouco do caldo",
+        "1 xícara de arroz",
+        "2 xícaras de água quente (contando o caldo do feijão)",
+        "100 g de bacon ou carne-seca dessalgada em cubinhos",
+        "1 cebola picada",
+        "2 dentes de alho picados",
+        "150 g de queijo coalho em cubos",
+        "Coentro e cebolinha",
+        "Sal e pimenta-do-reino"
+      ]
+    },
+    {
+      "grupo": "Vinagrete",
+      "itens": [
+        "2 tomates em cubinhos",
+        "1/2 cebola picada",
+        "Coentro, azeite, vinagre e sal"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Abacaxi"
+      }
+    ],
+    "bebidas": "Suco natural de laranja ou água."
+  },
+  "passos": [
+    {
+      "titulo": "Doure o bacon",
+      "tempo": "6 min",
+      "texto": "Numa panela larga, frite o bacon na própria gordura. Junte a cebola e o alho."
+    },
+    {
+      "titulo": "Cozinhe o arroz",
+      "tempo": "20 min",
+      "texto": "Acrescente o arroz, mexa e despeje a água com o caldo do feijão. Cozinhe em fogo baixo, semitampado, por 15 minutos."
+    },
+    {
+      "titulo": "Junte o feijão",
+      "tempo": "6 min",
+      "texto": "Quando o arroz estiver quase seco, misture o feijão e cozinhe mais 5 minutos."
+    },
+    {
+      "titulo": "Queijo e ervas",
+      "tempo": "4 min",
+      "texto": "Doure o queijo numa frigideira e misture ao baião com o coentro e a cebolinha. Sirva com o vinagrete."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Prove antes de salgar.",
+      "texto": "O bacon ou a carne-seca e o queijo já são salgados."
+    },
+    {
+      "titulo": "Feijão cozido de antemão.",
+      "texto": "Vale usar o feijão-fradinho de caixinha para ganhar tempo."
+    }
+  ]
+}

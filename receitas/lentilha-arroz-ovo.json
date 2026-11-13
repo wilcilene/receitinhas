@@ -1,0 +1,81 @@
+{
+  "id": "lentilha-arroz-ovo",
+  "titulo": "Lentilha com arroz e ovo cozido",
+  "descricao": "Prato vegetariano, com salada de cenoura.",
+  "refeicoes": [
+    "almoco",
+    "jantar"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "dia-normal",
+  "tempoTotalMin": 40,
+  "maoNaMassaMin": 15,
+  "rendimento": "2 porções",
+  "ingredientes": [
+    {
+      "grupo": "Lentilha",
+      "itens": [
+        "1 xícara de lentilha",
+        "3 xícaras de água",
+        "1/2 cebola picada",
+        "2 dentes de alho picados",
+        "1 tomate picado",
+        "1 folha de louro",
+        "1 colher (sopa) de azeite",
+        "Sal, pimenta-do-reino e cominho"
+      ]
+    },
+    {
+      "grupo": "Acompanhamentos",
+      "itens": [
+        "1 xícara de arroz",
+        "2 xícaras de água fervente",
+        "2 ovos",
+        "1 cenoura ralada com limão e sal"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Laranja"
+      }
+    ],
+    "bebidas": "Suco natural de laranja ou água."
+  },
+  "notaPassos": "Alguns preparos acontecem ao mesmo tempo, por isso os tempos não se somam.",
+  "passos": [
+    {
+      "titulo": "Refogue",
+      "tempo": "4 min",
+      "texto": "Refogue a cebola e o alho no azeite, junte o tomate e o cominho."
+    },
+    {
+      "titulo": "Cozinhe a lentilha",
+      "tempo": "25 min",
+      "texto": "Acrescente a lentilha, a água e o louro. Cozinhe em fogo médio, semitampado, por 20 a 25 minutos, até ficar macia. Salgue só no final."
+    },
+    {
+      "titulo": "Arroz e ovos",
+      "tempo": "18 min",
+      "texto": "Enquanto isso, cozinhe o arroz. Cozinhe os ovos por 10 minutos em água fervente e descasque."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "2 min",
+      "texto": "Sirva a lentilha sobre o arroz, com o ovo cortado ao meio e a cenoura."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Lentilha não precisa de molho.",
+      "texto": "Ela cozinha direto, sem deixar de véspera e sem panela de pressão."
+    },
+    {
+      "titulo": "Sal no final.",
+      "texto": "Salgada no começo, a casca demora mais para amaciar."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "strogonoff-frango",
+  "titulo": "Strogonoff de frango",
+  "descricao": "Com arroz branco e salada de folhas.",
+  "refeicoes": [
+    "almoco",
+    "jantar"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "dia-normal",
+  "tempoTotalMin": 30,
+  "maoNaMassaMin": 25,
+  "rendimento": "2 porções",
+  "ingredientes": [
+    {
+      "grupo": "Strogonoff",
+      "itens": [
+        "2 filés de peito de frango em cubos",
+        "1/2 cebola picada",
+        "1 dente de alho picado",
+        "100 g de champignon fatiado",
+        "2 colheres (sopa) de molho ou extrato de tomate",
+        "1 colher (chá) de mostarda",
+        "1 caixinha de creme de leite (200 g)",
+        "1 colher (sopa) de azeite",
+        "Sal e pimenta-do-reino"
+      ]
+    },
+    {
+      "grupo": "Acompanhamentos",
+      "itens": [
+        "1 xícara de arroz",
+        "2 xícaras de água fervente",
+        "Folhas verdes, azeite e limão"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Abacaxi"
+      }
+    ],
+    "bebidas": "Suco natural de laranja ou água."
+  },
+  "notaPassos": "Alguns preparos acontecem ao mesmo tempo, por isso os tempos não se somam.",
+  "passos": [
+    {
+      "titulo": "Comece o arroz",
+      "tempo": "18 min",
+      "texto": "Refogue o arroz num fio de óleo, junte a água e o sal e cozinhe em fogo baixo, parcialmente tampado, até secar."
+    },
+    {
+      "titulo": "Doure o frango",
+      "tempo": "7 min",
+      "texto": "Tempere o frango com sal e pimenta. Doure no azeite em fogo alto, em uma camada só, e reserve."
+    },
+    {
+      "titulo": "Faça o molho",
+      "tempo": "6 min",
+      "texto": "Na mesma panela, refogue a cebola, o alho e o champignon. Junte o molho de tomate, a mostarda e o frango e cozinhe 3 minutos."
+    },
+    {
+      "titulo": "Finalize",
+      "tempo": "2 min",
+      "texto": "Desligue o fogo, misture o creme de leite e acerte o sal. Sirva com o arroz e a salada."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Creme de leite com o fogo desligado.",
+      "texto": "Se ferver, o molho pode talhar."
+    },
+    {
+      "titulo": "Guarde a segunda porção.",
+      "texto": "Dura 3 dias na geladeira; reaqueça em fogo baixo, sem ferver."
+    }
+  ]
+}

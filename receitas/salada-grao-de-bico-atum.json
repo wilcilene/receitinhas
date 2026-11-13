@@ -1,0 +1,72 @@
+{
+  "id": "salada-grao-de-bico-atum",
+  "titulo": "Salada de grão-de-bico com atum",
+  "descricao": "Refeição fria e completa, sem fogão.",
+  "refeicoes": [
+    "almoco",
+    "jantar"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 10,
+  "maoNaMassaMin": 10,
+  "rendimento": "1 pessoa",
+  "ingredientes": [
+    {
+      "grupo": "Salada",
+      "itens": [
+        "1 xícara de grão-de-bico cozido (lata ou caixinha), escorrido",
+        "1 lata de atum, escorrido",
+        "1 tomate em cubos",
+        "1/2 pepino em cubos",
+        "1/4 de cebola roxa em fatias finas",
+        "Salsinha picada"
+      ]
+    },
+    {
+      "grupo": "Tempero",
+      "itens": [
+        "1 colher (sopa) de azeite",
+        "Suco de 1/2 limão",
+        "Sal e pimenta-do-reino"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Uvas"
+      }
+    ],
+    "bebidas": "Chá gelado sem açúcar ou água."
+  },
+  "passos": [
+    {
+      "titulo": "Lave o grão-de-bico",
+      "tempo": "2 min",
+      "texto": "Passe o grão-de-bico por água corrente e escorra bem."
+    },
+    {
+      "titulo": "Misture",
+      "tempo": "5 min",
+      "texto": "Junte todos os ingredientes da salada numa tigela."
+    },
+    {
+      "titulo": "Tempere",
+      "tempo": "1 min",
+      "texto": "Regue com azeite e limão, acerte o sal e a pimenta e misture."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Deixe a cebola de molho.",
+      "texto": "Cinco minutos em água fria tiram o ardido da cebola crua."
+    },
+    {
+      "titulo": "Dá para levar de marmita.",
+      "texto": "Guarde o tempero separado e misture só na hora."
+    }
+  ]
+}

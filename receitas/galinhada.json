@@ -1,0 +1,81 @@
+{
+  "id": "galinhada",
+  "titulo": "Galinhada",
+  "descricao": "Arroz com frango numa panela só, com vinagrete.",
+  "refeicoes": [
+    "almoco",
+    "jantar"
+  ],
+  "ocasioes": [
+    "dia-a-dia",
+    "visitas"
+  ],
+  "energia": "dia-normal",
+  "tempoTotalMin": 45,
+  "maoNaMassaMin": 20,
+  "rendimento": "2 porções",
+  "ingredientes": [
+    {
+      "grupo": "Galinhada",
+      "itens": [
+        "4 sobrecoxas de frango sem pele",
+        "1 xícara de arroz",
+        "2 xícaras de água quente",
+        "1/2 cebola picada",
+        "2 dentes de alho picados",
+        "1 tomate picado",
+        "1 colher (chá) de açafrão-da-terra (cúrcuma)",
+        "1 colher (sopa) de azeite",
+        "Sal, pimenta-do-reino e cheiro-verde"
+      ]
+    },
+    {
+      "grupo": "Vinagrete",
+      "itens": [
+        "1 tomate em cubinhos",
+        "1/4 de cebola picada",
+        "Salsinha, azeite, vinagre e sal"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Laranja"
+      }
+    ],
+    "bebidas": "Suco natural de laranja ou água."
+  },
+  "passos": [
+    {
+      "titulo": "Doure o frango",
+      "tempo": "8 min",
+      "texto": "Tempere o frango com sal, pimenta e alho. Doure dos dois lados no azeite."
+    },
+    {
+      "titulo": "Refogue",
+      "tempo": "4 min",
+      "texto": "Junte a cebola, o tomate e o açafrão e mexa. Acrescente o arroz e envolva bem."
+    },
+    {
+      "titulo": "Cozinhe",
+      "tempo": "22 min",
+      "texto": "Despeje a água, acerte o sal e cozinhe em fogo baixo, semitampado, por 20 minutos, até o arroz secar e o frango ficar macio."
+    },
+    {
+      "titulo": "Finalize",
+      "tempo": "5 min",
+      "texto": "Deixe descansar tampada por 5 minutos. Misture o vinagrete e sirva com cheiro-verde."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Deixe descansar.",
+      "texto": "Os 5 minutos tampados terminam o arroz no vapor e soltam os grãos."
+    },
+    {
+      "titulo": "Confira o frango junto ao osso.",
+      "texto": "A carne deve soltar com facilidade e não ter parte rosada."
+    }
+  ]
+}
