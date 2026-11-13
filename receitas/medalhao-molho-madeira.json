@@ -1,0 +1,128 @@
+{
+  "id": "medalhao-molho-madeira",
+  "titulo": "Medalhão ao molho madeira",
+  "descricao": "Com arroz branco, batata na air fryer e brócolis refogado.",
+  "refeicoes": ["jantar"],
+  "ocasioes": ["especial"],
+  "energia": "inspirada",
+  "tempoTotalMin": 40,
+  "maoNaMassaMin": 30,
+  "rendimento": "2 pessoas",
+  "ingredientes": [
+    {
+      "grupo": "Carne",
+      "itens": [
+        "3 medalhões de filé-mignon, já descongelados",
+        "Sal e pimenta-do-reino a gosto",
+        "1 colher (sopa) de manteiga e um fio de óleo"
+      ]
+    },
+    {
+      "grupo": "Molho madeira",
+      "itens": [
+        "1 colher (sopa) de manteiga",
+        "1/2 cebola pequena picadinha",
+        "100 g de champignon fatiado",
+        "100 ml de vinho madeira ou tinto seco",
+        "1 colher (chá) de caldo em pó dissolvido em 200 ml de água quente",
+        "1 colher (chá) de amido de milho dissolvido em 2 colheres de água",
+        "1 colher (chá) de shoyu, opcional, para escurecer"
+      ]
+    },
+    {
+      "grupo": "Arroz",
+      "itens": [
+        "1 xícara de arroz branco",
+        "2 xícaras de água fervente",
+        "2 dentes de alho picados",
+        "1 colher (sopa) de óleo",
+        "1 colher (chá) de sal"
+      ]
+    },
+    {
+      "grupo": "Batata",
+      "itens": [
+        "400 g de batata congelada pré-cortada",
+        "80 g de bacon em cubinhos, opcional"
+      ]
+    },
+    {
+      "grupo": "Brócolis",
+      "itens": [
+        "300 g de brócolis congelado",
+        "2 dentes de alho picados",
+        "1 colher (sopa) de azeite",
+        "1 pitada de sal"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      { "titulo": "Mousse de limão" },
+      { "titulo": "Pudim de leite" },
+      { "titulo": "Morangos com creme" }
+    ],
+    "bebidas": "Água com gás e limão, suco de uva ou vinho tinto seco."
+  },
+  "notaPassos": "Alguns preparos acontecem ao mesmo tempo, por isso os tempos não se somam.",
+  "passos": [
+    {
+      "titulo": "Deixe tudo pronto",
+      "tempo": "10 min",
+      "texto": "Pique o alho, a cebola e o champignon. Dissolva o caldo na água quente e o amido na água fria. Seque bem os medalhões com papel-toalha e ponha a água do arroz para ferver. A batata e o brócolis ficam no congelador até a hora de usar."
+    },
+    {
+      "titulo": "Comece o arroz",
+      "tempo": "15 a 18 min",
+      "texto": "Aqueça o óleo e doure o alho. Junte o arroz, mexa por 1 minuto e acrescente a água fervente e o sal. Quando ferver, abaixe o fogo, tampe parcialmente e deixe até secar a água."
+    },
+    {
+      "titulo": "Tempere os medalhões",
+      "tempo": "2 min",
+      "texto": "Tempere dos dois lados com uma pitada de sal e pimenta-do-reino."
+    },
+    {
+      "titulo": "Batata na air fryer e carne na frigideira",
+      "tempo": "8 min",
+      "texto": "Leve a batata direto do congelador para a air fryer, a 200 °C por 15 a 20 minutos, chacoalhando na metade. Enquanto isso, aqueça bem a frigideira com a manteiga e o óleo e sele os medalhões sem mexer, de 3 a 4 minutos de cada lado para ficarem ao ponto."
+    },
+    {
+      "titulo": "Descanse a carne",
+      "tempo": "5 min",
+      "texto": "Passe os medalhões para um prato e cubra com papel-alumínio. Não lave a frigideira. Junte o bacon à batata para os últimos 8 minutos de air fryer."
+    },
+    {
+      "titulo": "Refogue o brócolis",
+      "tempo": "7 min",
+      "texto": "Em outra panela, doure o alho no azeite. Coloque o brócolis ainda congelado com uma pitada de sal, tampe por 3 minutos, destampe e refogue por mais 3 a 4 minutos, até secar a água."
+    },
+    {
+      "titulo": "Faça o molho madeira",
+      "tempo": "9 min",
+      "texto": "Na frigideira da carne, em fogo médio, refogue a cebola na manteiga até ficar transparente e doure o champignon. Acrescente o vinho, raspe o fundo e deixe reduzir pela metade. Junte o caldo e o shoyu, espere ferver e engrosse com o amido, mexendo sempre. Desligue o fogo."
+    },
+    {
+      "titulo": "Finalize e sirva",
+      "tempo": "2 min",
+      "texto": "Com o fogo desligado, volte os medalhões para a frigideira com o suco que soltaram e regue com o molho por 1 minuto. Sirva com o arroz, a batata com bacon e o brócolis."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Descongele por completo.",
+      "texto": "Se o centro ainda estiver congelado, a parte de fora cozinha demais até o meio chegar ao ponto."
+    },
+    {
+      "titulo": "Seque a carne antes de selar.",
+      "texto": "Carne úmida cozinha no vapor e não forma a casquinha dourada."
+    },
+    {
+      "titulo": "Não ferva a carne no molho.",
+      "texto": "As fibras se contraem, o suco vai para o molho e a carne endurece."
+    },
+    {
+      "titulo": "Prove o molho antes de salgar.",
+      "texto": "O caldo em pó já é bem salgado."
+    }
+  ]
+}

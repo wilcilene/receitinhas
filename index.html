@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Receitinhas da Wilcilene</title>
+  <meta name="description" content="Comida de casa, no seu tempo e do seu jeito. Receitas e cardápios caseiros para filtrar por refeição, tempo, energia e ocasião.">
+  <meta name="theme-color" content="#F9FAF1">
+  <link rel="stylesheet" href="./estilo.css">
+  <script type="module" src="./js/inicio.js"></script>
+</head>
+<body>
+  <a class="pular" href="#conteudo">Pular para o conteúdo</a>
+
+  <header class="conteiner cabecalho">
+    <h1 class="cabecalho__nome">Receitinhas da Wilcilene</h1>
+    <p class="cabecalho__frase">Comida de casa, no seu tempo e do seu jeito.</p>
+  </header>
+
+  <main id="conteudo" class="conteiner">
+
+    <section class="filtros" aria-labelledby="titulo-filtros">
+      <h2 class="titulo-secao" id="titulo-filtros">O que vamos preparar?</h2>
+
+      <!-- Seletores compactos: exibidos no celular. -->
+      <div class="filtros__compacto">
+        <label class="filtro-select">
+          <span>Refeição</span>
+          <select name="refeicao">
+            <option value="">Qualquer</option>
+            <option value="cafe-da-manha">Café da manhã</option>
+            <option value="almoco">Almoço</option>
+            <option value="jantar">Jantar</option>
+            <option value="lanche-da-tarde">Lanche da tarde</option>
+            <option value="sobremesa">Sobremesa</option>
+          </select>
+        </label>
+        <label class="filtro-select">
+          <span>Tempo disponível</span>
+          <select name="tempo">
+            <option value="">Qualquer</option>
+            <option value="15">Até 15 min</option>
+            <option value="30">Até 30 min</option>
+            <option value="60">Até 1 hora</option>
+            <option value="mais">Mais de 1 hora</option>
+          </select>
+        </label>
+        <label class="filtro-select">
+          <span>Energia para cozinhar</span>
+          <select name="energia">
+            <option value="">Qualquer</option>
+            <option value="preguica-total">Preguiça total</option>
+            <option value="dia-normal">Dia normal</option>
+            <option value="inspirada">Inspirada</option>
+          </select>
+        </label>
+        <label class="filtro-select">
+          <span>Ocasião</span>
+          <select name="ocasiao">
+            <option value="">Qualquer</option>
+            <option value="dia-a-dia">Dia a dia</option>
+            <option value="especial">Especial ou romântico</option>
+            <option value="visitas">Visitas</option>
+          </select>
+        </label>
+      </div>
+
+      <!-- Botões em cápsula: exibidos em telas maiores. -->
+      <div class="filtros__grupos">
+        <fieldset class="filtro-grupo">
+          <legend>Refeição</legend>
+          <div class="filtro-opcoes">
+            <button type="button" class="filtro-botao" data-grupo="refeicao" data-valor="cafe-da-manha" aria-pressed="false">Café da manhã</button>
+            <button type="button" class="filtro-botao" data-grupo="refeicao" data-valor="almoco" aria-pressed="false">Almoço</button>
+            <button type="button" class="filtro-botao" data-grupo="refeicao" data-valor="jantar" aria-pressed="false">Jantar</button>
+            <button type="button" class="filtro-botao" data-grupo="refeicao" data-valor="lanche-da-tarde" aria-pressed="false">Lanche da tarde</button>
+            <button type="button" class="filtro-botao" data-grupo="refeicao" data-valor="sobremesa" aria-pressed="false">Sobremesa</button>
+          </div>
+        </fieldset>
+
+        <fieldset class="filtro-grupo">
+          <legend>Tempo disponível</legend>
+          <div class="filtro-opcoes">
+            <button type="button" class="filtro-botao" data-grupo="tempo" data-valor="15" aria-pressed="false">Até 15 min</button>
+            <button type="button" class="filtro-botao" data-grupo="tempo" data-valor="30" aria-pressed="false">Até 30 min</button>
+            <button type="button" class="filtro-botao" data-grupo="tempo" data-valor="60" aria-pressed="false">Até 1 hora</button>
+            <button type="button" class="filtro-botao" data-grupo="tempo" data-valor="mais" aria-pressed="false">Mais de 1 hora</button>
+          </div>
+        </fieldset>
+
+        <fieldset class="filtro-grupo">
+          <legend>Energia para cozinhar</legend>
+          <div class="filtro-opcoes">
+            <button type="button" class="filtro-botao" data-grupo="energia" data-valor="preguica-total" aria-pressed="false">Preguiça total</button>
+            <button type="button" class="filtro-botao" data-grupo="energia" data-valor="dia-normal" aria-pressed="false">Dia normal</button>
+            <button type="button" class="filtro-botao" data-grupo="energia" data-valor="inspirada" aria-pressed="false">Inspirada</button>
+          </div>
+        </fieldset>
+
+        <fieldset class="filtro-grupo">
+          <legend>Ocasião</legend>
+          <div class="filtro-opcoes">
+            <button type="button" class="filtro-botao" data-grupo="ocasiao" data-valor="dia-a-dia" aria-pressed="false">Dia a dia</button>
+            <button type="button" class="filtro-botao" data-grupo="ocasiao" data-valor="especial" aria-pressed="false">Especial ou romântico</button>
+            <button type="button" class="filtro-botao" data-grupo="ocasiao" data-valor="visitas" aria-pressed="false">Visitas</button>
+          </div>
+        </fieldset>
+      </div>
+
+      <div class="filtros__rodape">
+        <button type="button" class="botao-secundario" id="limpar-filtros">Limpar filtros</button>
+      </div>
+    </section>
+
+    <section class="secao colecao" aria-labelledby="titulo-colecao">
+      <div class="colecao__topo">
+        <h2 class="titulo-secao" id="titulo-colecao">Receitas para escolher</h2>
+        <span class="etiqueta" id="contagem" aria-live="polite"></span>
+      </div>
+      <p class="colecao__frase">Escolha uma receita e aproveite o preparo.</p>
+
+      <p class="aviso" id="aviso">Carregando as receitas…</p>
+      <noscript><p class="aviso">Este site precisa de JavaScript ativado para mostrar as receitas.</p></noscript>
+
+      <ul class="grade" id="grade"></ul>
+
+      <div class="estado-vazio" hidden>
+        <p class="estado-vazio__titulo">Nenhuma receita por aqui com essa combinação.</p>
+        <p>Tente mudar uma opção ou limpar os filtros.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="conteiner">
+    <p class="rodape">Receitinhas da Wilcilene</p>
+  </footer>
+</body>
+</html>

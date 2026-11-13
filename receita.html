@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Receita · Receitinhas da Wilcilene</title>
+  <meta name="theme-color" content="#F9FAF1">
+  <link rel="stylesheet" href="./estilo.css">
+  <script type="module" src="./js/receita.js"></script>
+</head>
+<body>
+  <a class="pular" href="#conteudo">Pular para o conteúdo</a>
+
+  <header class="conteiner conteiner--leitura cabecalho cabecalho--compacto">
+    <a class="cabecalho__nome" href="./index.html">Receitinhas da Wilcilene</a>
+  </header>
+
+  <main id="conteudo" class="conteiner conteiner--leitura">
+    <!-- O conteúdo é montado por js/receita.js a partir de receitas/<id>.json -->
+    <article id="receita">
+      <p class="aviso">Carregando a receita…</p>
+      <noscript><p class="aviso">Este site precisa de JavaScript ativado para mostrar a receita.</p></noscript>
+    </article>
+
+    <p class="voltar">
+      <a class="botao-secundario" href="./index.html">← Voltar para todas as receitas</a>
+    </p>
+  </main>
+
+  <footer class="conteiner conteiner--leitura">
+    <p class="rodape">Receitinhas da Wilcilene</p>
+  </footer>
+</body>
+</html>
