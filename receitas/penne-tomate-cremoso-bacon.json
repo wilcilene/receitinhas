@@ -1,0 +1,108 @@
+{
+  "id": "penne-tomate-cremoso-bacon",
+  "titulo": "Penne ao molho de tomate cremoso com bacon",
+  "descricao": "Com tábua de frios de entrada e salada verde. Só a massa e o molho vão ao fogo.",
+  "refeicoes": ["almoco", "jantar"],
+  "ocasioes": ["visitas"],
+  "energia": "dia-normal",
+  "tempoTotalMin": 30,
+  "maoNaMassaMin": 25,
+  "rendimento": "4 pessoas",
+  "ingredientes": [
+    {
+      "grupo": "Tábua de frios",
+      "itens": [
+        "200 g de queijos variados",
+        "100 g de salame ou presunto",
+        "Azeitonas",
+        "Torradas ou pão fatiado"
+      ]
+    },
+    {
+      "grupo": "Massa",
+      "itens": [
+        "500 g de penne",
+        "Água e sal para o cozimento"
+      ]
+    },
+    {
+      "grupo": "Molho",
+      "itens": [
+        "150 g de bacon em cubos",
+        "3 dentes de alho picados",
+        "680 g de molho de tomate (2 sachês)",
+        "1 caixinha de creme de leite (200 g)",
+        "Sal e pimenta-do-reino a gosto",
+        "50 g de queijo parmesão ralado"
+      ]
+    },
+    {
+      "grupo": "Salada",
+      "itens": [
+        "1 pé de alface ou 1 pacote de folhas variadas",
+        "200 g de tomate-cereja",
+        "2 colheres (sopa) de azeite",
+        "Suco de 1/2 limão",
+        "1 pitada de sal"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      { "titulo": "Sorvete de creme com calda" },
+      { "titulo": "Morangos com creme de leite" }
+    ],
+    "bebidas": "Vinho tinto leve ou médio, como Merlot ou Sangiovese. Sem álcool, suco de uva ou água com gás e limão."
+  },
+  "notaPassos": "Alguns preparos acontecem ao mesmo tempo, por isso os tempos não se somam.",
+  "passos": [
+    {
+      "titulo": "Água no fogo e tábua na mesa",
+      "tempo": "5 min",
+      "texto": "Coloque uma panela grande com água para ferver. Enquanto isso, arrume os queijos, os frios, as azeitonas e as torradas numa tábua e leve à mesa. Pique o alho."
+    },
+    {
+      "titulo": "Comece o molho",
+      "tempo": "8 min",
+      "texto": "Coloque o bacon na frigideira ainda fria, sem óleo, e leve ao fogo médio até dourar. Junte o alho e mexa por meio minuto. Acrescente o molho de tomate, abaixe o fogo e deixe apurar."
+    },
+    {
+      "titulo": "Cozinhe a massa",
+      "tempo": "10 a 12 min",
+      "texto": "Quando a água ferver, salgue e coloque o penne. Cozinhe pelo tempo indicado na embalagem, mexendo de vez em quando. Antes de escorrer, reserve uma concha da água do cozimento."
+    },
+    {
+      "titulo": "Monte a salada",
+      "tempo": "5 min",
+      "texto": "Enquanto a massa cozinha, lave e seque as folhas e corte os tomates ao meio. Tempere com azeite, limão e sal só na hora de servir."
+    },
+    {
+      "titulo": "Finalize o molho",
+      "tempo": "2 min",
+      "texto": "Desligue o fogo do molho e misture o creme de leite. Prove e ajuste o sal e a pimenta. Junte a massa escorrida e misture bem. Se ficar seco, acrescente um pouco da água do cozimento."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "2 min",
+      "texto": "Leve a massa à mesa com o parmesão ralado por cima e a salada ao lado."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Não ferva o creme de leite.",
+      "texto": "Misture com o fogo desligado, para o molho não talhar."
+    },
+    {
+      "titulo": "Prove antes de salgar o molho.",
+      "texto": "O bacon e o molho pronto já têm sal."
+    },
+    {
+      "titulo": "Guarde a água do cozimento.",
+      "texto": "Ela ajuda a soltar o molho e a fazê-lo grudar na massa."
+    },
+    {
+      "titulo": "Tempere a salada por último.",
+      "texto": "Folhas temperadas com antecedência murcham."
+    }
+  ]
+}
