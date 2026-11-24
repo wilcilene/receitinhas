@@ -1,0 +1,66 @@
+{
+  "id": "cuscuz-manteiga-ovo",
+  "titulo": "Cuscuz com manteiga e ovo",
+  "descricao": "Milho, manteiga e café preto: combinação clássica.",
+  "refeicoes": [
+    "cafe-da-manha"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 20,
+  "maoNaMassaMin": 10,
+  "rendimento": "1 pessoa",
+  "ingredientes": [
+    {
+      "grupo": "Cuscuz",
+      "itens": [
+        "1/2 xícara de flocão de milho",
+        "1/4 de xícara de água",
+        "1 pitada de sal",
+        "1 colher (chá) de manteiga"
+      ]
+    },
+    {
+      "grupo": "Para completar",
+      "itens": [
+        "1 ovo",
+        "1 fatia de queijo coalho ou minas",
+        "1 fatia de mamão"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [],
+    "bebidas": "Café preto, sem açúcar. Quem não toma café pode trocar por chocolate quente, chá ou leite."
+  },
+  "notaPassos": "Alguns preparos acontecem ao mesmo tempo, por isso os tempos não se somam.",
+  "passos": [
+    {
+      "titulo": "Hidrate",
+      "tempo": "5 min",
+      "texto": "Misture o flocão com a água e o sal e deixe descansar 5 minutos."
+    },
+    {
+      "titulo": "Cozinhe no vapor",
+      "tempo": "8 min",
+      "texto": "Leve à cuscuzeira por 8 minutos depois que a água ferver."
+    },
+    {
+      "titulo": "Ovo e montagem",
+      "tempo": "4 min",
+      "texto": "Frite ou cozinhe o ovo. Desenforme o cuscuz, coloque a manteiga por cima e sirva com o ovo, o queijo e o mamão."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Flocão solto.",
+      "texto": "Não aperte na cuscuzeira, para o vapor passar."
+    },
+    {
+      "titulo": "Manteiga no cuscuz quente.",
+      "texto": "Ela derrete e umedece o milho."
+    }
+  ]
+}

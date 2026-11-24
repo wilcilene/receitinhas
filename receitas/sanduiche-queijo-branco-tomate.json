@@ -1,0 +1,59 @@
+{
+  "id": "sanduiche-queijo-branco-tomate",
+  "titulo": "Sanduíche de queijo branco na chapa",
+  "descricao": "Com tomate e orégano.",
+  "refeicoes": [
+    "cafe-da-manha",
+    "lanche-da-tarde"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 10,
+  "maoNaMassaMin": 10,
+  "rendimento": "1 pessoa",
+  "ingredientes": [
+    {
+      "grupo": "Sanduíche",
+      "itens": [
+        "2 fatias de pão integral",
+        "2 fatias grossas de queijo minas",
+        "3 rodelas de tomate",
+        "Orégano e 1 pitada de sal",
+        "1 colher (chá) de azeite"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [],
+    "bebidas": "Café preto, sem açúcar. Quem não toma café pode trocar por chocolate quente, chá ou leite."
+  },
+  "passos": [
+    {
+      "titulo": "Monte",
+      "tempo": "2 min",
+      "texto": "Coloque o queijo, o tomate, o orégano e o sal entre as fatias de pão."
+    },
+    {
+      "titulo": "Doure",
+      "tempo": "6 min",
+      "texto": "Pincele azeite por fora e doure numa frigideira em fogo médio-baixo, por 3 minutos de cada lado, apertando de leve com a espátula."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "1 min",
+      "texto": "Corte ao meio e sirva quente."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Seque o tomate.",
+      "texto": "Passe as rodelas no papel-toalha, para o pão não umedecer."
+    },
+    {
+      "titulo": "Queijo minas não derrete como muçarela.",
+      "texto": "Ele amolece e doura; é o esperado."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "tapioca-doce-banana-canela",
+  "titulo": "Tapioca de banana com canela",
+  "descricao": "Doce na medida, com café preto.",
+  "refeicoes": [
+    "cafe-da-manha",
+    "lanche-da-tarde"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 10,
+  "maoNaMassaMin": 10,
+  "rendimento": "1 pessoa",
+  "ingredientes": [
+    {
+      "grupo": "Tapioca",
+      "itens": [
+        "4 colheres (sopa) de goma de tapioca hidratada",
+        "1 banana em rodelas",
+        "1 colher (chá) de mel ou doce de leite",
+        "Canela em pó",
+        "1 colher (sopa) de coco ralado, opcional"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [],
+    "bebidas": "Café preto, sem açúcar: o amargor equilibra o doce do prato. Quem não toma café pode trocar por chocolate quente, chá ou leite."
+  },
+  "passos": [
+    {
+      "titulo": "Faça o disco",
+      "tempo": "3 min",
+      "texto": "Peneire a goma numa frigideira antiaderente seca e quente e espere unir, por cerca de 1 minuto."
+    },
+    {
+      "titulo": "Recheie",
+      "tempo": "2 min",
+      "texto": "Vire, distribua a banana, o mel e a canela em metade do disco e dobre."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "1 min",
+      "texto": "Finalize com o coco e sirva quente."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Banana aquecida.",
+      "texto": "Um minuto na frigideira antes de rechear deixa a banana mais doce."
+    },
+    {
+      "titulo": "Coma na hora.",
+      "texto": "A tapioca fica borrachuda ao esfriar."
+    }
+  ]
+}

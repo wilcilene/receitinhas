@@ -2,8 +2,12 @@
   "id": "medalhao-molho-madeira",
   "titulo": "Medalhão ao molho madeira",
   "descricao": "Com arroz branco, batata na air fryer e brócolis refogado.",
-  "refeicoes": ["jantar"],
-  "ocasioes": ["especial"],
+  "refeicoes": [
+    "jantar"
+  ],
+  "ocasioes": [
+    "especial"
+  ],
   "energia": "inspirada",
   "tempoTotalMin": 40,
   "maoNaMassaMin": 30,
@@ -58,9 +62,18 @@
   ],
   "acompanhar": {
     "sobremesas": [
-      { "titulo": "Mousse de limão" },
-      { "titulo": "Pudim de leite" },
-      { "titulo": "Morangos com creme" }
+      {
+        "titulo": "Mousse de limão",
+        "id": "mousse-de-limao"
+      },
+      {
+        "titulo": "Pudim de leite",
+        "id": "pudim-de-leite"
+      },
+      {
+        "titulo": "Morangos com creme",
+        "id": "morangos-com-creme"
+      }
     ],
     "bebidas": "Água com gás e limão, suco de uva ou vinho tinto seco."
   },

@@ -1,0 +1,62 @@
+{
+  "id": "banoffee-no-copo",
+  "titulo": "Banoffee no copo",
+  "descricao": "Biscoito, doce de leite, banana e creme.",
+  "refeicoes": [
+    "sobremesa"
+  ],
+  "ocasioes": [
+    "visitas",
+    "especial"
+  ],
+  "energia": "dia-normal",
+  "tempoTotalMin": 20,
+  "maoNaMassaMin": 20,
+  "rendimento": "4 porções",
+  "ingredientes": [
+    {
+      "grupo": "Sobremesa",
+      "itens": [
+        "100 g de biscoito maisena triturado",
+        "2 colheres (sopa) de manteiga derretida",
+        "200 g de doce de leite cremoso",
+        "2 bananas em rodelas",
+        "200 ml de creme de leite fresco gelado",
+        "1 colher (sopa) de açúcar",
+        "Canela ou cacau em pó"
+      ]
+    }
+  ],
+  "passos": [
+    {
+      "titulo": "Base",
+      "tempo": "4 min",
+      "texto": "Misture o biscoito com a manteiga e distribua no fundo de 4 copos."
+    },
+    {
+      "titulo": "Bata o creme",
+      "tempo": "6 min",
+      "texto": "Bata o creme de leite fresco com o açúcar até formar picos moles."
+    },
+    {
+      "titulo": "Monte",
+      "tempo": "6 min",
+      "texto": "Sobre o biscoito, coloque o doce de leite, as rodelas de banana e o creme batido. Polvilhe canela."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "2 min",
+      "texto": "Sirva em seguida ou mantenha na geladeira por até 4 horas."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Banana só na montagem.",
+      "texto": "Cortada com antecedência, ela escurece."
+    },
+    {
+      "titulo": "Doce de leite amolecido.",
+      "texto": "Dez segundos no micro-ondas facilitam espalhar."
+    }
+  ]
+}

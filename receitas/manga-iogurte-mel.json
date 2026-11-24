@@ -1,0 +1,48 @@
+{
+  "id": "manga-iogurte-mel",
+  "titulo": "Manga com iogurte e mel",
+  "descricao": "Montada na taça, sem fogão.",
+  "refeicoes": [
+    "sobremesa"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 5,
+  "maoNaMassaMin": 5,
+  "rendimento": "1 porção",
+  "ingredientes": [
+    {
+      "grupo": "Sobremesa",
+      "itens": [
+        "1/2 manga madura em cubos",
+        "3 colheres (sopa) de iogurte natural",
+        "1 colher (chá) de mel",
+        "1 colher (sopa) de castanhas ou granola"
+      ]
+    }
+  ],
+  "passos": [
+    {
+      "titulo": "Corte a manga",
+      "tempo": "3 min",
+      "texto": "Corte a manga em cubos."
+    },
+    {
+      "titulo": "Monte",
+      "tempo": "2 min",
+      "texto": "Coloque a manga na taça, cubra com o iogurte, regue com mel e finalize com as castanhas."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Manga gelada.",
+      "texto": "Deixe a fruta na geladeira antes; a sobremesa fica mais refrescante."
+    },
+    {
+      "titulo": "Granola só na hora.",
+      "texto": "Colocada antes, ela amolece no iogurte."
+    }
+  ]
+}

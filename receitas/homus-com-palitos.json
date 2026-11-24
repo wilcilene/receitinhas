@@ -1,0 +1,68 @@
+{
+  "id": "homus-com-palitos",
+  "titulo": "Homus com palitos de legumes",
+  "descricao": "Com pão sírio.",
+  "refeicoes": [
+    "lanche-da-tarde"
+  ],
+  "ocasioes": [
+    "dia-a-dia",
+    "visitas"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 10,
+  "maoNaMassaMin": 10,
+  "rendimento": "3 porções",
+  "ingredientes": [
+    {
+      "grupo": "Homus",
+      "itens": [
+        "1 lata ou caixinha de grão-de-bico cozido, escorrido (reserve o líquido)",
+        "2 colheres (sopa) de tahine",
+        "Suco de 1 limão",
+        "1 dente de alho pequeno",
+        "2 colheres (sopa) de azeite",
+        "Sal e páprica"
+      ]
+    },
+    {
+      "grupo": "Para servir",
+      "itens": [
+        "1 cenoura em palitos",
+        "1 pepino em palitos",
+        "2 discos de pão sírio em triângulos"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [],
+    "bebidas": "Suco natural, chá gelado ou água com gás."
+  },
+  "passos": [
+    {
+      "titulo": "Bata",
+      "tempo": "5 min",
+      "texto": "Bata o grão-de-bico, o tahine, o limão, o alho, o azeite e o sal no processador ou liquidificador. Junte o líquido reservado, uma colher por vez, até ficar cremoso."
+    },
+    {
+      "titulo": "Corte",
+      "tempo": "4 min",
+      "texto": "Corte os legumes em palitos e o pão em triângulos."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "1 min",
+      "texto": "Coloque o homus numa tigela, regue com azeite e polvilhe páprica."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "O líquido da lata dá cremosidade.",
+      "texto": "Use no lugar de água."
+    },
+    {
+      "titulo": "Sem tahine.",
+      "texto": "Dá para substituir por pasta de amendoim sem açúcar; o sabor muda um pouco."
+    }
+  ]
+}

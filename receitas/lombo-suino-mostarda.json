@@ -44,10 +44,12 @@
   "acompanhar": {
     "sobremesas": [
       {
-        "titulo": "Maçã assada com canela"
+        "titulo": "Maçã assada com canela",
+        "id": "maca-assada-canela"
       },
       {
-        "titulo": "Sorvete de creme"
+        "titulo": "Sorvete de creme",
+        "id": "sorvete-creme-calda-chocolate"
       }
     ],
     "bebidas": "Vinho tinto leve, suco de uva integral ou água com gás."

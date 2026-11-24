@@ -1,0 +1,54 @@
+{
+  "id": "iogurte-granola-frutas",
+  "titulo": "Iogurte com granola e frutas",
+  "descricao": "Sem fogão, pronto em 5 minutos.",
+  "refeicoes": [
+    "cafe-da-manha",
+    "lanche-da-tarde"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 5,
+  "maoNaMassaMin": 5,
+  "rendimento": "1 pessoa",
+  "ingredientes": [
+    {
+      "grupo": "Tigela",
+      "itens": [
+        "1 pote de iogurte natural (170 g)",
+        "3 colheres (sopa) de granola",
+        "1/2 banana em rodelas",
+        "4 morangos ou 1/2 maçã picada",
+        "1 colher (chá) de mel, opcional"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [],
+    "bebidas": "Café preto, sem açúcar. Quem não toma café pode trocar por chocolate quente, chá ou leite."
+  },
+  "passos": [
+    {
+      "titulo": "Corte as frutas",
+      "tempo": "3 min",
+      "texto": "Lave e corte as frutas."
+    },
+    {
+      "titulo": "Monte",
+      "tempo": "2 min",
+      "texto": "Coloque o iogurte na tigela, cubra com as frutas e a granola e regue com o mel."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Granola por último.",
+      "texto": "Em contato com o iogurte, ela amolece em poucos minutos."
+    },
+    {
+      "titulo": "Café depois, não junto.",
+      "texto": "O ácido do iogurte e o café preto combinam melhor em sequência do que no mesmo gole."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "curau-de-milho",
+  "titulo": "Curau de milho",
+  "descricao": "Com milho de lata, batido no liquidificador.",
+  "refeicoes": [
+    "sobremesa"
+  ],
+  "ocasioes": [
+    "dia-a-dia",
+    "visitas"
+  ],
+  "energia": "dia-normal",
+  "tempoTotalMin": 150,
+  "maoNaMassaMin": 20,
+  "rendimento": "6 porções",
+  "ingredientes": [
+    {
+      "grupo": "Sobremesa",
+      "itens": [
+        "2 latas de milho-verde, escorrido",
+        "2 xícaras de leite",
+        "1 lata de leite condensado (395 g)",
+        "1 colher (sopa) de manteiga",
+        "Canela em pó"
+      ]
+    }
+  ],
+  "notaPassos": "O tempo total inclui o tempo de geladeira ou congelador. O trabalho de verdade é o indicado em “mão na massa”.",
+  "passos": [
+    {
+      "titulo": "Bata",
+      "tempo": "3 min",
+      "texto": "Bata o milho com o leite no liquidificador por 2 minutos. Passe por uma peneira, apertando bem."
+    },
+    {
+      "titulo": "Cozinhe",
+      "tempo": "15 min",
+      "texto": "Leve ao fogo médio com o leite condensado e a manteiga, mexendo sempre, por 12 a 15 minutos, até engrossar."
+    },
+    {
+      "titulo": "Gele",
+      "tempo": "2 h",
+      "texto": "Distribua em taças, polvilhe canela e leve à geladeira por 2 horas."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Não pule a peneira.",
+      "texto": "Sem coar, o curau fica com casquinhas."
+    },
+    {
+      "titulo": "O amido do milho é que engrossa.",
+      "texto": "Por isso é preciso cozinhar mexendo até ver o fundo da panela."
+    }
+  ]
+}

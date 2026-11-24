@@ -1,0 +1,55 @@
+{
+  "id": "mousse-de-limao",
+  "titulo": "Mousse de limão",
+  "descricao": "Três ingredientes batidos no liquidificador.",
+  "refeicoes": [
+    "sobremesa"
+  ],
+  "ocasioes": [
+    "visitas",
+    "especial"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 130,
+  "maoNaMassaMin": 10,
+  "rendimento": "6 porções",
+  "ingredientes": [
+    {
+      "grupo": "Mousse",
+      "itens": [
+        "1 lata de leite condensado (395 g)",
+        "1 caixinha de creme de leite (200 g)",
+        "1/2 xícara de suco de limão (cerca de 4 limões)",
+        "Raspas da casca de 1 limão, para decorar"
+      ]
+    }
+  ],
+  "notaPassos": "O tempo total inclui o tempo de geladeira. O trabalho de verdade é o indicado em “mão na massa”.",
+  "passos": [
+    {
+      "titulo": "Esprema os limões",
+      "tempo": "4 min",
+      "texto": "Esprema os limões e coe o suco. Rale a casca de um deles antes de cortar, só a parte verde."
+    },
+    {
+      "titulo": "Bata",
+      "tempo": "3 min",
+      "texto": "Bata o leite condensado e o creme de leite no liquidificador. Com ele ligado, junte o suco de limão aos poucos, até o creme engrossar."
+    },
+    {
+      "titulo": "Leve à geladeira",
+      "tempo": "2 h",
+      "texto": "Distribua em taças ou numa travessa, cubra e gele por pelo menos 2 horas. Decore com as raspas na hora de servir."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Só a parte verde da casca.",
+      "texto": "A parte branca amarga a mousse."
+    },
+    {
+      "titulo": "O limão é que engrossa.",
+      "texto": "A acidez do suco firma o creme; não precisa de gelatina."
+    }
+  ]
+}

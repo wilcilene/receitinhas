@@ -1,0 +1,55 @@
+{
+  "id": "pudim-de-chia",
+  "titulo": "Pudim de chia com frutas",
+  "descricao": "Preparado de véspera, na geladeira.",
+  "refeicoes": [
+    "sobremesa"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 245,
+  "maoNaMassaMin": 5,
+  "rendimento": "2 porções",
+  "ingredientes": [
+    {
+      "grupo": "Sobremesa",
+      "itens": [
+        "3 colheres (sopa) de sementes de chia",
+        "1 xícara de leite ou bebida vegetal",
+        "1 colher (chá) de mel",
+        "Gotas de essência de baunilha",
+        "1/2 xícara de frutas picadas (manga, morango ou banana)"
+      ]
+    }
+  ],
+  "notaPassos": "O tempo total inclui o tempo de geladeira ou congelador. O trabalho de verdade é o indicado em “mão na massa”.",
+  "passos": [
+    {
+      "titulo": "Misture",
+      "tempo": "3 min",
+      "texto": "Misture a chia, o leite, o mel e a baunilha num pote. Espere 5 minutos e mexa de novo, para desfazer os grumos."
+    },
+    {
+      "titulo": "Gele",
+      "tempo": "4 h",
+      "texto": "Tampe e leve à geladeira por pelo menos 4 horas, ou de um dia para o outro."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "2 min",
+      "texto": "Mexa, distribua em taças e cubra com as frutas."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "A segunda mexida é importante.",
+      "texto": "Sem ela, a chia forma blocos no fundo."
+    },
+    {
+      "titulo": "Dura 3 dias.",
+      "texto": "Guarde sem as frutas e acrescente só ao servir."
+    }
+  ]
+}

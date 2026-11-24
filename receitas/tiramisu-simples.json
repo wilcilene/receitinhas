@@ -1,0 +1,61 @@
+{
+  "id": "tiramisu-simples",
+  "titulo": "Tiramisù simples",
+  "descricao": "Versão sem ovos crus.",
+  "refeicoes": [
+    "sobremesa"
+  ],
+  "ocasioes": [
+    "especial"
+  ],
+  "energia": "inspirada",
+  "tempoTotalMin": 265,
+  "maoNaMassaMin": 25,
+  "rendimento": "6 porções",
+  "ingredientes": [
+    {
+      "grupo": "Sobremesa",
+      "itens": [
+        "250 g de mascarpone ou cream cheese",
+        "250 ml de creme de leite fresco gelado",
+        "4 colheres (sopa) de açúcar",
+        "1 xícara de café forte, frio e sem açúcar",
+        "1 pacote de biscoito champanhe (150 g)",
+        "Cacau em pó"
+      ]
+    }
+  ],
+  "notaPassos": "O tempo total inclui o tempo de geladeira ou congelador. O trabalho de verdade é o indicado em “mão na massa”.",
+  "passos": [
+    {
+      "titulo": "Faça o creme",
+      "tempo": "8 min",
+      "texto": "Bata o creme de leite fresco com o açúcar até formar picos moles. Misture o mascarpone delicadamente, até ficar liso."
+    },
+    {
+      "titulo": "Monte",
+      "tempo": "12 min",
+      "texto": "Passe os biscoitos rapidamente no café, um a um, e forre o fundo de uma travessa. Cubra com metade do creme. Repita as camadas."
+    },
+    {
+      "titulo": "Gele",
+      "tempo": "4 h",
+      "texto": "Cubra e leve à geladeira por pelo menos 4 horas."
+    },
+    {
+      "titulo": "Finalize",
+      "tempo": "2 min",
+      "texto": "Peneire cacau por cima na hora de servir."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Um segundo de café por lado.",
+      "texto": "O biscoito champanhe encharca muito rápido e desmancha."
+    },
+    {
+      "titulo": "Cacau só na hora.",
+      "texto": "Colocado antes, ele absorve umidade e mancha."
+    }
+  ]
+}

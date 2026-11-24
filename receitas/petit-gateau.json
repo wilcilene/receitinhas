@@ -1,0 +1,62 @@
+{
+  "id": "petit-gateau",
+  "titulo": "Petit gâteau",
+  "descricao": "Bolinho de chocolate com centro cremoso.",
+  "refeicoes": [
+    "sobremesa"
+  ],
+  "ocasioes": [
+    "especial"
+  ],
+  "energia": "inspirada",
+  "tempoTotalMin": 25,
+  "maoNaMassaMin": 15,
+  "rendimento": "4 unidades",
+  "ingredientes": [
+    {
+      "grupo": "Sobremesa",
+      "itens": [
+        "200 g de chocolate meio amargo picado",
+        "100 g de manteiga",
+        "2 ovos",
+        "2 gemas",
+        "1/4 de xícara de açúcar",
+        "1/4 de xícara de farinha de trigo",
+        "Manteiga e cacau em pó, para as forminhas",
+        "Sorvete de creme, para servir"
+      ]
+    }
+  ],
+  "passos": [
+    {
+      "titulo": "Prepare as forminhas",
+      "tempo": "3 min",
+      "texto": "Unte 4 forminhas com bastante manteiga e polvilhe cacau."
+    },
+    {
+      "titulo": "Faça a massa",
+      "tempo": "8 min",
+      "texto": "Derreta o chocolate com a manteiga. Bata os ovos, as gemas e o açúcar, junte o chocolate e depois a farinha."
+    },
+    {
+      "titulo": "Asse",
+      "tempo": "9 min",
+      "texto": "Distribua nas forminhas e asse em forno preaquecido a 220 °C por 8 a 9 minutos: as bordas firmes e o centro ainda mole."
+    },
+    {
+      "titulo": "Desenforme",
+      "tempo": "2 min",
+      "texto": "Espere 1 minuto, vire sobre o prato e sirva na hora, com sorvete."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Forno bem quente e relógio na mão.",
+      "texto": "Um minuto a mais e o centro cozinha por inteiro."
+    },
+    {
+      "titulo": "Dá para adiantar.",
+      "texto": "A massa nas forminhas aguenta 1 dia na geladeira; asse 1 minuto a mais."
+    }
+  ]
+}

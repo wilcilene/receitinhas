@@ -1,0 +1,63 @@
+{
+  "id": "vitamina-banana-torrada-queijo",
+  "titulo": "Torrada com queijo e vitamina de banana",
+  "descricao": "Para manhãs com pressa.",
+  "refeicoes": [
+    "cafe-da-manha"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 10,
+  "maoNaMassaMin": 10,
+  "rendimento": "1 pessoa",
+  "ingredientes": [
+    {
+      "grupo": "Vitamina",
+      "itens": [
+        "1 banana madura",
+        "1 xícara de leite gelado",
+        "1 colher (sopa) de aveia"
+      ]
+    },
+    {
+      "grupo": "Torrada",
+      "itens": [
+        "2 fatias de pão integral",
+        "2 fatias de queijo minas ou muçarela"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [],
+    "bebidas": "Café preto, sem açúcar, depois da vitamina. Quem não toma café pode trocar por chocolate quente, chá ou leite."
+  },
+  "passos": [
+    {
+      "titulo": "Bata a vitamina",
+      "tempo": "2 min",
+      "texto": "Bata a banana, o leite e a aveia no liquidificador."
+    },
+    {
+      "titulo": "Toste",
+      "tempo": "4 min",
+      "texto": "Coloque o queijo sobre o pão e leve à frigideira tampada ou à air fryer a 180 °C por 3 minutos, até derreter."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "1 min",
+      "texto": "Sirva a torrada com a vitamina."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Banana congelada.",
+      "texto": "Em rodelas, do congelador, ela deixa a vitamina cremosa sem precisar de gelo."
+    },
+    {
+      "titulo": "Café antes ou depois.",
+      "texto": "A vitamina já é uma bebida; o café entra como fecho da refeição."
+    }
+  ]
+}

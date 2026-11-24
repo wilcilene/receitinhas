@@ -10,7 +10,7 @@
     "especial"
   ],
   "energia": "inspirada",
-  "tempoTotalMin": 40,
+  "tempoTotalMin": 35,
   "maoNaMassaMin": 30,
   "rendimento": "2 porções",
   "ingredientes": [
@@ -44,7 +44,8 @@
   "acompanhar": {
     "sobremesas": [
       {
-        "titulo": "Mousse de chocolate"
+        "titulo": "Mousse de chocolate",
+        "id": "mousse-de-chocolate"
       },
       {
         "titulo": "Morangos"

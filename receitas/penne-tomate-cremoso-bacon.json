@@ -2,8 +2,13 @@
   "id": "penne-tomate-cremoso-bacon",
   "titulo": "Penne ao molho de tomate cremoso com bacon",
   "descricao": "Com tábua de frios de entrada e salada verde. Só a massa e o molho vão ao fogo.",
-  "refeicoes": ["almoco", "jantar"],
-  "ocasioes": ["visitas"],
+  "refeicoes": [
+    "almoco",
+    "jantar"
+  ],
+  "ocasioes": [
+    "visitas"
+  ],
   "energia": "dia-normal",
   "tempoTotalMin": 30,
   "maoNaMassaMin": 25,
@@ -49,8 +54,14 @@
   ],
   "acompanhar": {
     "sobremesas": [
-      { "titulo": "Sorvete de creme com calda" },
-      { "titulo": "Morangos com creme de leite" }
+      {
+        "titulo": "Sorvete de creme com calda",
+        "id": "sorvete-creme-calda-chocolate"
+      },
+      {
+        "titulo": "Morangos com creme de leite",
+        "id": "morangos-com-creme"
+      }
     ],
     "bebidas": "Vinho tinto leve ou médio, como Merlot ou Sangiovese. Sem álcool, suco de uva ou água com gás e limão."
   },

@@ -1,0 +1,76 @@
+{
+  "id": "pave-de-chocolate",
+  "titulo": "Pavê de chocolate",
+  "descricao": "Camadas de creme e biscoito.",
+  "refeicoes": [
+    "sobremesa"
+  ],
+  "ocasioes": [
+    "visitas"
+  ],
+  "energia": "dia-normal",
+  "tempoTotalMin": 270,
+  "maoNaMassaMin": 30,
+  "rendimento": "8 porções",
+  "ingredientes": [
+    {
+      "grupo": "Creme branco",
+      "itens": [
+        "1 lata de leite condensado (395 g)",
+        "2 medidas da lata de leite",
+        "2 colheres (sopa) de amido de milho",
+        "1 caixinha de creme de leite (200 g)"
+      ]
+    },
+    {
+      "grupo": "Creme de chocolate",
+      "itens": [
+        "1 xícara de leite",
+        "3 colheres (sopa) de chocolate em pó",
+        "2 colheres (sopa) de açúcar",
+        "1 colher (sopa) de amido de milho"
+      ]
+    },
+    {
+      "grupo": "Montagem",
+      "itens": [
+        "1 pacote de biscoito maisena ou champanhe (200 g)",
+        "1 xícara de leite, para molhar os biscoitos",
+        "Raspas de chocolate"
+      ]
+    }
+  ],
+  "notaPassos": "O tempo total inclui o tempo de geladeira ou congelador. O trabalho de verdade é o indicado em “mão na massa”.",
+  "passos": [
+    {
+      "titulo": "Creme branco",
+      "tempo": "10 min",
+      "texto": "Dissolva o amido no leite frio, junte o leite condensado e cozinhe em fogo baixo, mexendo, até engrossar. Desligue, misture o creme de leite e deixe amornar."
+    },
+    {
+      "titulo": "Creme de chocolate",
+      "tempo": "8 min",
+      "texto": "Misture os ingredientes a frio e cozinhe, mexendo, até engrossar."
+    },
+    {
+      "titulo": "Monte",
+      "tempo": "10 min",
+      "texto": "Numa travessa, alterne camadas de creme branco, biscoitos passados rapidamente no leite e creme de chocolate. Termine com creme e raspas."
+    },
+    {
+      "titulo": "Gele",
+      "tempo": "4 h",
+      "texto": "Cubra e leve à geladeira por pelo menos 4 horas."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Biscoito só de passagem no leite.",
+      "texto": "Encharcado, ele desmancha e o pavê não mantém as camadas."
+    },
+    {
+      "titulo": "Melhor de véspera.",
+      "texto": "De um dia para o outro os sabores se misturam e o corte fica firme."
+    }
+  ]
+}

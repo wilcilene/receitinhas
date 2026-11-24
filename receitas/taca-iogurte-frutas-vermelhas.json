@@ -1,0 +1,48 @@
+{
+  "id": "taca-iogurte-frutas-vermelhas",
+  "titulo": "Taça de iogurte com frutas vermelhas",
+  "descricao": "Em camadas, com granola.",
+  "refeicoes": [
+    "sobremesa"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 5,
+  "maoNaMassaMin": 5,
+  "rendimento": "1 porção",
+  "ingredientes": [
+    {
+      "grupo": "Sobremesa",
+      "itens": [
+        "1 pote de iogurte natural (170 g)",
+        "1/2 xícara de frutas vermelhas (frescas ou congeladas)",
+        "1 colher (chá) de mel",
+        "2 colheres (sopa) de granola"
+      ]
+    }
+  ],
+  "passos": [
+    {
+      "titulo": "Adoce o iogurte",
+      "tempo": "1 min",
+      "texto": "Misture o mel ao iogurte."
+    },
+    {
+      "titulo": "Monte",
+      "tempo": "3 min",
+      "texto": "Alterne camadas de iogurte e frutas numa taça e finalize com a granola."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Frutas congeladas.",
+      "texto": "Tire do congelador 15 minutos antes; o caldo que soltam vira uma calda."
+    },
+    {
+      "titulo": "Granola por último.",
+      "texto": "Assim ela continua crocante."
+    }
+  ]
+}

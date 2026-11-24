@@ -1,0 +1,56 @@
+{
+  "id": "morangos-com-chocolate",
+  "titulo": "Morangos banhados em chocolate",
+  "descricao": "Para ocasiões especiais.",
+  "refeicoes": [
+    "sobremesa"
+  ],
+  "ocasioes": [
+    "especial"
+  ],
+  "energia": "dia-normal",
+  "tempoTotalMin": 35,
+  "maoNaMassaMin": 15,
+  "rendimento": "2 porções",
+  "ingredientes": [
+    {
+      "grupo": "Sobremesa",
+      "itens": [
+        "12 morangos grandes, com o cabinho",
+        "100 g de chocolate meio amargo picado"
+      ]
+    }
+  ],
+  "passos": [
+    {
+      "titulo": "Lave e seque",
+      "tempo": "5 min",
+      "texto": "Lave os morangos e seque muito bem, um a um, com papel-toalha."
+    },
+    {
+      "titulo": "Derreta o chocolate",
+      "tempo": "3 min",
+      "texto": "Derreta no micro-ondas, de 30 em 30 segundos, mexendo a cada pausa."
+    },
+    {
+      "titulo": "Banhe",
+      "tempo": "6 min",
+      "texto": "Segure cada morango pelo cabinho, mergulhe até dois terços e deixe escorrer o excesso. Coloque sobre papel-manteiga."
+    },
+    {
+      "titulo": "Firme",
+      "tempo": "20 min",
+      "texto": "Leve à geladeira por 20 minutos, até o chocolate endurecer."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Morango totalmente seco.",
+      "texto": "Uma gota de água faz o chocolate empelotar e não grudar."
+    },
+    {
+      "titulo": "Sirva no mesmo dia.",
+      "texto": "Depois de algumas horas o morango solta água e o chocolate descola."
+    }
+  ]
+}

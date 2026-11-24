@@ -1,0 +1,69 @@
+{
+  "id": "crumble-de-maca",
+  "titulo": "Crumble de maçã",
+  "descricao": "Maçã assada com farofa crocante.",
+  "refeicoes": [
+    "sobremesa"
+  ],
+  "ocasioes": [
+    "visitas",
+    "especial"
+  ],
+  "energia": "dia-normal",
+  "tempoTotalMin": 45,
+  "maoNaMassaMin": 15,
+  "rendimento": "4 porções",
+  "ingredientes": [
+    {
+      "grupo": "Maçãs",
+      "itens": [
+        "3 maçãs descascadas, em cubos",
+        "1 colher (sopa) de açúcar",
+        "1 colher (chá) de canela",
+        "Suco de 1/2 limão"
+      ]
+    },
+    {
+      "grupo": "Farofa",
+      "itens": [
+        "1/2 xícara de farinha de trigo",
+        "1/2 xícara de aveia em flocos",
+        "1/3 de xícara de açúcar mascavo",
+        "4 colheres (sopa) de manteiga gelada em cubos",
+        "1 pitada de sal"
+      ]
+    }
+  ],
+  "passos": [
+    {
+      "titulo": "Tempere as maçãs",
+      "tempo": "5 min",
+      "texto": "Misture as maçãs com o açúcar, a canela e o limão. Espalhe num refratário."
+    },
+    {
+      "titulo": "Faça a farofa",
+      "tempo": "5 min",
+      "texto": "Com a ponta dos dedos, misture a farinha, a aveia, o açúcar, o sal e a manteiga, até formar grumos."
+    },
+    {
+      "titulo": "Asse",
+      "tempo": "30 min",
+      "texto": "Cubra as maçãs com a farofa e asse a 180 °C por 30 minutos, até dourar e borbulhar nas bordas."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "2 min",
+      "texto": "Sirva morno, puro ou com sorvete de creme."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Manteiga gelada.",
+      "texto": "Derretida, a farofa vira massa e não fica crocante."
+    },
+    {
+      "titulo": "Não aperte a farofa.",
+      "texto": "Espalhe solta, para o calor passar entre os grumos."
+    }
+  ]
+}

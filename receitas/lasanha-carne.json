@@ -10,7 +10,7 @@
     "visitas"
   ],
   "energia": "inspirada",
-  "tempoTotalMin": 90,
+  "tempoTotalMin": 85,
   "maoNaMassaMin": 40,
   "rendimento": "4 porções",
   "ingredientes": [
@@ -47,10 +47,12 @@
   "acompanhar": {
     "sobremesas": [
       {
-        "titulo": "Mousse de limão"
+        "titulo": "Mousse de limão",
+        "id": "mousse-de-limao"
       },
       {
-        "titulo": "Salada de frutas"
+        "titulo": "Salada de frutas",
+        "id": "salada-de-frutas"
       }
     ],
     "bebidas": "Vinho tinto leve, suco de uva integral ou água com gás."
@@ -59,7 +61,7 @@
     {
       "titulo": "Molho de carne",
       "tempo": "15 min",
-      "texto": "Doure a carne no azeite, junte a cebola e o alho e refogue. Acrescente o molho de tomate e meia xícara de água e cozinhe 10 minutos. O molho deve ficar mais líquido que o normal."
+      "texto": "Doure a carne no azeite, junte a cebola e o alho e refogue. Acrescente o molho de tomate e meia xícara de água, tempere com sal, pimenta e manjericão e cozinhe 10 minutos. O molho deve ficar mais líquido que o normal."
     },
     {
       "titulo": "Molho branco",
@@ -79,7 +81,7 @@
     {
       "titulo": "Descanse",
       "tempo": "10 min",
-      "texto": "Espere 10 minutos antes de cortar, para as camadas firmarem."
+      "texto": "Espere 10 minutos antes de cortar, para as camadas firmarem. Sirva com as folhas verdes temperadas."
     }
   ],
   "dicas": [

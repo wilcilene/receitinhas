@@ -1,0 +1,57 @@
+{
+  "id": "queijo-coalho-com-mel",
+  "titulo": "Queijo coalho grelhado com mel",
+  "descricao": "Salgado com doce, em 10 minutos.",
+  "refeicoes": [
+    "lanche-da-tarde"
+  ],
+  "ocasioes": [
+    "dia-a-dia",
+    "visitas"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 10,
+  "maoNaMassaMin": 10,
+  "rendimento": "2 porções",
+  "ingredientes": [
+    {
+      "grupo": "Prato",
+      "itens": [
+        "200 g de queijo coalho em fatias ou palitos",
+        "1 colher (sopa) de mel ou melado",
+        "Orégano, opcional"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [],
+    "bebidas": "Café preto, chá ou suco natural."
+  },
+  "passos": [
+    {
+      "titulo": "Seque",
+      "tempo": "1 min",
+      "texto": "Seque o queijo com papel-toalha."
+    },
+    {
+      "titulo": "Grelhe",
+      "tempo": "6 min",
+      "texto": "Em frigideira antiaderente bem quente, sem gordura, doure o queijo por 2 a 3 minutos de cada lado."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "1 min",
+      "texto": "Regue com o mel, polvilhe o orégano e sirva na hora."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Só vire quando soltar.",
+      "texto": "Enquanto está grudado, a casquinha ainda não se formou."
+    },
+    {
+      "titulo": "Na air fryer.",
+      "texto": "A 200 °C por 6 minutos, virando na metade."
+    }
+  ]
+}

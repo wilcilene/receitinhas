@@ -1,0 +1,71 @@
+{
+  "id": "pudim-de-leite",
+  "titulo": "Pudim de leite",
+  "descricao": "O clássico, assado em banho-maria.",
+  "refeicoes": [
+    "sobremesa"
+  ],
+  "ocasioes": [
+    "visitas",
+    "especial"
+  ],
+  "energia": "dia-normal",
+  "tempoTotalMin": 330,
+  "maoNaMassaMin": 20,
+  "rendimento": "8 fatias",
+  "ingredientes": [
+    {
+      "grupo": "Calda",
+      "itens": [
+        "1 xícara de açúcar",
+        "1/3 de xícara de água quente"
+      ]
+    },
+    {
+      "grupo": "Pudim",
+      "itens": [
+        "1 lata de leite condensado (395 g)",
+        "2 medidas da lata de leite integral",
+        "3 ovos"
+      ]
+    }
+  ],
+  "notaPassos": "O tempo total inclui o tempo de geladeira. O trabalho de verdade é o indicado em “mão na massa”.",
+  "passos": [
+    {
+      "titulo": "Faça a calda",
+      "tempo": "8 min",
+      "texto": "Derreta o açúcar numa panela em fogo médio, mexendo pouco, até ficar âmbar. Junte a água quente com cuidado, pois espirra, e mexa até dissolver. Despeje numa forma de pudim de 20 cm e espalhe pelo fundo."
+    },
+    {
+      "titulo": "Bata o pudim",
+      "tempo": "3 min",
+      "texto": "Bata o leite condensado, o leite e os ovos no liquidificador por 1 minuto. Despeje na forma, passando por uma peneira."
+    },
+    {
+      "titulo": "Asse em banho-maria",
+      "tempo": "70 min",
+      "texto": "Cubra a forma com papel-alumínio e coloque dentro de uma assadeira com 2 dedos de água quente. Asse a 180 °C por 60 a 70 minutos, até firmar."
+    },
+    {
+      "titulo": "Gele",
+      "tempo": "4 h",
+      "texto": "Deixe esfriar e leve à geladeira por pelo menos 4 horas."
+    },
+    {
+      "titulo": "Desenforme",
+      "tempo": "3 min",
+      "texto": "Passe uma faca na borda, aqueça o fundo da forma por alguns segundos no fogão e vire sobre um prato com borda."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Bata pouco.",
+      "texto": "Bater demais incorpora ar e o pudim fica cheio de furinhos."
+    },
+    {
+      "titulo": "Teste do palito.",
+      "texto": "Está pronto quando o palito sai limpo; o centro ainda treme um pouco e firma na geladeira."
+    }
+  ]
+}

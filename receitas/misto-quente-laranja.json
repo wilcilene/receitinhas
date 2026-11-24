@@ -1,0 +1,59 @@
+{
+  "id": "misto-quente-laranja",
+  "titulo": "Misto-quente com laranja",
+  "descricao": "O clássico de padaria, feito em casa.",
+  "refeicoes": [
+    "cafe-da-manha",
+    "lanche-da-tarde"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 10,
+  "maoNaMassaMin": 10,
+  "rendimento": "1 pessoa",
+  "ingredientes": [
+    {
+      "grupo": "Prato",
+      "itens": [
+        "2 fatias de pão de forma",
+        "2 fatias de queijo muçarela",
+        "1 fatia de presunto",
+        "1 colher (chá) de manteiga",
+        "1 laranja em gomos"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [],
+    "bebidas": "Café preto, sem açúcar, ou um café de cápsula com leite, que traz um toque doce para o prato salgado. Quem não toma café pode trocar por chocolate quente, chá ou leite."
+  },
+  "passos": [
+    {
+      "titulo": "Monte",
+      "tempo": "1 min",
+      "texto": "Coloque o queijo e o presunto entre as fatias de pão e passe manteiga por fora."
+    },
+    {
+      "titulo": "Doure",
+      "tempo": "5 min",
+      "texto": "Leve a uma frigideira em fogo médio-baixo, por 2 a 3 minutos de cada lado, até dourar e o queijo derreter."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "1 min",
+      "texto": "Corte ao meio e sirva com a laranja."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Fogo médio-baixo.",
+      "texto": "Em fogo alto o pão queima antes de o queijo derreter."
+    },
+    {
+      "titulo": "Na air fryer.",
+      "texto": "A 180 °C por 5 minutos, virando na metade."
+    }
+  ]
+}

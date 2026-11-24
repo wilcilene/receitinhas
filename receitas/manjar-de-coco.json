@@ -1,0 +1,68 @@
+{
+  "id": "manjar-de-coco",
+  "titulo": "Manjar de coco com calda de ameixa",
+  "descricao": "Tradicional, desenformado.",
+  "refeicoes": [
+    "sobremesa"
+  ],
+  "ocasioes": [
+    "visitas"
+  ],
+  "energia": "dia-normal",
+  "tempoTotalMin": 270,
+  "maoNaMassaMin": 25,
+  "rendimento": "8 fatias",
+  "ingredientes": [
+    {
+      "grupo": "Manjar",
+      "itens": [
+        "1 litro de leite",
+        "200 ml de leite de coco",
+        "1 xícara de açúcar",
+        "6 colheres (sopa) de amido de milho",
+        "50 g de coco ralado"
+      ]
+    },
+    {
+      "grupo": "Calda",
+      "itens": [
+        "1 xícara de ameixas-pretas sem caroço",
+        "1 xícara de água",
+        "1/2 xícara de açúcar"
+      ]
+    }
+  ],
+  "notaPassos": "O tempo total inclui o tempo de geladeira ou congelador. O trabalho de verdade é o indicado em “mão na massa”.",
+  "passos": [
+    {
+      "titulo": "Cozinhe o manjar",
+      "tempo": "12 min",
+      "texto": "Dissolva o amido em parte do leite frio. Junte os demais ingredientes e cozinhe em fogo médio, mexendo sempre, até engrossar. Depois de ferver, cozinhe mais 2 minutos."
+    },
+    {
+      "titulo": "Enforme",
+      "tempo": "3 min",
+      "texto": "Despeje numa forma de pudim molhada com água fria."
+    },
+    {
+      "titulo": "Gele",
+      "tempo": "4 h",
+      "texto": "Deixe esfriar e leve à geladeira por pelo menos 4 horas."
+    },
+    {
+      "titulo": "Calda",
+      "tempo": "10 min",
+      "texto": "Ferva as ameixas com a água e o açúcar por 8 a 10 minutos, até formar uma calda. Deixe esfriar, desenforme o manjar e cubra."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Forma molhada.",
+      "texto": "A água fria na forma ajuda o manjar a soltar inteiro."
+    },
+    {
+      "titulo": "Cozinhe depois de ferver.",
+      "texto": "Os 2 minutos extras tiram o gosto de amido cru."
+    }
+  ]
+}

@@ -49,7 +49,8 @@
   "acompanhar": {
     "sobremesas": [
       {
-        "titulo": "Salada de frutas"
+        "titulo": "Salada de frutas",
+        "id": "salada-de-frutas"
       }
     ],
     "bebidas": "Suco natural de laranja ou água."
@@ -73,7 +74,7 @@
     {
       "titulo": "Monte e asse",
       "tempo": "40 min",
-      "texto": "Numa forma untada, despeje metade da massa, o recheio e o resto da massa. Asse a 180 °C por 35 a 40 minutos, até dourar."
+      "texto": "Numa forma untada, despeje metade da massa, o recheio e o resto da massa. Asse a 180 °C por 35 a 40 minutos, até dourar. Sirva com a salada."
     }
   ],
   "dicas": [

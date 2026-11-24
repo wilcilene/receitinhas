@@ -1,0 +1,59 @@
+{
+  "id": "morangos-com-creme",
+  "titulo": "Morangos com creme",
+  "descricao": "Sobremesa de 10 minutos, sem fogão.",
+  "refeicoes": [
+    "sobremesa"
+  ],
+  "ocasioes": [
+    "dia-a-dia",
+    "especial"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 10,
+  "maoNaMassaMin": 10,
+  "rendimento": "2 porções",
+  "ingredientes": [
+    {
+      "grupo": "Sobremesa",
+      "itens": [
+        "300 g de morangos",
+        "1 caixinha de creme de leite (200 g), gelada",
+        "2 colheres (sopa) de açúcar",
+        "Gotas de essência de baunilha, opcional"
+      ]
+    }
+  ],
+  "passos": [
+    {
+      "titulo": "Lave os morangos",
+      "tempo": "4 min",
+      "texto": "Lave os morangos inteiros, seque, retire os cabinhos e corte ao meio."
+    },
+    {
+      "titulo": "Adoce",
+      "tempo": "2 min",
+      "texto": "Misture os morangos com metade do açúcar e deixe descansar enquanto prepara o creme."
+    },
+    {
+      "titulo": "Faça o creme",
+      "tempo": "2 min",
+      "texto": "Misture o creme de leite com o resto do açúcar e a baunilha, até ficar liso."
+    },
+    {
+      "titulo": "Monte",
+      "tempo": "2 min",
+      "texto": "Distribua os morangos em taças e cubra com o creme."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Lave antes de tirar o cabinho.",
+      "texto": "Sem o cabinho, o morango absorve água e perde sabor."
+    },
+    {
+      "titulo": "Creme bem gelado.",
+      "texto": "Deixe a caixinha na geladeira de véspera, para o creme ficar mais firme."
+    }
+  ]
+}

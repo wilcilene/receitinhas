@@ -1,0 +1,61 @@
+{
+  "id": "bruschetta-de-tomate",
+  "titulo": "Bruschetta de tomate e manjericão",
+  "descricao": "Pão tostado com tomate temperado.",
+  "refeicoes": [
+    "lanche-da-tarde"
+  ],
+  "ocasioes": [
+    "visitas",
+    "especial",
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 15,
+  "maoNaMassaMin": 15,
+  "rendimento": "2 porções",
+  "ingredientes": [
+    {
+      "grupo": "Bruschetta",
+      "itens": [
+        "6 fatias de pão italiano ou baguete",
+        "2 tomates maduros em cubinhos, sem sementes",
+        "1 dente de alho",
+        "2 colheres (sopa) de azeite",
+        "Folhas de manjericão",
+        "Sal e pimenta-do-reino"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [],
+    "bebidas": "Suco de uva, vinho ou água com gás."
+  },
+  "passos": [
+    {
+      "titulo": "Tempere o tomate",
+      "tempo": "5 min",
+      "texto": "Misture o tomate com o azeite, o manjericão rasgado, sal e pimenta."
+    },
+    {
+      "titulo": "Toste o pão",
+      "tempo": "5 min",
+      "texto": "Toste as fatias na air fryer a 200 °C por 3 a 4 minutos, ou numa frigideira seca."
+    },
+    {
+      "titulo": "Monte",
+      "tempo": "3 min",
+      "texto": "Esfregue o dente de alho cortado no pão quente e cubra com o tomate. Sirva na hora."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Tire as sementes do tomate.",
+      "texto": "Com elas, o pão encharca."
+    },
+    {
+      "titulo": "Monte na hora de servir.",
+      "texto": "Depois de 10 minutos, o pão perde o crocante."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "torrada-abacate-ovo",
+  "titulo": "Torrada com abacate e ovo",
+  "descricao": "Cremoso e salgado, bom com café preto.",
+  "refeicoes": [
+    "cafe-da-manha"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 10,
+  "maoNaMassaMin": 10,
+  "rendimento": "1 pessoa",
+  "ingredientes": [
+    {
+      "grupo": "Torrada",
+      "itens": [
+        "2 fatias de pão integral",
+        "1/4 de abacate maduro",
+        "Gotas de limão, sal e pimenta-do-reino",
+        "1 ovo",
+        "1 colher (chá) de azeite"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [],
+    "bebidas": "Café preto, sem açúcar, ou um café de cápsula com leite, que traz um toque doce para o prato salgado. Quem não toma café pode trocar por chocolate quente, chá ou leite."
+  },
+  "passos": [
+    {
+      "titulo": "Toste o pão",
+      "tempo": "2 min",
+      "texto": "Toste as fatias na torradeira ou numa frigideira seca."
+    },
+    {
+      "titulo": "Amasse o abacate",
+      "tempo": "2 min",
+      "texto": "Amasse o abacate com limão, sal e pimenta e espalhe sobre as torradas."
+    },
+    {
+      "titulo": "Faça o ovo",
+      "tempo": "4 min",
+      "texto": "Frite o ovo no azeite e coloque sobre uma das torradas."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Limão no abacate.",
+      "texto": "Além do sabor, ele evita que escureça."
+    },
+    {
+      "titulo": "Guarde o resto do abacate com o caroço.",
+      "texto": "Envolvido em filme plástico, dura até o dia seguinte."
+    }
+  ]
+}

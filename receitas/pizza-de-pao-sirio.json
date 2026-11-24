@@ -1,0 +1,58 @@
+{
+  "id": "pizza-de-pao-sirio",
+  "titulo": "Pizza de pão sírio na air fryer",
+  "descricao": "Massa pronta, cobertura a gosto.",
+  "refeicoes": [
+    "lanche-da-tarde"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 10,
+  "maoNaMassaMin": 5,
+  "rendimento": "1 pessoa",
+  "ingredientes": [
+    {
+      "grupo": "Pizza",
+      "itens": [
+        "1 disco de pão sírio",
+        "2 colheres (sopa) de molho de tomate",
+        "3 fatias de muçarela",
+        "4 rodelas de tomate",
+        "Orégano e um fio de azeite"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [],
+    "bebidas": "Suco natural, chá gelado ou água com gás."
+  },
+  "passos": [
+    {
+      "titulo": "Monte",
+      "tempo": "3 min",
+      "texto": "Espalhe o molho sobre o pão, cubra com a muçarela, o tomate e o orégano."
+    },
+    {
+      "titulo": "Asse",
+      "tempo": "5 min",
+      "texto": "Leve à air fryer a 180 °C por 4 a 5 minutos, até o queijo derreter e a borda ficar crocante."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "1 min",
+      "texto": "Regue com azeite e corte em quatro."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Pouco molho.",
+      "texto": "Em excesso, ele encharca o pão."
+    },
+    {
+      "titulo": "Prenda as coberturas.",
+      "texto": "O queijo por cima segura o orégano, que voa com o vento da air fryer."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "sanduiche-natural-frango",
+  "titulo": "Sanduíche natural de frango",
+  "descricao": "Com cenoura e folhas.",
+  "refeicoes": [
+    "lanche-da-tarde"
+  ],
+  "ocasioes": [
+    "dia-a-dia",
+    "visitas"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 15,
+  "maoNaMassaMin": 15,
+  "rendimento": "2 sanduíches",
+  "ingredientes": [
+    {
+      "grupo": "Recheio",
+      "itens": [
+        "1 xícara de frango cozido e desfiado",
+        "1/2 cenoura ralada",
+        "2 colheres (sopa) de requeijão ou iogurte natural",
+        "1 colher (sopa) de milho",
+        "Sal, pimenta-do-reino e salsinha"
+      ]
+    },
+    {
+      "grupo": "Montagem",
+      "itens": [
+        "4 fatias de pão integral",
+        "Folhas de alface",
+        "Rodelas de tomate"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [],
+    "bebidas": "Suco natural, chá gelado ou água com gás."
+  },
+  "passos": [
+    {
+      "titulo": "Misture o recheio",
+      "tempo": "5 min",
+      "texto": "Misture o frango, a cenoura, o requeijão, o milho e os temperos."
+    },
+    {
+      "titulo": "Monte",
+      "tempo": "5 min",
+      "texto": "Distribua a alface, o tomate e o recheio entre as fatias de pão."
+    },
+    {
+      "titulo": "Corte",
+      "tempo": "1 min",
+      "texto": "Corte na diagonal e sirva."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Frango de sobra.",
+      "texto": "Use o que restou do almoço, ou cozinhe um filé e congele desfiado em porções."
+    },
+    {
+      "titulo": "Folhas secas.",
+      "texto": "Alface molhada encharca o pão."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "banana-caramelizada-canela",
+  "titulo": "Banana caramelizada com canela",
+  "descricao": "Na frigideira, em 10 minutos.",
+  "refeicoes": [
+    "sobremesa"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 10,
+  "maoNaMassaMin": 10,
+  "rendimento": "1 porção",
+  "ingredientes": [
+    {
+      "grupo": "Sobremesa",
+      "itens": [
+        "1 banana-prata ou nanica madura, cortada ao meio no comprimento",
+        "1 colher (chá) de manteiga",
+        "1 colher (sopa) de açúcar",
+        "Canela em pó",
+        "1 bola de sorvete de creme ou 2 colheres de iogurte, opcional"
+      ]
+    }
+  ],
+  "passos": [
+    {
+      "titulo": "Derreta",
+      "tempo": "2 min",
+      "texto": "Derreta a manteiga com o açúcar em frigideira antiaderente, em fogo médio, até começar a dourar."
+    },
+    {
+      "titulo": "Caramelize",
+      "tempo": "4 min",
+      "texto": "Coloque a banana com o lado cortado para baixo. Deixe 2 minutos de cada lado, regando com o caramelo."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "1 min",
+      "texto": "Polvilhe canela e sirva quente, com sorvete ou iogurte."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Banana madura, mas firme.",
+      "texto": "Muito mole, ela desmancha ao virar."
+    },
+    {
+      "titulo": "Cuidado com o caramelo.",
+      "texto": "Ele passa de dourado a queimado em segundos; não se afaste do fogão."
+    }
+  ]
+}

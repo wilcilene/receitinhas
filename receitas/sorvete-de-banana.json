@@ -1,0 +1,52 @@
+{
+  "id": "sorvete-de-banana",
+  "titulo": "Sorvete de banana congelada",
+  "descricao": "Um ingrediente só, batido no processador.",
+  "refeicoes": [
+    "sobremesa"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 250,
+  "maoNaMassaMin": 10,
+  "rendimento": "2 porções",
+  "ingredientes": [
+    {
+      "grupo": "Sobremesa",
+      "itens": [
+        "3 bananas maduras em rodelas",
+        "1 colher (sopa) de cacau em pó ou pasta de amendoim, opcional"
+      ]
+    }
+  ],
+  "notaPassos": "O tempo total inclui o tempo de geladeira ou congelador. O trabalho de verdade é o indicado em “mão na massa”.",
+  "passos": [
+    {
+      "titulo": "Congele",
+      "tempo": "4 h",
+      "texto": "Espalhe as rodelas num pote ou saco, em uma camada, e congele por pelo menos 4 horas."
+    },
+    {
+      "titulo": "Bata",
+      "tempo": "5 min",
+      "texto": "Bata as rodelas congeladas no processador ou num liquidificador potente, parando para raspar as laterais, até virar um creme."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "1 min",
+      "texto": "Misture o cacau, se quiser, e sirva na hora."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Banana bem madura.",
+      "texto": "Com a casca pintada, ela é mais doce e dispensa açúcar."
+    },
+    {
+      "titulo": "Tenha paciência ao bater.",
+      "texto": "Primeiro esfarela, depois vira creme; não acrescente líquido."
+    }
+  ]
+}

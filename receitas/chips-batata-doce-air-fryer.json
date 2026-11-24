@@ -1,0 +1,64 @@
+{
+  "id": "chips-batata-doce-air-fryer",
+  "titulo": "Chips de batata-doce na air fryer",
+  "descricao": "Com molho de iogurte.",
+  "refeicoes": [
+    "lanche-da-tarde"
+  ],
+  "ocasioes": [
+    "dia-a-dia",
+    "visitas"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 25,
+  "maoNaMassaMin": 10,
+  "rendimento": "2 porções",
+  "ingredientes": [
+    {
+      "grupo": "Chips",
+      "itens": [
+        "1 batata-doce média, com casca, em rodelas bem finas",
+        "1 colher (chá) de azeite",
+        "Sal e páprica"
+      ]
+    },
+    {
+      "grupo": "Molho",
+      "itens": [
+        "3 colheres (sopa) de iogurte natural",
+        "Gotas de limão, sal e cebolinha picada"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [],
+    "bebidas": "Suco natural, chá gelado ou água com gás."
+  },
+  "passos": [
+    {
+      "titulo": "Prepare",
+      "tempo": "6 min",
+      "texto": "Fatie a batata-doce o mais fino que conseguir. Seque as rodelas e misture com o azeite, o sal e a páprica."
+    },
+    {
+      "titulo": "Asse",
+      "tempo": "15 min",
+      "texto": "Espalhe na air fryer em uma camada, a 160 °C por 12 a 15 minutos, chacoalhando a cada 5 minutos. Faça em levas, se precisar."
+    },
+    {
+      "titulo": "Molho",
+      "tempo": "2 min",
+      "texto": "Misture os ingredientes do molho e sirva com os chips."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Temperatura mais baixa.",
+      "texto": "A 200 °C, as bordas queimam antes de o centro secar."
+    },
+    {
+      "titulo": "Ficam crocantes ao esfriar.",
+      "texto": "Tire quando estiverem dourados, mesmo que ainda flexíveis."
+    }
+  ]
+}

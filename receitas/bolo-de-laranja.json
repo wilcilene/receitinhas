@@ -1,0 +1,68 @@
+{
+  "id": "bolo-de-laranja",
+  "titulo": "Bolo de laranja",
+  "descricao": "Com calda de suco de laranja.",
+  "refeicoes": [
+    "lanche-da-tarde"
+  ],
+  "ocasioes": [
+    "visitas",
+    "dia-a-dia"
+  ],
+  "energia": "dia-normal",
+  "tempoTotalMin": 55,
+  "maoNaMassaMin": 15,
+  "rendimento": "12 fatias",
+  "ingredientes": [
+    {
+      "grupo": "Bolo",
+      "itens": [
+        "3 ovos",
+        "1 xícara de suco de laranja",
+        "1/2 xícara de óleo",
+        "1 e 1/2 xícara de açúcar",
+        "2 xícaras de farinha de trigo",
+        "1 colher (sopa) de fermento em pó",
+        "Raspas da casca de 1 laranja"
+      ]
+    },
+    {
+      "grupo": "Calda",
+      "itens": [
+        "1/2 xícara de suco de laranja",
+        "3 colheres (sopa) de açúcar"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [],
+    "bebidas": "Café preto, chá ou suco natural."
+  },
+  "passos": [
+    {
+      "titulo": "Bata",
+      "tempo": "5 min",
+      "texto": "Bata no liquidificador os ovos, o suco, o óleo e o açúcar. Numa tigela, misture à farinha e às raspas. Junte o fermento por último."
+    },
+    {
+      "titulo": "Asse",
+      "tempo": "40 min",
+      "texto": "Despeje numa forma com furo, untada e enfarinhada. Asse a 180 °C por 35 a 40 minutos."
+    },
+    {
+      "titulo": "Calda",
+      "tempo": "5 min",
+      "texto": "Ferva o suco com o açúcar por 3 minutos. Fure o bolo morno com um garfo e regue com a calda."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Raspe só a parte laranja.",
+      "texto": "A parte branca da casca amarga."
+    },
+    {
+      "titulo": "Fure antes de regar.",
+      "texto": "A calda entra no bolo em vez de escorrer."
+    }
+  ]
+}

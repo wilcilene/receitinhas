@@ -11,7 +11,7 @@
   ],
   "energia": "dia-normal",
   "tempoTotalMin": 30,
-  "maoNaMassaMin": 25,
+  "maoNaMassaMin": 30,
   "rendimento": "2 porções",
   "ingredientes": [
     {
@@ -46,6 +46,11 @@
   },
   "passos": [
     {
+      "titulo": "Corte os ingredientes",
+      "tempo": "8 min",
+      "texto": "Corte o frango em tiras e todos os legumes. Misture os ingredientes do molho numa tigela, a frio."
+    },
+    {
       "titulo": "Cozinhe o macarrão",
       "tempo": "5 min",
       "texto": "Cozinhe pelo tempo da embalagem, escorra e passe por água fria."
@@ -63,7 +68,7 @@
     {
       "titulo": "Molho e finalização",
       "tempo": "4 min",
-      "texto": "Misture os ingredientes do molho a frio, despeje na frigideira e mexa até engrossar. Junte o macarrão e envolva bem."
+      "texto": "Mexa o molho de novo, despeje na frigideira e mexa até engrossar. Junte o macarrão e envolva bem."
     }
   ],
   "dicas": [

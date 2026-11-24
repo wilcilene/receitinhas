@@ -1,0 +1,63 @@
+{
+  "id": "cheesecake-de-copo",
+  "titulo": "Cheesecake de copo com geleia",
+  "descricao": "Sem forno.",
+  "refeicoes": [
+    "sobremesa"
+  ],
+  "ocasioes": [
+    "visitas",
+    "especial"
+  ],
+  "energia": "dia-normal",
+  "tempoTotalMin": 75,
+  "maoNaMassaMin": 15,
+  "rendimento": "4 porções",
+  "ingredientes": [
+    {
+      "grupo": "Sobremesa",
+      "itens": [
+        "100 g de biscoito maisena triturado",
+        "2 colheres (sopa) de manteiga derretida",
+        "200 g de cream cheese em temperatura ambiente",
+        "1/2 caixinha de creme de leite (100 g)",
+        "3 colheres (sopa) de açúcar",
+        "Suco de 1/2 limão",
+        "4 colheres (sopa) de geleia de frutas vermelhas"
+      ]
+    }
+  ],
+  "notaPassos": "O tempo total inclui o tempo de geladeira ou congelador. O trabalho de verdade é o indicado em “mão na massa”.",
+  "passos": [
+    {
+      "titulo": "Base",
+      "tempo": "4 min",
+      "texto": "Misture o biscoito com a manteiga e distribua em 4 copos, apertando de leve."
+    },
+    {
+      "titulo": "Creme",
+      "tempo": "5 min",
+      "texto": "Bata o cream cheese com o açúcar, o creme de leite e o limão, até ficar liso. Distribua sobre a base."
+    },
+    {
+      "titulo": "Gele",
+      "tempo": "1 h",
+      "texto": "Leve à geladeira por pelo menos 1 hora."
+    },
+    {
+      "titulo": "Finalize",
+      "tempo": "2 min",
+      "texto": "Cubra com a geleia antes de servir."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Cream cheese fora da geladeira.",
+      "texto": "Gelado, ele empelota ao bater."
+    },
+    {
+      "titulo": "Geleia azedinha.",
+      "texto": "Frutas vermelhas ou maracujá equilibram o doce do creme."
+    }
+  ]
+}

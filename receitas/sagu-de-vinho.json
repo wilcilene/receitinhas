@@ -1,0 +1,71 @@
+{
+  "id": "sagu-de-vinho",
+  "titulo": "Sagu de vinho",
+  "descricao": "Com creme de baunilha.",
+  "refeicoes": [
+    "sobremesa"
+  ],
+  "ocasioes": [
+    "dia-a-dia",
+    "visitas"
+  ],
+  "energia": "dia-normal",
+  "tempoTotalMin": 160,
+  "maoNaMassaMin": 25,
+  "rendimento": "6 porções",
+  "ingredientes": [
+    {
+      "grupo": "Sagu",
+      "itens": [
+        "1 xícara de sagu",
+        "1 litro de água",
+        "2 xícaras de vinho tinto suave ou suco de uva integral",
+        "1 xícara de açúcar",
+        "1 pau de canela e 3 cravos"
+      ]
+    },
+    {
+      "grupo": "Creme",
+      "itens": [
+        "2 xícaras de leite",
+        "2 gemas",
+        "3 colheres (sopa) de açúcar",
+        "1 colher (sopa) de amido de milho",
+        "Gotas de essência de baunilha"
+      ]
+    }
+  ],
+  "notaPassos": "O tempo total inclui o tempo de geladeira ou congelador. O trabalho de verdade é o indicado em “mão na massa”.",
+  "passos": [
+    {
+      "titulo": "Cozinhe o sagu",
+      "tempo": "25 min",
+      "texto": "Ferva a água, junte o sagu e cozinhe em fogo baixo, mexendo com frequência, por 20 a 25 minutos, até as bolinhas ficarem quase transparentes."
+    },
+    {
+      "titulo": "Junte o vinho",
+      "tempo": "10 min",
+      "texto": "Acrescente o vinho, o açúcar, a canela e os cravos. Cozinhe por mais 10 minutos, mexendo."
+    },
+    {
+      "titulo": "Creme",
+      "tempo": "8 min",
+      "texto": "Misture os ingredientes do creme a frio e cozinhe em fogo baixo, mexendo, até engrossar. Não deixe ferver forte."
+    },
+    {
+      "titulo": "Gele",
+      "tempo": "2 h",
+      "texto": "Leve o sagu e o creme à geladeira, em potes separados, por 2 horas. Sirva o sagu com o creme por cima."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Mexa o sagu.",
+      "texto": "Parado, ele gruda no fundo e forma um bloco."
+    },
+    {
+      "titulo": "Sem álcool.",
+      "texto": "Com suco de uva integral, reduza o açúcar pela metade."
+    }
+  ]
+}

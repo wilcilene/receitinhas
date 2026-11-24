@@ -1,0 +1,47 @@
+{
+  "id": "romeu-e-julieta",
+  "titulo": "Romeu e Julieta",
+  "descricao": "Goiabada com queijo, sem preparo.",
+  "refeicoes": [
+    "sobremesa"
+  ],
+  "ocasioes": [
+    "dia-a-dia",
+    "visitas"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 5,
+  "maoNaMassaMin": 5,
+  "rendimento": "2 porções",
+  "ingredientes": [
+    {
+      "grupo": "Sobremesa",
+      "itens": [
+        "4 fatias de queijo minas frescal ou meia-cura",
+        "4 fatias de goiabada cascão"
+      ]
+    }
+  ],
+  "passos": [
+    {
+      "titulo": "Corte",
+      "tempo": "3 min",
+      "texto": "Corte o queijo e a goiabada em fatias da mesma espessura."
+    },
+    {
+      "titulo": "Monte",
+      "tempo": "2 min",
+      "texto": "Sirva uma fatia de goiabada sobre cada fatia de queijo."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Versão quente.",
+      "texto": "Doure o queijo coalho na frigideira e derreta a goiabada com uma colher de água; fica uma calda."
+    },
+    {
+      "titulo": "Queijo em temperatura ambiente.",
+      "texto": "Tire da geladeira 15 minutos antes, para o sabor aparecer."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "chocolate-quente-cremoso",
+  "titulo": "Chocolate quente cremoso com torradas",
+  "descricao": "Para tardes frias.",
+  "refeicoes": [
+    "lanche-da-tarde"
+  ],
+  "ocasioes": [
+    "dia-a-dia",
+    "especial"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 10,
+  "maoNaMassaMin": 10,
+  "rendimento": "2 porções",
+  "ingredientes": [
+    {
+      "grupo": "Chocolate quente",
+      "itens": [
+        "2 xícaras de leite",
+        "2 colheres (sopa) de chocolate em pó ou cacau",
+        "1 colher (sopa) de açúcar",
+        "1 colher (chá) de amido de milho",
+        "1 pitada de canela"
+      ]
+    },
+    {
+      "grupo": "Para acompanhar",
+      "itens": [
+        "4 torradas com manteiga"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [],
+    "bebidas": "O chocolate quente já é a bebida do lanche."
+  },
+  "passos": [
+    {
+      "titulo": "Dissolva a frio",
+      "tempo": "2 min",
+      "texto": "Na panela ainda fria, misture o leite, o chocolate, o açúcar e o amido, até dissolver."
+    },
+    {
+      "titulo": "Cozinhe",
+      "tempo": "5 min",
+      "texto": "Leve ao fogo médio, mexendo sempre, até ferver e engrossar levemente."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "1 min",
+      "texto": "Sirva em canecas, com canela por cima e as torradas ao lado."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Amido dissolvido a frio.",
+      "texto": "No leite quente, ele empelota."
+    },
+    {
+      "titulo": "Mais intenso.",
+      "texto": "Um quadradinho de chocolate meio amargo derretido no final deixa a bebida mais encorpada."
+    }
+  ]
+}

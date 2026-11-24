@@ -1,0 +1,56 @@
+{
+  "id": "bolo-de-caneca-chocolate",
+  "titulo": "Bolo de caneca de chocolate",
+  "descricao": "No micro-ondas, em 5 minutos.",
+  "refeicoes": [
+    "sobremesa"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 5,
+  "maoNaMassaMin": 5,
+  "rendimento": "1 porção",
+  "ingredientes": [
+    {
+      "grupo": "Sobremesa",
+      "itens": [
+        "1 ovo",
+        "3 colheres (sopa) de leite",
+        "2 colheres (sopa) de óleo",
+        "3 colheres (sopa) de açúcar",
+        "2 colheres (sopa) de chocolate em pó",
+        "4 colheres (sopa) de farinha de trigo",
+        "1/2 colher (chá) de fermento em pó"
+      ]
+    }
+  ],
+  "passos": [
+    {
+      "titulo": "Misture",
+      "tempo": "2 min",
+      "texto": "Numa caneca grande (300 ml), bata o ovo com um garfo. Junte o leite, o óleo, o açúcar e o chocolate. Acrescente a farinha e, por último, o fermento."
+    },
+    {
+      "titulo": "Cozinhe",
+      "tempo": "2 min",
+      "texto": "Leve ao micro-ondas em potência alta por 1 minuto e meio a 2 minutos."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "1 min",
+      "texto": "Espere 1 minuto, pois sai muito quente, e coma na própria caneca."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Caneca grande.",
+      "texto": "A massa cresce bastante; encha só até a metade."
+    },
+    {
+      "titulo": "Não passe do tempo.",
+      "texto": "Poucos segundos a mais deixam o bolo seco e borrachudo."
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "cookies-aveia-banana",
+  "titulo": "Cookies de aveia e banana",
+  "descricao": "Na air fryer ou no forno.",
+  "refeicoes": [
+    "lanche-da-tarde"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 20,
+  "maoNaMassaMin": 8,
+  "rendimento": "8 cookies",
+  "ingredientes": [
+    {
+      "grupo": "Cookies",
+      "itens": [
+        "2 bananas maduras",
+        "1 xícara de aveia em flocos",
+        "2 colheres (sopa) de gotas de chocolate ou uvas-passas",
+        "1 pitada de canela"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [],
+    "bebidas": "Café preto, chá ou suco natural."
+  },
+  "passos": [
+    {
+      "titulo": "Misture",
+      "tempo": "4 min",
+      "texto": "Amasse as bananas e misture a aveia, o chocolate e a canela."
+    },
+    {
+      "titulo": "Modele",
+      "tempo": "4 min",
+      "texto": "Com uma colher, faça 8 montinhos sobre papel-manteiga e achate, pois eles não se espalham sozinhos."
+    },
+    {
+      "titulo": "Asse",
+      "tempo": "12 min",
+      "texto": "Na air fryer, 170 °C por 10 a 12 minutos. No forno, 180 °C por 15 minutos, até dourar nas bordas."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Achate bem.",
+      "texto": "Grossos, ficam crus no centro."
+    },
+    {
+      "titulo": "Macios, não crocantes.",
+      "texto": "Sem farinha e manteiga, a textura é de bolinho."
+    }
+  ]
+}

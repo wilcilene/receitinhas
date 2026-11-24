@@ -1,0 +1,72 @@
+{
+  "id": "rabanada-de-frigideira",
+  "titulo": "Rabanada de frigideira",
+  "descricao": "Para aproveitar o pão do dia anterior.",
+  "refeicoes": [
+    "cafe-da-manha",
+    "lanche-da-tarde"
+  ],
+  "ocasioes": [
+    "dia-a-dia",
+    "especial"
+  ],
+  "energia": "dia-normal",
+  "tempoTotalMin": 15,
+  "maoNaMassaMin": 15,
+  "rendimento": "1 pessoa",
+  "ingredientes": [
+    {
+      "grupo": "Rabanada",
+      "itens": [
+        "3 fatias grossas de pão amanhecido",
+        "1 ovo",
+        "1/3 de xícara de leite",
+        "1 colher (chá) de açúcar",
+        "1 colher (chá) de manteiga",
+        "Canela em pó"
+      ]
+    },
+    {
+      "grupo": "Para servir",
+      "itens": [
+        "Morangos ou banana em rodelas"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [],
+    "bebidas": "Café preto, sem açúcar: o amargor equilibra o doce do prato. Quem não toma café pode trocar por chocolate quente, chá ou leite."
+  },
+  "passos": [
+    {
+      "titulo": "Bata",
+      "tempo": "2 min",
+      "texto": "Bata o ovo com o leite e o açúcar num prato fundo."
+    },
+    {
+      "titulo": "Molhe o pão",
+      "tempo": "2 min",
+      "texto": "Mergulhe as fatias, 10 segundos de cada lado."
+    },
+    {
+      "titulo": "Doure",
+      "tempo": "6 min",
+      "texto": "Aqueça a manteiga em fogo médio e doure as fatias por 2 a 3 minutos de cada lado."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "1 min",
+      "texto": "Polvilhe canela e sirva com as frutas."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Pão amanhecido.",
+      "texto": "O pão fresco absorve líquido demais e desmancha."
+    },
+    {
+      "titulo": "Pouco açúcar.",
+      "texto": "A fruta e a canela completam o doce."
+    }
+  ]
+}

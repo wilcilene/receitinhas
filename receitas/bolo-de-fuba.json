@@ -1,0 +1,64 @@
+{
+  "id": "bolo-de-fuba",
+  "titulo": "Bolo de fubá",
+  "descricao": "Fatias para a semana toda; bolo simples é o par clássico do café preto.",
+  "refeicoes": [
+    "cafe-da-manha",
+    "lanche-da-tarde"
+  ],
+  "ocasioes": [
+    "dia-a-dia",
+    "visitas"
+  ],
+  "energia": "dia-normal",
+  "tempoTotalMin": 50,
+  "maoNaMassaMin": 15,
+  "rendimento": "10 fatias",
+  "ingredientes": [
+    {
+      "grupo": "Bolo",
+      "itens": [
+        "3 ovos",
+        "1 xícara de açúcar",
+        "1/2 xícara de óleo",
+        "1 xícara de leite",
+        "1 xícara de fubá",
+        "1 xícara de farinha de trigo",
+        "1 colher (sopa) de fermento em pó",
+        "1 pitada de sal",
+        "1 colher (chá) de erva-doce, opcional"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [],
+    "bebidas": "Café preto, sem açúcar: o amargor equilibra o doce do prato. Quem não toma café pode trocar por chocolate quente, chá ou leite."
+  },
+  "passos": [
+    {
+      "titulo": "Bata",
+      "tempo": "5 min",
+      "texto": "Bata no liquidificador os ovos, o açúcar, o óleo e o leite. Junte o fubá, a farinha e o sal e bata até ficar liso. Misture o fermento e a erva-doce com uma colher."
+    },
+    {
+      "titulo": "Asse",
+      "tempo": "40 min",
+      "texto": "Despeje numa forma com furo, untada e enfarinhada. Asse a 180 °C por 35 a 40 minutos."
+    },
+    {
+      "titulo": "Esfrie",
+      "tempo": "5 min",
+      "texto": "Espere amornar antes de desenformar."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Não abra o forno antes de 25 minutos.",
+      "texto": "O ar frio faz o bolo murchar."
+    },
+    {
+      "titulo": "Guarde bem fechado.",
+      "texto": "Dura 4 dias em pote com tampa, fora da geladeira."
+    }
+  ]
+}

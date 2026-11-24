@@ -1,0 +1,59 @@
+{
+  "id": "ovos-cozidos-pao-requeijao",
+  "titulo": "Ovos cozidos com pão integral e requeijão",
+  "descricao": "Dá para deixar os ovos cozidos de véspera.",
+  "refeicoes": [
+    "cafe-da-manha"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 15,
+  "maoNaMassaMin": 5,
+  "rendimento": "1 pessoa",
+  "ingredientes": [
+    {
+      "grupo": "Prato",
+      "itens": [
+        "2 ovos",
+        "2 fatias de pão integral",
+        "1 colher (sopa) de requeijão",
+        "1/2 tomate em rodelas",
+        "Sal e orégano",
+        "1 fatia de melão"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [],
+    "bebidas": "Café preto, sem açúcar, ou um café de cápsula com leite, que traz um toque doce para o prato salgado. Quem não toma café pode trocar por chocolate quente, chá ou leite."
+  },
+  "passos": [
+    {
+      "titulo": "Cozinhe os ovos",
+      "tempo": "10 min",
+      "texto": "Coloque os ovos em água fervente e conte 10 minutos para gema firme, ou 7 para gema cremosa. Passe por água fria e descasque."
+    },
+    {
+      "titulo": "Monte",
+      "tempo": "3 min",
+      "texto": "Passe o requeijão no pão, cubra com o tomate e o orégano."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "1 min",
+      "texto": "Sirva com os ovos cortados ao meio, temperados com sal, e o melão."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Água fria logo depois.",
+      "texto": "O choque térmico solta a casca."
+    },
+    {
+      "titulo": "Cozinhe vários.",
+      "texto": "Ovos cozidos com casca duram 5 dias na geladeira."
+    }
+  ]
+}

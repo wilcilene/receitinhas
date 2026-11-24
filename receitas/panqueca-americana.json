@@ -1,0 +1,69 @@
+{
+  "id": "panqueca-americana",
+  "titulo": "Panqueca americana com mel e frutas",
+  "descricao": "Fofas, feitas na frigideira.",
+  "refeicoes": [
+    "cafe-da-manha",
+    "lanche-da-tarde"
+  ],
+  "ocasioes": [
+    "dia-a-dia",
+    "visitas"
+  ],
+  "energia": "dia-normal",
+  "tempoTotalMin": 20,
+  "maoNaMassaMin": 20,
+  "rendimento": "6 panquecas",
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "itens": [
+        "1 xícara de farinha de trigo",
+        "1 colher (sopa) de açúcar",
+        "1 colher (chá) de fermento em pó",
+        "1 pitada de sal",
+        "1 ovo",
+        "3/4 de xícara de leite",
+        "1 colher (sopa) de manteiga derretida"
+      ]
+    },
+    {
+      "grupo": "Para servir",
+      "itens": [
+        "Mel",
+        "Banana ou morangos"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [],
+    "bebidas": "Café preto, sem açúcar. Quem não toma café pode trocar por chocolate quente, chá ou leite."
+  },
+  "passos": [
+    {
+      "titulo": "Misture",
+      "tempo": "4 min",
+      "texto": "Misture os ingredientes secos. Junte o ovo, o leite e a manteiga e mexa só até incorporar; pequenos grumos são normais."
+    },
+    {
+      "titulo": "Doure",
+      "tempo": "12 min",
+      "texto": "Em frigideira antiaderente, em fogo baixo, despeje meia concha de massa. Quando surgirem bolhas na superfície, vire e doure o outro lado."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "2 min",
+      "texto": "Empilhe e sirva com mel e frutas."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Não bata demais.",
+      "texto": "Massa muito trabalhada resulta em panqueca dura."
+    },
+    {
+      "titulo": "As bolhas avisam.",
+      "texto": "Vire quando elas estourarem e não fecharem mais."
+    }
+  ]
+}

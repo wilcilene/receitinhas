@@ -1,0 +1,65 @@
+{
+  "id": "sanduiche-ovo-queijo",
+  "titulo": "Sanduíche de ovo e queijo no pão francês",
+  "descricao": "Um café da manhã que segura até o almoço.",
+  "refeicoes": [
+    "cafe-da-manha"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 10,
+  "maoNaMassaMin": 10,
+  "rendimento": "1 pessoa",
+  "ingredientes": [
+    {
+      "grupo": "Sanduíche",
+      "itens": [
+        "1 pão francês",
+        "1 ovo",
+        "1 fatia de queijo muçarela",
+        "2 rodelas de tomate",
+        "1 colher (chá) de azeite",
+        "Sal e orégano"
+      ]
+    },
+    {
+      "grupo": "Para acompanhar",
+      "itens": [
+        "1 tangerina"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [],
+    "bebidas": "Café preto, sem açúcar, ou um café de cápsula com leite, que traz um toque doce para o prato salgado. Quem não toma café pode trocar por chocolate quente, chá ou leite."
+  },
+  "passos": [
+    {
+      "titulo": "Frite o ovo",
+      "tempo": "3 min",
+      "texto": "Frite o ovo no azeite, com uma pitada de sal. Coloque o queijo por cima e tampe por 30 segundos."
+    },
+    {
+      "titulo": "Aqueça o pão",
+      "tempo": "2 min",
+      "texto": "Corte o pão e aqueça na frigideira com o miolo para baixo."
+    },
+    {
+      "titulo": "Monte",
+      "tempo": "1 min",
+      "texto": "Coloque o ovo com queijo, o tomate e o orégano no pão. Sirva com a tangerina."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Estoure a gema.",
+      "texto": "Para comer no pão sem escorrer, fure a gema e deixe firmar."
+    },
+    {
+      "titulo": "Queijo sobre o ovo.",
+      "texto": "Derrete com o próprio calor, sem sujar a frigideira."
+    }
+  ]
+}

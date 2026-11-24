@@ -1,0 +1,61 @@
+{
+  "id": "bolo-de-banana-aveia",
+  "titulo": "Bolo de banana com aveia",
+  "descricao": "Sem açúcar refinado; a banana adoça.",
+  "refeicoes": [
+    "cafe-da-manha",
+    "lanche-da-tarde"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "dia-normal",
+  "tempoTotalMin": 45,
+  "maoNaMassaMin": 10,
+  "rendimento": "8 fatias",
+  "ingredientes": [
+    {
+      "grupo": "Bolo",
+      "itens": [
+        "3 bananas bem maduras",
+        "2 ovos",
+        "1/4 de xícara de óleo",
+        "2 xícaras de aveia em flocos finos",
+        "1/2 xícara de uvas-passas ou castanhas",
+        "1 colher (chá) de canela",
+        "1 colher (sopa) de fermento em pó"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [],
+    "bebidas": "Café preto, sem açúcar. Quem não toma café pode trocar por chocolate quente, chá ou leite."
+  },
+  "passos": [
+    {
+      "titulo": "Misture",
+      "tempo": "8 min",
+      "texto": "Amasse as bananas e misture os ovos e o óleo. Junte a aveia, as passas e a canela. Acrescente o fermento por último."
+    },
+    {
+      "titulo": "Asse",
+      "tempo": "35 min",
+      "texto": "Despeje numa forma de bolo inglês untada. Asse a 180 °C por 30 a 35 minutos, até o palito sair limpo."
+    },
+    {
+      "titulo": "Esfrie",
+      "tempo": "5 min",
+      "texto": "Espere amornar antes de cortar."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Quanto mais madura, melhor.",
+      "texto": "Bananas com a casca escura são as mais doces."
+    },
+    {
+      "titulo": "Congele em fatias.",
+      "texto": "Embaladas uma a uma, descongelam em 20 segundos no micro-ondas."
+    }
+  ]
+}

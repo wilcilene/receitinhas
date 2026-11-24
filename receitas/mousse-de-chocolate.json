@@ -1,0 +1,61 @@
+{
+  "id": "mousse-de-chocolate",
+  "titulo": "Mousse de chocolate",
+  "descricao": "Sem ovos crus, com creme de leite batido.",
+  "refeicoes": [
+    "sobremesa"
+  ],
+  "ocasioes": [
+    "especial",
+    "visitas"
+  ],
+  "energia": "dia-normal",
+  "tempoTotalMin": 200,
+  "maoNaMassaMin": 20,
+  "rendimento": "6 porções",
+  "ingredientes": [
+    {
+      "grupo": "Mousse",
+      "itens": [
+        "200 g de chocolate meio amargo picado",
+        "1 caixinha de creme de leite (200 g)",
+        "250 ml de creme de leite fresco, bem gelado",
+        "1 colher (sopa) de açúcar",
+        "Raspas de chocolate, para decorar"
+      ]
+    }
+  ],
+  "notaPassos": "O tempo total inclui o tempo de geladeira. O trabalho de verdade é o indicado em “mão na massa”.",
+  "passos": [
+    {
+      "titulo": "Derreta o chocolate",
+      "tempo": "5 min",
+      "texto": "Derreta o chocolate com o creme de leite de caixinha em banho-maria, ou no micro-ondas de 30 em 30 segundos, mexendo a cada pausa. Deixe amornar."
+    },
+    {
+      "titulo": "Bata o creme fresco",
+      "tempo": "5 min",
+      "texto": "Bata o creme de leite fresco com o açúcar, na batedeira ou com batedor de arame, até formar picos moles."
+    },
+    {
+      "titulo": "Incorpore",
+      "tempo": "5 min",
+      "texto": "Misture um terço do creme batido ao chocolate. Depois junte o restante com uma espátula, em movimentos de baixo para cima."
+    },
+    {
+      "titulo": "Gele",
+      "tempo": "3 h",
+      "texto": "Distribua em taças e leve à geladeira por pelo menos 3 horas. Decore com as raspas."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Chocolate morno, não quente.",
+      "texto": "Quente, ele derrete o creme batido e a mousse não fica aerada."
+    },
+    {
+      "titulo": "Pare nos picos moles.",
+      "texto": "Batido demais, o creme fresco vira manteiga."
+    }
+  ]
+}

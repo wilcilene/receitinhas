@@ -48,7 +48,8 @@
   "acompanhar": {
     "sobremesas": [
       {
-        "titulo": "Pudim de leite"
+        "titulo": "Pudim de leite",
+        "id": "pudim-de-leite"
       },
       {
         "titulo": "Laranja"
@@ -56,6 +57,7 @@
     ],
     "bebidas": "Vinho tinto leve, suco de uva integral ou água com gás."
   },
+  "notaPassos": "O tempo total inclui cerca de 10 minutos para a panela pegar pressão e soltar o vapor.",
   "passos": [
     {
       "titulo": "Sele a carne",

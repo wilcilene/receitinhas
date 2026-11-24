@@ -1,0 +1,62 @@
+{
+  "id": "brownie",
+  "titulo": "Brownie de chocolate",
+  "descricao": "Casquinha por cima, úmido por dentro.",
+  "refeicoes": [
+    "sobremesa"
+  ],
+  "ocasioes": [
+    "visitas",
+    "especial"
+  ],
+  "energia": "dia-normal",
+  "tempoTotalMin": 40,
+  "maoNaMassaMin": 15,
+  "rendimento": "9 pedaços",
+  "ingredientes": [
+    {
+      "grupo": "Sobremesa",
+      "itens": [
+        "200 g de chocolate meio amargo picado",
+        "150 g de manteiga",
+        "3 ovos",
+        "1 xícara de açúcar",
+        "3/4 de xícara de farinha de trigo",
+        "1 pitada de sal",
+        "1/2 xícara de nozes picadas, opcional"
+      ]
+    }
+  ],
+  "passos": [
+    {
+      "titulo": "Derreta",
+      "tempo": "4 min",
+      "texto": "Derreta o chocolate com a manteiga no micro-ondas, de 30 em 30 segundos. Deixe amornar."
+    },
+    {
+      "titulo": "Misture",
+      "tempo": "6 min",
+      "texto": "Bata os ovos com o açúcar por 2 minutos, com batedor de arame. Junte o chocolate, depois a farinha e o sal, misturando só até incorporar. Acrescente as nozes."
+    },
+    {
+      "titulo": "Asse",
+      "tempo": "25 min",
+      "texto": "Despeje numa forma quadrada de 20 cm, forrada com papel-manteiga. Asse a 180 °C por 22 a 25 minutos."
+    },
+    {
+      "titulo": "Esfrie",
+      "tempo": "5 min",
+      "texto": "Deixe esfriar na forma antes de cortar."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Não asse demais.",
+      "texto": "O palito deve sair com migalhas úmidas; se sair limpo, virou bolo."
+    },
+    {
+      "titulo": "Misture pouco a farinha.",
+      "texto": "Bater demais deixa o brownie duro."
+    }
+  ]
+}

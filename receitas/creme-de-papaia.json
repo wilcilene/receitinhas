@@ -1,0 +1,49 @@
+{
+  "id": "creme-de-papaia",
+  "titulo": "Creme de papaia",
+  "descricao": "Mamão batido com sorvete de creme.",
+  "refeicoes": [
+    "sobremesa"
+  ],
+  "ocasioes": [
+    "dia-a-dia",
+    "especial",
+    "visitas"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 5,
+  "maoNaMassaMin": 5,
+  "rendimento": "2 porções",
+  "ingredientes": [
+    {
+      "grupo": "Sobremesa",
+      "itens": [
+        "1/2 mamão papaia maduro, sem sementes",
+        "3 bolas de sorvete de creme",
+        "1 colher (sopa) de licor de cassis, opcional"
+      ]
+    }
+  ],
+  "passos": [
+    {
+      "titulo": "Bata",
+      "tempo": "2 min",
+      "texto": "Bata o mamão com o sorvete no liquidificador, só até ficar homogêneo."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "2 min",
+      "texto": "Distribua em taças, regue com o licor e sirva imediatamente."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Bata pouco.",
+      "texto": "Batido demais, o sorvete derrete e o creme fica ralo."
+    },
+    {
+      "titulo": "Taças geladas.",
+      "texto": "Dez minutos no congelador mantêm o creme firme por mais tempo."
+    }
+  ]
+}

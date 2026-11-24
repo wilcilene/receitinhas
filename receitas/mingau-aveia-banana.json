@@ -1,0 +1,58 @@
+{
+  "id": "mingau-aveia-banana",
+  "titulo": "Mingau de aveia com banana",
+  "descricao": "Cremoso e pouco doce; o café preto faz o contraponto.",
+  "refeicoes": [
+    "cafe-da-manha"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 10,
+  "maoNaMassaMin": 10,
+  "rendimento": "1 pessoa",
+  "ingredientes": [
+    {
+      "grupo": "Mingau",
+      "itens": [
+        "3 colheres (sopa) de aveia em flocos",
+        "1 xícara de leite",
+        "1 banana madura em rodelas",
+        "1 pitada de canela",
+        "1 colher (chá) de mel, opcional"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [],
+    "bebidas": "Café preto, sem açúcar: o amargor equilibra o doce do prato. Quem não toma café pode trocar por chocolate quente, chá ou leite."
+  },
+  "passos": [
+    {
+      "titulo": "Cozinhe",
+      "tempo": "5 min",
+      "texto": "Leve a aveia e o leite ao fogo médio, mexendo, por 4 a 5 minutos, até engrossar."
+    },
+    {
+      "titulo": "Junte a banana",
+      "tempo": "1 min",
+      "texto": "Amasse metade da banana e misture ao mingau, para adoçar."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "1 min",
+      "texto": "Cubra com o resto da banana, a canela e o mel."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "A banana adoça.",
+      "texto": "Bem madura, ela dispensa açúcar."
+    },
+    {
+      "titulo": "Engrossa ao esfriar.",
+      "texto": "Tire do fogo um pouco mais mole do que você quer comer."
+    }
+  ]
+}

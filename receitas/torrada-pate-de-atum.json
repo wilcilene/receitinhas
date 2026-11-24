@@ -1,0 +1,66 @@
+{
+  "id": "torrada-pate-de-atum",
+  "titulo": "Torradas com patê de atum",
+  "descricao": "Patê feito em 5 minutos.",
+  "refeicoes": [
+    "lanche-da-tarde"
+  ],
+  "ocasioes": [
+    "dia-a-dia",
+    "visitas"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 10,
+  "maoNaMassaMin": 10,
+  "rendimento": "2 porções",
+  "ingredientes": [
+    {
+      "grupo": "Patê",
+      "itens": [
+        "1 lata de atum, escorrido",
+        "2 colheres (sopa) de requeijão ou cream cheese",
+        "1 colher (sopa) de cebola bem picada",
+        "Suco de 1/4 de limão",
+        "Salsinha, sal e pimenta-do-reino"
+      ]
+    },
+    {
+      "grupo": "Para servir",
+      "itens": [
+        "6 torradas ou fatias de pão tostado",
+        "Palitos de cenoura e pepino"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [],
+    "bebidas": "Suco natural, chá gelado ou água com gás."
+  },
+  "passos": [
+    {
+      "titulo": "Misture",
+      "tempo": "4 min",
+      "texto": "Amasse o atum com o requeijão, a cebola, o limão e os temperos."
+    },
+    {
+      "titulo": "Toste",
+      "tempo": "3 min",
+      "texto": "Toste o pão, se não usar torradas prontas."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "2 min",
+      "texto": "Sirva o patê com as torradas e os palitos de legumes."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Escorra o atum.",
+      "texto": "Com o líquido da lata, o patê fica ralo."
+    },
+    {
+      "titulo": "Dura 2 dias.",
+      "texto": "Em pote fechado, na geladeira."
+    }
+  ]
+}

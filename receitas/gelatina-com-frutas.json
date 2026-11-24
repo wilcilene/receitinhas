@@ -1,0 +1,56 @@
+{
+  "id": "gelatina-com-frutas",
+  "titulo": "Gelatina com frutas",
+  "descricao": "Leve, para o dia a dia.",
+  "refeicoes": [
+    "sobremesa"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 190,
+  "maoNaMassaMin": 10,
+  "rendimento": "4 porções",
+  "ingredientes": [
+    {
+      "grupo": "Gelatina",
+      "itens": [
+        "1 caixa de gelatina em pó, sabor morango ou uva",
+        "250 ml de água fervente",
+        "250 ml de água fria",
+        "1 xícara de morangos picados",
+        "1 xícara de uvas sem semente cortadas ao meio",
+        "1 maçã pequena em cubinhos"
+      ]
+    }
+  ],
+  "notaPassos": "O tempo total inclui o tempo de geladeira. O trabalho de verdade é o indicado em “mão na massa”.",
+  "passos": [
+    {
+      "titulo": "Dissolva a gelatina",
+      "tempo": "3 min",
+      "texto": "Dissolva o pó na água fervente, mexendo até não restar nenhum grão. Junte a água fria."
+    },
+    {
+      "titulo": "Distribua as frutas",
+      "tempo": "5 min",
+      "texto": "Coloque as frutas em taças ou numa travessa e despeje a gelatina por cima."
+    },
+    {
+      "titulo": "Gele",
+      "tempo": "3 h",
+      "texto": "Leve à geladeira por cerca de 3 horas, até firmar."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Não use abacaxi, kiwi ou mamão frescos.",
+      "texto": "Essas frutas cruas têm enzimas que impedem a gelatina de firmar."
+    },
+    {
+      "titulo": "Frutas no fundo.",
+      "texto": "Para elas ficarem distribuídas, gele 40 minutos, mexa de leve e volte à geladeira."
+    }
+  ]
+}

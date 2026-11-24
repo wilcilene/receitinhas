@@ -1,0 +1,64 @@
+{
+  "id": "tapioca-queijo-tomate",
+  "titulo": "Tapioca de queijo e tomate",
+  "descricao": "Salgada e leve, com fruta para acompanhar.",
+  "refeicoes": [
+    "cafe-da-manha",
+    "lanche-da-tarde"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 10,
+  "maoNaMassaMin": 10,
+  "rendimento": "1 pessoa",
+  "ingredientes": [
+    {
+      "grupo": "Tapioca",
+      "itens": [
+        "4 colheres (sopa) de goma de tapioca hidratada",
+        "2 fatias de queijo muçarela ou minas",
+        "3 rodelas de tomate",
+        "Orégano e 1 pitada de sal"
+      ]
+    },
+    {
+      "grupo": "Para acompanhar",
+      "itens": [
+        "1 banana ou 1 fatia de melão"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [],
+    "bebidas": "Café preto, sem açúcar, ou um café de cápsula com leite, que traz um toque doce para o prato salgado. Quem não toma café pode trocar por chocolate quente, chá ou leite."
+  },
+  "passos": [
+    {
+      "titulo": "Faça o disco",
+      "tempo": "3 min",
+      "texto": "Aqueça uma frigideira antiaderente seca. Peneire a goma cobrindo todo o fundo e espere unir, por cerca de 1 minuto."
+    },
+    {
+      "titulo": "Recheie",
+      "tempo": "2 min",
+      "texto": "Vire o disco, coloque o queijo, o tomate e o orégano em metade e dobre. Deixe 1 minuto, até o queijo derreter."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "1 min",
+      "texto": "Sirva com a fruta."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Frigideira seca e quente.",
+      "texto": "Sem gordura nenhuma; é o calor que une a goma."
+    },
+    {
+      "titulo": "Peneire a goma.",
+      "texto": "Sem peneirar, o disco fica com falhas e quebra ao dobrar."
+    }
+  ]
+}

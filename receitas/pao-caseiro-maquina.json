@@ -1,0 +1,69 @@
+{
+  "id": "pao-caseiro-maquina",
+  "titulo": "Pão caseiro na máquina de pão",
+  "descricao": "Com manteiga e queijo. A máquina trabalha sozinha.",
+  "refeicoes": [
+    "cafe-da-manha",
+    "lanche-da-tarde"
+  ],
+  "ocasioes": [
+    "dia-a-dia",
+    "visitas"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 190,
+  "maoNaMassaMin": 10,
+  "rendimento": "1 pão (12 fatias)",
+  "ingredientes": [
+    {
+      "grupo": "Pão",
+      "itens": [
+        "1 xícara de água morna",
+        "2 colheres (sopa) de óleo",
+        "1 colher (sopa) de açúcar",
+        "1 colher (chá) de sal",
+        "3 xícaras de farinha de trigo",
+        "1 colher (chá) de fermento biológico seco"
+      ]
+    },
+    {
+      "grupo": "Para servir",
+      "itens": [
+        "Manteiga",
+        "Queijo minas ou muçarela"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [],
+    "bebidas": "Café preto, sem açúcar. Quem não toma café pode trocar por chocolate quente, chá ou leite."
+  },
+  "notaPassos": "O tempo total é o do ciclo da máquina. O trabalho de verdade é o indicado em “mão na massa”.",
+  "passos": [
+    {
+      "titulo": "Coloque na ordem",
+      "tempo": "5 min",
+      "texto": "Na cuba da máquina, coloque primeiro os líquidos, depois o açúcar e o sal, a farinha e, por cima, o fermento, sem encostar no líquido."
+    },
+    {
+      "titulo": "Ligue",
+      "tempo": "3 h",
+      "texto": "Escolha o ciclo de pão básico (cerca de 3 horas) e a cor da casca. Não abra a tampa durante o crescimento."
+    },
+    {
+      "titulo": "Esfrie e sirva",
+      "tempo": "5 min",
+      "texto": "Desenforme, espere 15 minutos antes de fatiar e sirva com manteiga e queijo."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Siga o manual da sua máquina.",
+      "texto": "A ordem dos ingredientes e a quantidade máxima variam de modelo para modelo."
+    },
+    {
+      "titulo": "Use o timer.",
+      "texto": "Programando à noite, o pão fica pronto na hora do café da manhã."
+    }
+  ]
+}

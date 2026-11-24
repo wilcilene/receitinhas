@@ -10,8 +10,8 @@
     "dia-a-dia"
   ],
   "energia": "dia-normal",
-  "tempoTotalMin": 30,
-  "maoNaMassaMin": 25,
+  "tempoTotalMin": 25,
+  "maoNaMassaMin": 20,
   "rendimento": "2 porções",
   "ingredientes": [
     {

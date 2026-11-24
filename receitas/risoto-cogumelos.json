@@ -10,7 +10,7 @@
     "especial"
   ],
   "energia": "inspirada",
-  "tempoTotalMin": 45,
+  "tempoTotalMin": 40,
   "maoNaMassaMin": 40,
   "rendimento": "2 porções",
   "ingredientes": [
@@ -39,15 +39,22 @@
   "acompanhar": {
     "sobremesas": [
       {
-        "titulo": "Morangos com creme"
+        "titulo": "Morangos com creme",
+        "id": "morangos-com-creme"
       },
       {
-        "titulo": "Sorvete de creme"
+        "titulo": "Sorvete de creme",
+        "id": "sorvete-creme-calda-chocolate"
       }
     ],
     "bebidas": "Vinho branco seco, água com gás e limão ou suco de maracujá."
   },
   "passos": [
+    {
+      "titulo": "Prepare",
+      "tempo": "8 min",
+      "texto": "Aqueça o caldo numa panela e mantenha em fogo baixo. Pique a cebola e o alho e fatie os cogumelos."
+    },
     {
       "titulo": "Doure os cogumelos",
       "tempo": "6 min",
@@ -66,7 +73,7 @@
     {
       "titulo": "Finalize",
       "tempo": "3 min",
-      "texto": "Com o arroz macio e ainda firme no centro, desligue o fogo, junte os cogumelos, o parmesão e o resto da manteiga. Tampe por 2 minutos e sirva."
+      "texto": "Com o arroz macio e ainda firme no centro, desligue o fogo, junte os cogumelos, o parmesão e o resto da manteiga. Tampe por 2 minutos e sirva com a rúcula e os tomates temperados."
     }
   ],
   "dicas": [

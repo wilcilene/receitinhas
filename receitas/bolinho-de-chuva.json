@@ -1,0 +1,68 @@
+{
+  "id": "bolinho-de-chuva",
+  "titulo": "Bolinho de chuva",
+  "descricao": "Com açúcar e canela.",
+  "refeicoes": [
+    "lanche-da-tarde"
+  ],
+  "ocasioes": [
+    "dia-a-dia",
+    "visitas"
+  ],
+  "energia": "dia-normal",
+  "tempoTotalMin": 30,
+  "maoNaMassaMin": 30,
+  "rendimento": "20 bolinhos",
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "itens": [
+        "2 ovos",
+        "1/2 xícara de açúcar",
+        "1/2 xícara de leite",
+        "2 xícaras de farinha de trigo",
+        "1 colher (sopa) de fermento em pó",
+        "1 pitada de sal",
+        "Óleo para fritar"
+      ]
+    },
+    {
+      "grupo": "Cobertura",
+      "itens": [
+        "1/2 xícara de açúcar",
+        "1 colher (sopa) de canela em pó"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [],
+    "bebidas": "Café preto, chá quente ou chocolate quente."
+  },
+  "passos": [
+    {
+      "titulo": "Faça a massa",
+      "tempo": "5 min",
+      "texto": "Misture os ovos, o açúcar e o leite. Junte a farinha, o sal e o fermento, até formar uma massa grossa, que cai da colher devagar."
+    },
+    {
+      "titulo": "Frite",
+      "tempo": "20 min",
+      "texto": "Aqueça dois dedos de óleo em fogo médio. Com duas colheres, solte porções pequenas e frite por 3 a 4 minutos, virando, até dourar por igual."
+    },
+    {
+      "titulo": "Finalize",
+      "tempo": "3 min",
+      "texto": "Escorra em papel-toalha e passe no açúcar com canela ainda quentes."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Óleo em fogo médio.",
+      "texto": "Quente demais, o bolinho doura por fora e fica cru por dentro."
+    },
+    {
+      "titulo": "Bolinhos pequenos.",
+      "texto": "Do tamanho de uma noz; eles crescem no óleo."
+    }
+  ]
+}

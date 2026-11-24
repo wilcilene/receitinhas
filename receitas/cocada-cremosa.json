@@ -1,0 +1,54 @@
+{
+  "id": "cocada-cremosa",
+  "titulo": "Cocada cremosa",
+  "descricao": "De colher, feita na panela.",
+  "refeicoes": [
+    "sobremesa"
+  ],
+  "ocasioes": [
+    "dia-a-dia",
+    "visitas"
+  ],
+  "energia": "dia-normal",
+  "tempoTotalMin": 20,
+  "maoNaMassaMin": 20,
+  "rendimento": "6 porções",
+  "ingredientes": [
+    {
+      "grupo": "Sobremesa",
+      "itens": [
+        "200 g de coco ralado (fresco ou seco, sem açúcar)",
+        "1 lata de leite condensado (395 g)",
+        "1/2 xícara de leite",
+        "1 colher (sopa) de manteiga"
+      ]
+    }
+  ],
+  "passos": [
+    {
+      "titulo": "Misture",
+      "tempo": "2 min",
+      "texto": "Coloque todos os ingredientes numa panela."
+    },
+    {
+      "titulo": "Cozinhe",
+      "tempo": "15 min",
+      "texto": "Leve ao fogo baixo, mexendo sempre, por 12 a 15 minutos, até engrossar e ganhar cor de creme."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "2 min",
+      "texto": "Passe para um pote e sirva morna ou fria."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Coco seco pede hidratação.",
+      "texto": "Deixe-o de molho no leite por 10 minutos antes de levar ao fogo."
+    },
+    {
+      "titulo": "Mexa sem parar.",
+      "texto": "O fundo doura rápido; se queimar, amarga a panela toda."
+    }
+  ]
+}

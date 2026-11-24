@@ -1,0 +1,66 @@
+{
+  "id": "panqueca-banana-aveia",
+  "titulo": "Panqueca de banana e aveia",
+  "descricao": "Três ingredientes, sem farinha de trigo.",
+  "refeicoes": [
+    "cafe-da-manha",
+    "lanche-da-tarde"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 15,
+  "maoNaMassaMin": 15,
+  "rendimento": "1 pessoa",
+  "ingredientes": [
+    {
+      "grupo": "Panquecas",
+      "itens": [
+        "1 banana madura",
+        "1 ovo",
+        "3 colheres (sopa) de aveia em flocos finos",
+        "1 pitada de canela",
+        "1 colher (chá) de manteiga ou óleo"
+      ]
+    },
+    {
+      "grupo": "Para servir",
+      "itens": [
+        "1 colher (chá) de mel",
+        "Morangos ou rodelas de banana"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [],
+    "bebidas": "Café preto, sem açúcar: o amargor equilibra o doce do prato. Quem não toma café pode trocar por chocolate quente, chá ou leite."
+  },
+  "passos": [
+    {
+      "titulo": "Faça a massa",
+      "tempo": "3 min",
+      "texto": "Amasse a banana com um garfo e misture o ovo, a aveia e a canela."
+    },
+    {
+      "titulo": "Doure",
+      "tempo": "8 min",
+      "texto": "Aqueça a manteiga em fogo baixo e despeje a massa em 3 porções pequenas. Doure 2 minutos de cada lado."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "2 min",
+      "texto": "Sirva com o mel e as frutas."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Panquecas pequenas.",
+      "texto": "A massa não tem farinha e quebra fácil; discos de 8 cm viram sem desmanchar."
+    },
+    {
+      "titulo": "Fogo baixo.",
+      "texto": "A banana doura rápido e o centro precisa de tempo para firmar."
+    }
+  ]
+}

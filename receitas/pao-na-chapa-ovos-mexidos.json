@@ -1,0 +1,58 @@
+{
+  "id": "pao-na-chapa-ovos-mexidos",
+  "titulo": "Pão na chapa com ovos mexidos",
+  "descricao": "A manteiga do pão e os ovos cremosos pedem um café preto. Com mamão.",
+  "refeicoes": [
+    "cafe-da-manha"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 10,
+  "maoNaMassaMin": 10,
+  "rendimento": "1 pessoa",
+  "ingredientes": [
+    {
+      "grupo": "Prato",
+      "itens": [
+        "1 pão francês",
+        "1 colher (chá) de manteiga",
+        "2 ovos",
+        "1 pitada de sal",
+        "1 fatia de mamão"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [],
+    "bebidas": "Café preto, sem açúcar, ou um café de cápsula com leite, que traz um toque doce para o prato salgado. Quem não toma café pode trocar por chocolate quente, chá ou leite."
+  },
+  "passos": [
+    {
+      "titulo": "Doure o pão",
+      "tempo": "3 min",
+      "texto": "Corte o pão ao meio, passe manteiga e doure na frigideira com o miolo para baixo."
+    },
+    {
+      "titulo": "Mexa os ovos",
+      "tempo": "3 min",
+      "texto": "Na mesma frigideira, em fogo baixo, mexa os ovos com o sal até ficarem cremosos."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "1 min",
+      "texto": "Sirva os ovos com o pão e o mamão ao lado."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Ovos em fogo baixo.",
+      "texto": "Tire ainda úmidos; eles terminam de cozinhar no prato."
+    },
+    {
+      "titulo": "Passe o café primeiro.",
+      "texto": "O preparo é tão rápido que o café deve estar pronto antes."
+    }
+  ]
+}

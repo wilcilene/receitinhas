@@ -10,8 +10,8 @@
     "especial"
   ],
   "energia": "inspirada",
-  "tempoTotalMin": 70,
-  "maoNaMassaMin": 50,
+  "tempoTotalMin": 60,
+  "maoNaMassaMin": 45,
   "rendimento": "2 porções",
   "ingredientes": [
     {
@@ -43,10 +43,12 @@
   "acompanhar": {
     "sobremesas": [
       {
-        "titulo": "Morangos com creme"
+        "titulo": "Morangos com creme",
+        "id": "morangos-com-creme"
       },
       {
-        "titulo": "Pudim de leite"
+        "titulo": "Pudim de leite",
+        "id": "pudim-de-leite"
       }
     ],
     "bebidas": "Vinho tinto leve, suco de uva integral ou água com gás."
@@ -76,7 +78,7 @@
     {
       "titulo": "Cozinhe",
       "tempo": "5 min",
-      "texto": "Cozinhe em água fervente com sal, em levas. Quando subirem, espere 30 segundos, retire com escumadeira e passe para o molho."
+      "texto": "Cozinhe em água fervente com sal, em levas. Quando subirem, espere 30 segundos, retire com escumadeira e passe para o molho. Sirva com parmesão e a salada."
     }
   ],
   "dicas": [

@@ -1,0 +1,56 @@
+{
+  "id": "pera-cozida-canela",
+  "titulo": "Pera cozida com canela",
+  "descricao": "Em calda leve de laranja.",
+  "refeicoes": [
+    "sobremesa"
+  ],
+  "ocasioes": [
+    "dia-a-dia",
+    "especial"
+  ],
+  "energia": "dia-normal",
+  "tempoTotalMin": 25,
+  "maoNaMassaMin": 10,
+  "rendimento": "2 porções",
+  "ingredientes": [
+    {
+      "grupo": "Sobremesa",
+      "itens": [
+        "2 peras firmes, descascadas e cortadas ao meio",
+        "1 xícara de água",
+        "Suco de 1 laranja",
+        "2 colheres (sopa) de açúcar",
+        "1 pau de canela",
+        "2 cravos-da-índia, opcional"
+      ]
+    }
+  ],
+  "passos": [
+    {
+      "titulo": "Faça a calda",
+      "tempo": "3 min",
+      "texto": "Ferva a água com o suco, o açúcar, a canela e o cravo."
+    },
+    {
+      "titulo": "Cozinhe as peras",
+      "tempo": "15 min",
+      "texto": "Junte as peras e cozinhe em fogo baixo, com a panela semitampada, por 12 a 15 minutos, virando na metade."
+    },
+    {
+      "titulo": "Reduza",
+      "tempo": "5 min",
+      "texto": "Retire as peras e ferva a calda por mais 5 minutos, até engrossar um pouco. Regue as peras."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Pera firme.",
+      "texto": "As maduras demais desmancham no cozimento."
+    },
+    {
+      "titulo": "Boa quente ou fria.",
+      "texto": "Dura 3 dias na geladeira, dentro da calda."
+    }
+  ]
+}

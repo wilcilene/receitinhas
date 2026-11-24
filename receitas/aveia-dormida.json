@@ -1,0 +1,60 @@
+{
+  "id": "aveia-dormida",
+  "titulo": "Aveia dormida com frutas",
+  "descricao": "Preparada na véspera; de manhã é só abrir o pote.",
+  "refeicoes": [
+    "cafe-da-manha"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 5,
+  "maoNaMassaMin": 5,
+  "rendimento": "1 pessoa",
+  "ingredientes": [
+    {
+      "grupo": "Pote",
+      "itens": [
+        "4 colheres (sopa) de aveia em flocos",
+        "1/2 xícara de leite",
+        "3 colheres (sopa) de iogurte natural",
+        "1 colher (chá) de chia, opcional",
+        "1 colher (chá) de mel",
+        "1/2 xícara de frutas picadas (banana, morango, manga)"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [],
+    "bebidas": "Café preto, sem açúcar: o amargor equilibra o doce do prato. Quem não toma café pode trocar por chocolate quente, chá ou leite."
+  },
+  "notaPassos": "O tempo indicado é o de trabalho. A aveia precisa passar a noite na geladeira.",
+  "passos": [
+    {
+      "titulo": "Misture na véspera",
+      "tempo": "3 min",
+      "texto": "Num pote com tampa, misture a aveia, o leite, o iogurte, a chia e o mel."
+    },
+    {
+      "titulo": "Geladeira",
+      "tempo": "8 h",
+      "texto": "Tampe e deixe na geladeira durante a noite."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "2 min",
+      "texto": "De manhã, mexa e cubra com as frutas."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Frutas só na hora.",
+      "texto": "Colocadas na véspera, soltam água e escurecem."
+    },
+    {
+      "titulo": "Dura 3 dias.",
+      "texto": "Dá para preparar vários potes de uma vez."
+    }
+  ]
+}

@@ -18,7 +18,7 @@
     {
       "grupo": "Galinhada",
       "itens": [
-        "4 sobrecoxas de frango sem pele",
+        "4 sobrecoxas de frango desossadas e sem pele, cortadas ao meio",
         "1 xícara de arroz",
         "2 xícaras de água quente",
         "1/2 cebola picada",
@@ -74,8 +74,8 @@
       "texto": "Os 5 minutos tampados terminam o arroz no vapor e soltam os grãos."
     },
     {
-      "titulo": "Confira o frango junto ao osso.",
-      "texto": "A carne deve soltar com facilidade e não ter parte rosada."
+      "titulo": "Confira o frango.",
+      "texto": "Corte um pedaço ao meio: a carne deve estar branca por inteiro, sem parte rosada."
     }
   ]
 }

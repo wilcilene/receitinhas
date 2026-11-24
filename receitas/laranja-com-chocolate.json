@@ -1,0 +1,52 @@
+{
+  "id": "laranja-com-chocolate",
+  "titulo": "Laranja com raspas de chocolate",
+  "descricao": "Fruta fresca com um toque de chocolate amargo.",
+  "refeicoes": [
+    "sobremesa"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 10,
+  "maoNaMassaMin": 10,
+  "rendimento": "1 porção",
+  "ingredientes": [
+    {
+      "grupo": "Sobremesa",
+      "itens": [
+        "1 laranja",
+        "1 quadradinho de chocolate meio amargo",
+        "1 pitada de canela, opcional"
+      ]
+    }
+  ],
+  "passos": [
+    {
+      "titulo": "Descasque",
+      "tempo": "5 min",
+      "texto": "Descasque a laranja retirando toda a parte branca e corte em rodelas."
+    },
+    {
+      "titulo": "Monte",
+      "tempo": "2 min",
+      "texto": "Arrume as rodelas no prato e rale o chocolate por cima com um ralador fino."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "1 min",
+      "texto": "Polvilhe canela e sirva gelada."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Tire a parte branca.",
+      "texto": "É ela que deixa o gosto amargo."
+    },
+    {
+      "titulo": "Chocolate gelado rala melhor.",
+      "texto": "Dez minutos no congelador evitam que ele derreta na mão."
+    }
+  ]
+}

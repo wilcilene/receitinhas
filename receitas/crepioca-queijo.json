@@ -1,0 +1,60 @@
+{
+  "id": "crepioca-queijo",
+  "titulo": "Crepioca de queijo",
+  "descricao": "Ovo com tapioca, feita na frigideira.",
+  "refeicoes": [
+    "cafe-da-manha",
+    "lanche-da-tarde"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 10,
+  "maoNaMassaMin": 10,
+  "rendimento": "1 pessoa",
+  "ingredientes": [
+    {
+      "grupo": "Crepioca",
+      "itens": [
+        "1 ovo",
+        "2 colheres (sopa) de goma de tapioca",
+        "1 colher (sopa) de água ou leite",
+        "1 pitada de sal",
+        "2 fatias de queijo",
+        "1 fatia de melão ou mamão"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [],
+    "bebidas": "Café preto, sem açúcar, ou um café de cápsula com leite, que traz um toque doce para o prato salgado. Quem não toma café pode trocar por chocolate quente, chá ou leite."
+  },
+  "passos": [
+    {
+      "titulo": "Bata",
+      "tempo": "1 min",
+      "texto": "Bata o ovo com a goma, a água e o sal, até não haver grumos."
+    },
+    {
+      "titulo": "Cozinhe",
+      "tempo": "4 min",
+      "texto": "Despeje numa frigideira antiaderente levemente untada, em fogo médio. Quando firmar, vire."
+    },
+    {
+      "titulo": "Recheie",
+      "tempo": "2 min",
+      "texto": "Coloque o queijo, dobre ao meio e deixe derreter. Sirva com a fruta."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Só vire quando soltar.",
+      "texto": "Balance a frigideira: se a massa deslizar, está no ponto."
+    },
+    {
+      "titulo": "Varie o recheio.",
+      "texto": "Frango desfiado, tomate ou requeijão também funcionam."
+    }
+  ]
+}

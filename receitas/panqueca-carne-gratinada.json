@@ -18,7 +18,7 @@
     {
       "grupo": "Massa",
       "itens": [
-        "1 xícara de leite",
+        "1 e 1/2 xícara de leite",
         "1 xícara de farinha de trigo",
         "2 ovos",
         "1 pitada de sal",
@@ -47,7 +47,8 @@
   "acompanhar": {
     "sobremesas": [
       {
-        "titulo": "Gelatina com frutas"
+        "titulo": "Gelatina com frutas",
+        "id": "gelatina-com-frutas"
       }
     ],
     "bebidas": "Suco natural de laranja ou água."
@@ -55,7 +56,7 @@
   "passos": [
     {
       "titulo": "Bata a massa",
-      "tempo": "5 min",
+      "tempo": "15 min",
       "texto": "Bata o leite, a farinha, os ovos e o sal no liquidificador. Deixe descansar 10 minutos."
     },
     {
@@ -71,7 +72,7 @@
     {
       "titulo": "Monte e gratine",
       "tempo": "20 min",
-      "texto": "Recheie e enrole. Arrume num refratário, cubra com o molho e a muçarela e leve ao forno a 200 °C por 15 minutos."
+      "texto": "Recheie e enrole. Arrume num refratário, cubra com o molho e a muçarela e leve ao forno a 200 °C por 15 minutos. Sirva com as folhas verdes."
     }
   ],
   "dicas": [

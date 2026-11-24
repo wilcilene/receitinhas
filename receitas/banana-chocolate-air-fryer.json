@@ -1,0 +1,52 @@
+{
+  "id": "banana-chocolate-air-fryer",
+  "titulo": "Banana com chocolate na air fryer",
+  "descricao": "Assada na própria casca.",
+  "refeicoes": [
+    "sobremesa"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 12,
+  "maoNaMassaMin": 4,
+  "rendimento": "1 porção",
+  "ingredientes": [
+    {
+      "grupo": "Sobremesa",
+      "itens": [
+        "1 banana madura, com casca",
+        "2 quadradinhos de chocolate meio amargo",
+        "1 colher (chá) de amendoim ou castanhas picadas"
+      ]
+    }
+  ],
+  "passos": [
+    {
+      "titulo": "Prepare",
+      "tempo": "2 min",
+      "texto": "Faça um corte ao longo da banana, sem descascar e sem atravessar o outro lado. Encaixe o chocolate no corte."
+    },
+    {
+      "titulo": "Asse",
+      "tempo": "8 min",
+      "texto": "Leve à air fryer a 180 °C por 8 minutos, com o corte para cima, até a casca escurecer e o chocolate derreter."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "1 min",
+      "texto": "Finalize com o amendoim e coma de colher, direto da casca."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "A casca fica preta.",
+      "texto": "É normal; a banana por dentro fica cremosa."
+    },
+    {
+      "titulo": "Apoie para não virar.",
+      "texto": "Uma forminha ou papel-alumínio amassado mantém a banana de pé."
+    }
+  ]
+}

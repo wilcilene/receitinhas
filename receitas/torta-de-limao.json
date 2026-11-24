@@ -1,0 +1,74 @@
+{
+  "id": "torta-de-limao",
+  "titulo": "Torta de limão",
+  "descricao": "Base de biscoito, creme de limão e cobertura.",
+  "refeicoes": [
+    "sobremesa"
+  ],
+  "ocasioes": [
+    "visitas",
+    "especial"
+  ],
+  "energia": "inspirada",
+  "tempoTotalMin": 220,
+  "maoNaMassaMin": 40,
+  "rendimento": "8 fatias",
+  "ingredientes": [
+    {
+      "grupo": "Base",
+      "itens": [
+        "200 g de biscoito maisena triturado",
+        "100 g de manteiga derretida"
+      ]
+    },
+    {
+      "grupo": "Recheio",
+      "itens": [
+        "1 lata de leite condensado (395 g)",
+        "1 caixinha de creme de leite (200 g)",
+        "1/2 xícara de suco de limão"
+      ]
+    },
+    {
+      "grupo": "Cobertura",
+      "itens": [
+        "200 ml de creme de leite fresco gelado",
+        "2 colheres (sopa) de açúcar",
+        "Raspas de limão"
+      ]
+    }
+  ],
+  "notaPassos": "O tempo total inclui o tempo de geladeira ou congelador. O trabalho de verdade é o indicado em “mão na massa”.",
+  "passos": [
+    {
+      "titulo": "Faça a base",
+      "tempo": "15 min",
+      "texto": "Misture o biscoito com a manteiga até virar uma farofa úmida. Aperte no fundo e nas laterais de uma forma de fundo removível. Asse a 180 °C por 10 minutos e deixe esfriar."
+    },
+    {
+      "titulo": "Recheio",
+      "tempo": "5 min",
+      "texto": "Misture o leite condensado, o creme de leite e o suco de limão até engrossar. Despeje sobre a base."
+    },
+    {
+      "titulo": "Gele",
+      "tempo": "3 h",
+      "texto": "Leve à geladeira por pelo menos 3 horas."
+    },
+    {
+      "titulo": "Cobertura",
+      "tempo": "8 min",
+      "texto": "Bata o creme de leite fresco com o açúcar até formar picos firmes. Espalhe sobre a torta e decore com raspas."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Aperte bem a base.",
+      "texto": "Use o fundo de um copo; base solta esfarela ao cortar."
+    },
+    {
+      "titulo": "Creme fresco bem gelado.",
+      "texto": "Morno, ele não chega ao ponto de chantili."
+    }
+  ]
+}

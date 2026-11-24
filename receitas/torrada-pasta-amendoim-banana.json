@@ -1,0 +1,54 @@
+{
+  "id": "torrada-pasta-amendoim-banana",
+  "titulo": "Torrada com pasta de amendoim e banana",
+  "descricao": "Lanche de 5 minutos.",
+  "refeicoes": [
+    "cafe-da-manha",
+    "lanche-da-tarde"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 5,
+  "maoNaMassaMin": 5,
+  "rendimento": "1 pessoa",
+  "ingredientes": [
+    {
+      "grupo": "Torrada",
+      "itens": [
+        "2 fatias de pão integral",
+        "1 colher (sopa) de pasta de amendoim",
+        "1/2 banana em rodelas",
+        "Canela em pó",
+        "1 fio de mel, opcional"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [],
+    "bebidas": "Café preto, sem açúcar. Quem não toma café pode trocar por chocolate quente, chá ou leite."
+  },
+  "passos": [
+    {
+      "titulo": "Toste",
+      "tempo": "2 min",
+      "texto": "Toste o pão."
+    },
+    {
+      "titulo": "Monte",
+      "tempo": "2 min",
+      "texto": "Espalhe a pasta de amendoim, distribua a banana, polvilhe canela e regue com o mel."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Pasta sem açúcar.",
+      "texto": "Só amendoim na lista de ingredientes; a banana já adoça."
+    },
+    {
+      "titulo": "Pão quente.",
+      "texto": "A pasta amolece e espalha melhor."
+    }
+  ]
+}

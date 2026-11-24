@@ -1,0 +1,59 @@
+{
+  "id": "vitamina-mamao-aveia",
+  "titulo": "Vitamina de mamão com aveia",
+  "descricao": "Com torradas e queijo branco.",
+  "refeicoes": [
+    "lanche-da-tarde"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 5,
+  "maoNaMassaMin": 5,
+  "rendimento": "1 pessoa",
+  "ingredientes": [
+    {
+      "grupo": "Vitamina",
+      "itens": [
+        "1 fatia grande de mamão",
+        "1 xícara de leite gelado",
+        "1 colher (sopa) de aveia",
+        "1 colher (chá) de mel, opcional"
+      ]
+    },
+    {
+      "grupo": "Para acompanhar",
+      "itens": [
+        "2 torradas integrais",
+        "1 fatia de queijo minas"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [],
+    "bebidas": "A vitamina já é a bebida do lanche."
+  },
+  "passos": [
+    {
+      "titulo": "Bata",
+      "tempo": "2 min",
+      "texto": "Bata o mamão, o leite, a aveia e o mel no liquidificador."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "2 min",
+      "texto": "Sirva na hora, com as torradas e o queijo."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Tome logo.",
+      "texto": "O mamão batido com leite amarga se ficar parado."
+    },
+    {
+      "titulo": "Mamão maduro.",
+      "texto": "Bem maduro, dispensa o mel."
+    }
+  ]
+}

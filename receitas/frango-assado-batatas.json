@@ -45,10 +45,12 @@
   "acompanhar": {
     "sobremesas": [
       {
-        "titulo": "Pudim de leite"
+        "titulo": "Pudim de leite",
+        "id": "pudim-de-leite"
       },
       {
-        "titulo": "Salada de frutas"
+        "titulo": "Salada de frutas",
+        "id": "salada-de-frutas"
       }
     ],
     "bebidas": "Vinho branco seco, água com gás e limão ou suco de maracujá."

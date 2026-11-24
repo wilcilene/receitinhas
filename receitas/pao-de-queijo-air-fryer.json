@@ -1,0 +1,58 @@
+{
+  "id": "pao-de-queijo-air-fryer",
+  "titulo": "Pão de queijo na air fryer",
+  "descricao": "Do congelador para a mesa, com fruta.",
+  "refeicoes": [
+    "cafe-da-manha",
+    "lanche-da-tarde"
+  ],
+  "ocasioes": [
+    "dia-a-dia",
+    "visitas"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 15,
+  "maoNaMassaMin": 3,
+  "rendimento": "1 pessoa",
+  "ingredientes": [
+    {
+      "grupo": "Prato",
+      "itens": [
+        "6 pães de queijo congelados",
+        "1 fatia de mamão ou 1 tangerina"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [],
+    "bebidas": "Café preto, sem açúcar. Quem não toma café pode trocar por chocolate quente, chá ou leite."
+  },
+  "notaPassos": "Alguns preparos acontecem ao mesmo tempo, por isso os tempos não se somam.",
+  "passos": [
+    {
+      "titulo": "Asse",
+      "tempo": "12 min",
+      "texto": "Coloque os pães de queijo ainda congelados na air fryer, sem encostar um no outro. Asse a 180 °C por 10 a 12 minutos, até dourar."
+    },
+    {
+      "titulo": "Passe o café",
+      "tempo": "5 min",
+      "texto": "Prepare o café enquanto os pães assam."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "1 min",
+      "texto": "Sirva quente, com a fruta."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Não descongele.",
+      "texto": "Vão direto do congelador; descongelados, murcham."
+    },
+    {
+      "titulo": "Coma quente.",
+      "texto": "Pão de queijo endurece ao esfriar."
+    }
+  ]
+}

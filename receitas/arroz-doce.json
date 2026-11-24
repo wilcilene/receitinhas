@@ -1,0 +1,56 @@
+{
+  "id": "arroz-doce",
+  "titulo": "Arroz-doce",
+  "descricao": "Cremoso, com canela.",
+  "refeicoes": [
+    "sobremesa"
+  ],
+  "ocasioes": [
+    "dia-a-dia",
+    "visitas"
+  ],
+  "energia": "dia-normal",
+  "tempoTotalMin": 40,
+  "maoNaMassaMin": 20,
+  "rendimento": "6 porções",
+  "ingredientes": [
+    {
+      "grupo": "Sobremesa",
+      "itens": [
+        "1 xícara de arroz branco",
+        "2 xícaras de água",
+        "1 litro de leite",
+        "1 lata de leite condensado (395 g)",
+        "1 pau de canela",
+        "Canela em pó, para servir"
+      ]
+    }
+  ],
+  "passos": [
+    {
+      "titulo": "Cozinhe o arroz",
+      "tempo": "12 min",
+      "texto": "Cozinhe o arroz na água com o pau de canela, até a água quase secar."
+    },
+    {
+      "titulo": "Junte o leite",
+      "tempo": "20 min",
+      "texto": "Acrescente o leite e cozinhe em fogo baixo, mexendo de vez em quando, por 15 a 20 minutos, até o arroz ficar bem macio."
+    },
+    {
+      "titulo": "Adoce",
+      "tempo": "5 min",
+      "texto": "Junte o leite condensado e cozinhe mais 5 minutos, mexendo. Sirva morno ou gelado, com canela em pó."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Tire do fogo ainda cremoso.",
+      "texto": "Ele engrossa bastante ao esfriar."
+    },
+    {
+      "titulo": "Leite condensado no fim.",
+      "texto": "Adoçado antes, o arroz demora mais para amaciar e gruda no fundo."
+    }
+  ]
+}

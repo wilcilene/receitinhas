@@ -1,0 +1,59 @@
+{
+  "id": "omelete-simples-torrada",
+  "titulo": "Omelete simples com torrada",
+  "descricao": "Proteína logo cedo, para sustentar a manhã.",
+  "refeicoes": [
+    "cafe-da-manha"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 10,
+  "maoNaMassaMin": 10,
+  "rendimento": "1 pessoa",
+  "ingredientes": [
+    {
+      "grupo": "Prato",
+      "itens": [
+        "2 ovos",
+        "1 colher (sopa) de queijo ralado",
+        "1 colher (chá) de azeite",
+        "Sal, pimenta-do-reino e cebolinha",
+        "2 fatias de pão integral",
+        "1 laranja em gomos"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [],
+    "bebidas": "Café preto, sem açúcar, ou um café de cápsula com leite, que traz um toque doce para o prato salgado. Quem não toma café pode trocar por chocolate quente, chá ou leite."
+  },
+  "passos": [
+    {
+      "titulo": "Bata",
+      "tempo": "1 min",
+      "texto": "Bata os ovos com o queijo, o sal e a pimenta."
+    },
+    {
+      "titulo": "Cozinhe",
+      "tempo": "4 min",
+      "texto": "Aqueça o azeite em fogo médio, despeje os ovos e deixe firmar. Dobre ao meio e deixe mais 1 minuto."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "2 min",
+      "texto": "Toste o pão e sirva com a omelete, a cebolinha e a laranja."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Frigideira pequena.",
+      "texto": "Numa grande, a omelete fica fina demais e resseca."
+    },
+    {
+      "titulo": "Laranja no fim.",
+      "texto": "A fruta cítrica limpa o paladar depois do ovo e do café."
+    }
+  ]
+}

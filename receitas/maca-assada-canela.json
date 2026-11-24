@@ -1,0 +1,60 @@
+{
+  "id": "maca-assada-canela",
+  "titulo": "Maçã assada com canela",
+  "descricao": "No forno ou na air fryer.",
+  "refeicoes": [
+    "sobremesa"
+  ],
+  "ocasioes": [
+    "dia-a-dia",
+    "especial"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 30,
+  "maoNaMassaMin": 10,
+  "rendimento": "2 porções",
+  "ingredientes": [
+    {
+      "grupo": "Maçãs",
+      "itens": [
+        "2 maçãs",
+        "2 colheres (chá) de açúcar mascavo ou mel",
+        "1 colher (chá) de canela em pó",
+        "1 colher (sopa) de manteiga",
+        "2 colheres (sopa) de uvas-passas ou nozes picadas, opcional"
+      ]
+    }
+  ],
+  "passos": [
+    {
+      "titulo": "Prepare as maçãs",
+      "tempo": "5 min",
+      "texto": "Lave as maçãs e retire o miolo pela parte de cima, sem furar o fundo, formando uma cavidade."
+    },
+    {
+      "titulo": "Recheie",
+      "tempo": "3 min",
+      "texto": "Misture o açúcar, a canela e as passas. Recheie as maçãs e coloque meia colher de manteiga sobre cada uma."
+    },
+    {
+      "titulo": "Asse",
+      "tempo": "20 min",
+      "texto": "Na air fryer, asse a 160 °C por 15 a 18 minutos. No forno, a 180 °C por 25 a 30 minutos, numa forma com 2 colheres de água. Estão prontas quando ficarem macias ao espetar um garfo."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "2 min",
+      "texto": "Sirva morna, regada com o caldo que se formou."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Não fure o fundo.",
+      "texto": "É ele que segura o recheio e a manteiga derretida."
+    },
+    {
+      "titulo": "Maçã firme.",
+      "texto": "Fuji e gala mantêm a forma; as muito maduras desmancham."
+    }
+  ]
+}

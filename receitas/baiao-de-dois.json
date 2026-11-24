@@ -11,8 +11,8 @@
     "visitas"
   ],
   "energia": "inspirada",
-  "tempoTotalMin": 50,
-  "maoNaMassaMin": 30,
+  "tempoTotalMin": 40,
+  "maoNaMassaMin": 25,
   "rendimento": "3 porções",
   "ingredientes": [
     {
@@ -60,12 +60,12 @@
     {
       "titulo": "Junte o feijão",
       "tempo": "6 min",
-      "texto": "Quando o arroz estiver quase seco, misture o feijão e cozinhe mais 5 minutos."
+      "texto": "Quando o arroz estiver quase seco, misture o feijão e cozinhe mais 5 minutos. Prove e acerte o sal e a pimenta."
     },
     {
       "titulo": "Queijo e ervas",
       "tempo": "4 min",
-      "texto": "Doure o queijo numa frigideira e misture ao baião com o coentro e a cebolinha. Sirva com o vinagrete."
+      "texto": "Doure o queijo numa frigideira e misture ao baião com o coentro e a cebolinha. Misture os ingredientes do vinagrete e sirva ao lado."
     }
   ],
   "dicas": [

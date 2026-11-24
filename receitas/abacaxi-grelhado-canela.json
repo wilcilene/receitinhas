@@ -1,0 +1,54 @@
+{
+  "id": "abacaxi-grelhado-canela",
+  "titulo": "Abacaxi grelhado com canela",
+  "descricao": "A frigideira quente concentra o doce da fruta.",
+  "refeicoes": [
+    "sobremesa"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 10,
+  "maoNaMassaMin": 10,
+  "rendimento": "2 porções",
+  "ingredientes": [
+    {
+      "grupo": "Sobremesa",
+      "itens": [
+        "4 fatias de abacaxi com 1,5 cm de espessura",
+        "1 colher (chá) de manteiga",
+        "1 colher (chá) de açúcar mascavo, opcional",
+        "Canela em pó",
+        "Folhas de hortelã"
+      ]
+    }
+  ],
+  "passos": [
+    {
+      "titulo": "Seque",
+      "tempo": "1 min",
+      "texto": "Seque as fatias com papel-toalha."
+    },
+    {
+      "titulo": "Grelhe",
+      "tempo": "6 min",
+      "texto": "Aqueça a manteiga em fogo médio-alto e grelhe o abacaxi por 3 minutos de cada lado, até dourar."
+    },
+    {
+      "titulo": "Finalize",
+      "tempo": "1 min",
+      "texto": "Polvilhe o açúcar e a canela e sirva com hortelã."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Fatias secas douram melhor.",
+      "texto": "Com suco na superfície, o abacaxi cozinha em vez de grelhar."
+    },
+    {
+      "titulo": "Na air fryer.",
+      "texto": "Também funciona a 200 °C por 8 minutos, virando na metade."
+    }
+  ]
+}

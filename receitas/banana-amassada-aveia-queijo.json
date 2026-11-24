@@ -1,0 +1,53 @@
+{
+  "id": "banana-amassada-aveia-queijo",
+  "titulo": "Banana amassada com aveia e queijo branco",
+  "descricao": "Doce e salgado no mesmo prato.",
+  "refeicoes": [
+    "cafe-da-manha"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 5,
+  "maoNaMassaMin": 5,
+  "rendimento": "1 pessoa",
+  "ingredientes": [
+    {
+      "grupo": "Prato",
+      "itens": [
+        "1 banana madura",
+        "2 colheres (sopa) de aveia em flocos",
+        "1 pitada de canela",
+        "1 colher (chá) de mel, opcional",
+        "2 fatias de queijo minas frescal"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [],
+    "bebidas": "Café preto, sem açúcar: o amargor equilibra o doce do prato. Quem não toma café pode trocar por chocolate quente, chá ou leite."
+  },
+  "passos": [
+    {
+      "titulo": "Amasse",
+      "tempo": "2 min",
+      "texto": "Amasse a banana com um garfo e misture a aveia e a canela."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "2 min",
+      "texto": "Regue com o mel e sirva com o queijo ao lado."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Banana bem madura.",
+      "texto": "Com a casca pintada, amassa fácil e adoça sozinha."
+    },
+    {
+      "titulo": "Versão quente.",
+      "texto": "Trinta segundos no micro-ondas deixam a banana cremosa."
+    }
+  ]
+}

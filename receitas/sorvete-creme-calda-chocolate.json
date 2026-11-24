@@ -1,0 +1,61 @@
+{
+  "id": "sorvete-creme-calda-chocolate",
+  "titulo": "Sorvete de creme com calda de chocolate",
+  "descricao": "Calda quente feita em 5 minutos.",
+  "refeicoes": [
+    "sobremesa"
+  ],
+  "ocasioes": [
+    "dia-a-dia",
+    "visitas"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 10,
+  "maoNaMassaMin": 10,
+  "rendimento": "4 porções",
+  "ingredientes": [
+    {
+      "grupo": "Calda",
+      "itens": [
+        "1/2 xícara de leite",
+        "3 colheres (sopa) de chocolate em pó",
+        "2 colheres (sopa) de açúcar",
+        "1 colher (chá) de manteiga"
+      ]
+    },
+    {
+      "grupo": "Para servir",
+      "itens": [
+        "4 bolas de sorvete de creme",
+        "Castanhas ou amendoim picado, opcional"
+      ]
+    }
+  ],
+  "passos": [
+    {
+      "titulo": "Misture a frio",
+      "tempo": "2 min",
+      "texto": "Numa panela pequena, misture o leite, o chocolate em pó e o açúcar, até dissolver."
+    },
+    {
+      "titulo": "Ferva",
+      "tempo": "5 min",
+      "texto": "Leve ao fogo médio, mexendo sempre. Depois de ferver, cozinhe por 3 a 4 minutos, até engrossar levemente. Desligue e misture a manteiga."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "2 min",
+      "texto": "Coloque o sorvete nas taças e regue com a calda morna. Finalize com as castanhas."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "A calda engrossa ao esfriar.",
+      "texto": "Tire do fogo ainda fluida; se passar do ponto, ela endurece sobre o sorvete."
+    },
+    {
+      "titulo": "Mexa sem parar.",
+      "texto": "O chocolate em pó gruda e queima no fundo com facilidade."
+    }
+  ]
+}

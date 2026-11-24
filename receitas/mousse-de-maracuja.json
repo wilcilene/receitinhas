@@ -1,0 +1,56 @@
+{
+  "id": "mousse-de-maracuja",
+  "titulo": "Mousse de maracujá",
+  "descricao": "Três ingredientes no liquidificador.",
+  "refeicoes": [
+    "sobremesa"
+  ],
+  "ocasioes": [
+    "dia-a-dia",
+    "visitas"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 130,
+  "maoNaMassaMin": 10,
+  "rendimento": "6 porções",
+  "ingredientes": [
+    {
+      "grupo": "Sobremesa",
+      "itens": [
+        "1 lata de leite condensado (395 g)",
+        "1 caixinha de creme de leite (200 g)",
+        "1 xícara de suco concentrado de maracujá (ou a polpa de 4 frutas, batida e coada)",
+        "Polpa de 1 maracujá com sementes, para a calda",
+        "2 colheres (sopa) de açúcar"
+      ]
+    }
+  ],
+  "notaPassos": "O tempo total inclui o tempo de geladeira ou congelador. O trabalho de verdade é o indicado em “mão na massa”.",
+  "passos": [
+    {
+      "titulo": "Bata",
+      "tempo": "3 min",
+      "texto": "Bata o leite condensado, o creme de leite e o suco no liquidificador por 3 minutos."
+    },
+    {
+      "titulo": "Gele",
+      "tempo": "2 h",
+      "texto": "Distribua em taças e leve à geladeira por pelo menos 2 horas."
+    },
+    {
+      "titulo": "Calda",
+      "tempo": "5 min",
+      "texto": "Ferva a polpa com sementes, o açúcar e 3 colheres de água por 3 minutos. Deixe esfriar e coloque sobre a mousse."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Suco concentrado, sem água.",
+      "texto": "Diluído, ele não firma a mousse."
+    },
+    {
+      "titulo": "Bata os 3 minutos.",
+      "texto": "É o tempo de o creme encorpar com a acidez da fruta."
+    }
+  ]
+}

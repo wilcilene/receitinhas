@@ -1,0 +1,48 @@
+{
+  "id": "creme-de-abacate",
+  "titulo": "Creme de abacate",
+  "descricao": "Batido com limão, bem gelado.",
+  "refeicoes": [
+    "sobremesa"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 5,
+  "maoNaMassaMin": 5,
+  "rendimento": "2 porções",
+  "ingredientes": [
+    {
+      "grupo": "Sobremesa",
+      "itens": [
+        "1/2 abacate maduro, gelado",
+        "2 colheres (sopa) de açúcar ou leite condensado",
+        "Suco de 1/2 limão",
+        "2 colheres (sopa) de leite gelado"
+      ]
+    }
+  ],
+  "passos": [
+    {
+      "titulo": "Bata",
+      "tempo": "3 min",
+      "texto": "Bata tudo no liquidificador ou com um mixer, até ficar um creme liso."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "1 min",
+      "texto": "Distribua em taças e sirva em seguida."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "O limão não é só sabor.",
+      "texto": "Ele impede que o creme escureça."
+    },
+    {
+      "titulo": "Faça na hora.",
+      "texto": "Mesmo com limão, o abacate oxida depois de algumas horas."
+    }
+  ]
+}

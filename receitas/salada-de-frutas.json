@@ -1,0 +1,57 @@
+{
+  "id": "salada-de-frutas",
+  "titulo": "Salada de frutas",
+  "descricao": "Com suco de laranja, que evita o escurecimento.",
+  "refeicoes": [
+    "sobremesa"
+  ],
+  "ocasioes": [
+    "dia-a-dia",
+    "visitas"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 15,
+  "maoNaMassaMin": 15,
+  "rendimento": "4 porções",
+  "ingredientes": [
+    {
+      "grupo": "Salada",
+      "itens": [
+        "1 maçã em cubos",
+        "1 banana em rodelas",
+        "1 laranja em gomos, sem a pele",
+        "1 fatia grande de mamão em cubos",
+        "1 xícara de uvas sem semente cortadas ao meio",
+        "1 xícara de morangos picados",
+        "Suco de 2 laranjas"
+      ]
+    }
+  ],
+  "passos": [
+    {
+      "titulo": "Esprema as laranjas",
+      "tempo": "3 min",
+      "texto": "Coloque o suco numa tigela grande."
+    },
+    {
+      "titulo": "Corte as frutas",
+      "tempo": "10 min",
+      "texto": "Corte as frutas e vá colocando direto no suco, começando pela maçã e pela banana."
+    },
+    {
+      "titulo": "Misture e gele",
+      "tempo": "2 min",
+      "texto": "Misture com cuidado e leve à geladeira até a hora de servir."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Maçã e banana direto no suco.",
+      "texto": "A acidez da laranja impede que elas escureçam."
+    },
+    {
+      "titulo": "Melhor no mesmo dia.",
+      "texto": "De um dia para o outro, as frutas amolecem e soltam muita água."
+    }
+  ]
+}

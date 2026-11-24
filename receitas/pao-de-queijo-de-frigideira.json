@@ -1,0 +1,59 @@
+{
+  "id": "pao-de-queijo-de-frigideira",
+  "titulo": "Pão de queijo de frigideira",
+  "descricao": "Sem forno, em 10 minutos.",
+  "refeicoes": [
+    "cafe-da-manha",
+    "lanche-da-tarde"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 10,
+  "maoNaMassaMin": 10,
+  "rendimento": "1 pessoa",
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "itens": [
+        "1 ovo",
+        "3 colheres (sopa) de polvilho doce ou goma de tapioca",
+        "2 colheres (sopa) de queijo ralado",
+        "1 colher (sopa) de requeijão ou iogurte natural",
+        "1 pitada de sal"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [],
+    "bebidas": "Café preto, sem açúcar. Quem não toma café pode trocar por chocolate quente, chá ou leite."
+  },
+  "passos": [
+    {
+      "titulo": "Misture",
+      "tempo": "2 min",
+      "texto": "Misture todos os ingredientes com um garfo, até ficar liso."
+    },
+    {
+      "titulo": "Cozinhe",
+      "tempo": "6 min",
+      "texto": "Despeje numa frigideira antiaderente pequena, levemente untada. Tampe e cozinhe em fogo baixo por 3 minutos de cada lado."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "1 min",
+      "texto": "Sirva quente, puro ou recheado com queijo."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Tampe a frigideira.",
+      "texto": "O vapor faz o centro cozinhar e crescer."
+    },
+    {
+      "titulo": "Frigideira pequena.",
+      "texto": "Com 15 cm, o pão fica alto e macio."
+    }
+  ]
+}

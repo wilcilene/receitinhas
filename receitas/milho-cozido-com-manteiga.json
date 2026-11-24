@@ -1,0 +1,52 @@
+{
+  "id": "milho-cozido-com-manteiga",
+  "titulo": "Milho cozido com manteiga",
+  "descricao": "Na espiga.",
+  "refeicoes": [
+    "lanche-da-tarde"
+  ],
+  "ocasioes": [
+    "dia-a-dia"
+  ],
+  "energia": "preguica-total",
+  "tempoTotalMin": 25,
+  "maoNaMassaMin": 5,
+  "rendimento": "2 porções",
+  "ingredientes": [
+    {
+      "grupo": "Milho",
+      "itens": [
+        "2 espigas de milho-verde, sem palha",
+        "Água",
+        "1 colher (chá) de manteiga",
+        "Sal"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [],
+    "bebidas": "Suco natural, chá gelado ou água com gás."
+  },
+  "passos": [
+    {
+      "titulo": "Cozinhe",
+      "tempo": "20 min",
+      "texto": "Cubra as espigas com água e cozinhe por 15 a 20 minutos depois de ferver, até os grãos ficarem macios. Na panela de pressão, 10 minutos."
+    },
+    {
+      "titulo": "Tempere",
+      "tempo": "2 min",
+      "texto": "Escorra, passe a manteiga e salgue."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Sal só depois.",
+      "texto": "Na água do cozimento, o sal endurece a casca do grão."
+    },
+    {
+      "titulo": "No micro-ondas.",
+      "texto": "Uma espiga embrulhada em papel-toalha úmido fica pronta em 4 minutos."
+    }
+  ]
+}

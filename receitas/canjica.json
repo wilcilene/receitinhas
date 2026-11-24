@@ -1,0 +1,58 @@
+{
+  "id": "canjica",
+  "titulo": "Canjica cremosa",
+  "descricao": "Na panela de pressão, com leite de coco.",
+  "refeicoes": [
+    "sobremesa"
+  ],
+  "ocasioes": [
+    "dia-a-dia",
+    "visitas"
+  ],
+  "energia": "dia-normal",
+  "tempoTotalMin": 75,
+  "maoNaMassaMin": 15,
+  "rendimento": "8 porções",
+  "ingredientes": [
+    {
+      "grupo": "Sobremesa",
+      "itens": [
+        "250 g de milho para canjica, de molho por 8 horas",
+        "1 litro de água",
+        "500 ml de leite",
+        "200 ml de leite de coco",
+        "1 lata de leite condensado (395 g)",
+        "1 pau de canela",
+        "Canela em pó e coco ralado"
+      ]
+    }
+  ],
+  "notaPassos": "O tempo total inclui a panela pegar e soltar pressão. As 8 horas de molho do milho não estão incluídas.",
+  "passos": [
+    {
+      "titulo": "Cozinhe o milho",
+      "tempo": "45 min",
+      "texto": "Escorra o milho e leve à panela de pressão com a água. Depois de pegar pressão, cozinhe em fogo baixo por 35 a 40 minutos. Deixe a pressão sair sozinha."
+    },
+    {
+      "titulo": "Junte os leites",
+      "tempo": "20 min",
+      "texto": "Acrescente o leite, o leite de coco, o leite condensado e a canela. Cozinhe sem pressão, em fogo baixo, por 15 a 20 minutos, mexendo de vez em quando."
+    },
+    {
+      "titulo": "Sirva",
+      "tempo": "2 min",
+      "texto": "Sirva quente ou fria, com canela e coco ralado."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Lembre do molho.",
+      "texto": "O milho precisa ficar de molho na véspera; o tempo indicado não inclui essas 8 horas."
+    },
+    {
+      "titulo": "Milho macio antes do açúcar.",
+      "texto": "Depois do leite condensado, o grão não amacia mais."
+    }
+  ]
+}
