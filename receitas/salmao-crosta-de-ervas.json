@@ -1,0 +1,133 @@
+{
+  "id": "salmao-crosta-de-ervas",
+  "titulo": "Salmão com crosta de ervas",
+  "descricao": "Com batata gratinada e salada de folhas.",
+  "refeicoes": [
+    "jantar"
+  ],
+  "ocasioes": [
+    "especial"
+  ],
+  "energia": "inspirada",
+  "tempoTotalMin": 55,
+  "maoNaMassaMin": 30,
+  "rendimento": "2 pessoas",
+  "ingredientes": [
+    {
+      "grupo": "Salmão",
+      "itens": [
+        "2 postas de salmão com pele (cerca de 350 g), já descongeladas",
+        "Sal e pimenta-do-reino a gosto",
+        "1 colher (chá) de mostarda Dijon"
+      ]
+    },
+    {
+      "grupo": "Crosta de ervas",
+      "itens": [
+        "3 colheres (sopa) de farinha panko ou de rosca",
+        "1 colher (sopa) de salsinha picada",
+        "1 colher (sopa) de cebolinha picada",
+        "Raspas de 1/2 limão siciliano",
+        "1 colher (sopa) de azeite"
+      ]
+    },
+    {
+      "grupo": "Batata gratinada",
+      "itens": [
+        "500 g de batata em fatias finas (cerca de 3 mm)",
+        "200 ml de creme de leite fresco",
+        "100 ml de leite",
+        "1 dente de alho amassado",
+        "1 pitada de noz-moscada",
+        "1/2 colher (chá) de sal",
+        "60 g de queijo parmesão ralado",
+        "Manteiga para untar"
+      ]
+    },
+    {
+      "grupo": "Salada de folhas",
+      "itens": [
+        "1 pé pequeno de alface americana ou mix de folhas",
+        "1 punhado de rúcula",
+        "1/2 pepino em rodelas finas",
+        "3 rabanetes em rodelas finas",
+        "2 colheres (sopa) de azeite",
+        "1 colher (sopa) de suco de limão siciliano",
+        "1 pitada de sal"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Mousse de limão",
+        "id": "mousse-de-limao"
+      },
+      {
+        "titulo": "Morangos com creme",
+        "id": "morangos-com-creme"
+      },
+      {
+        "titulo": "Panna cotta com frutas vermelhas",
+        "id": "panna-cotta-frutas-vermelhas"
+      }
+    ],
+    "bebidas": "Vinho branco Chardonnay leve, servido entre 8 e 10 °C. Também combinam Sauvignon Blanc ou um Pinot Noir levemente fresco. Sem álcool: água com gás com pepino e hortelã."
+  },
+  "notaPassos": "Alguns preparos acontecem ao mesmo tempo, por isso os tempos não se somam.",
+  "passos": [
+    {
+      "titulo": "Deixe tudo pronto",
+      "tempo": "10 min",
+      "texto": "Ligue o forno a 200 °C. Fatie a batata, rale o queijo, pique a salsinha e a cebolinha e rale o limão. Seque bem o salmão com papel-toalha e unte com manteiga um refratário pequeno."
+    },
+    {
+      "titulo": "Pré-cozinhe a batata",
+      "tempo": "8 min",
+      "texto": "Numa panela, junte o creme de leite, o leite, o alho, a noz-moscada e o sal. Coloque as fatias de batata e cozinhe em fogo médio, mexendo de vez em quando com cuidado, até começar a ferver e a batata ficar levemente macia."
+    },
+    {
+      "titulo": "Leve o gratinado ao forno",
+      "tempo": "30 min",
+      "texto": "Passe a batata com o creme para o refratário, espalhe bem, cubra com o parmesão e asse até dourar e borbulhar nas bordas."
+    },
+    {
+      "titulo": "Prepare o salmão",
+      "tempo": "5 min",
+      "texto": "Misture a farinha, as ervas, as raspas de limão e o azeite. Tempere o salmão com sal e pimenta, pincele a mostarda por cima e pressione a farofa de ervas sobre a mostarda, formando a crosta."
+    },
+    {
+      "titulo": "Asse o salmão",
+      "tempo": "12 a 15 min",
+      "texto": "Quando faltarem cerca de 15 minutos para o gratinado ficar pronto, coloque o salmão numa assadeira, com a pele para baixo, e leve ao forno junto. Está pronto quando a crosta dourar e a carne se separar em lascas com um garfo."
+    },
+    {
+      "titulo": "Monte a salada",
+      "tempo": "5 min",
+      "texto": "Enquanto o salmão assa, lave e seque bem as folhas e distribua com o pepino e o rabanete. Num potinho com tampa, chacoalhe o azeite, o limão e o sal. Tempere só na hora de servir, para as folhas não murcharem."
+    },
+    {
+      "titulo": "Descanse e sirva",
+      "tempo": "5 min",
+      "texto": "Deixe o gratinado descansar alguns minutos fora do forno para o creme firmar. Sirva o salmão com a batata gratinada e a salada."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Fatie a batata por igual.",
+      "texto": "Fatias da mesma espessura cozinham juntas, sem ficar umas cruas e outras desmanchando."
+    },
+    {
+      "titulo": "Não lave a batata depois de fatiar.",
+      "texto": "O amido que fica nas fatias ajuda o creme a engrossar."
+    },
+    {
+      "titulo": "Seque o salmão antes de temperar.",
+      "texto": "Assim a mostarda e a crosta grudam melhor e não ficam encharcadas."
+    },
+    {
+      "titulo": "Cuidado para não passar do ponto.",
+      "texto": "O salmão continua cozinhando um pouco fora do forno; se o centro ainda estiver levemente rosado, já está ótimo."
+    }
+  ]
+}
