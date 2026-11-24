@@ -1,0 +1,117 @@
+{
+  "id": "biscoito-champagne",
+  "titulo": "Biscoito champagne caseiro",
+  "descricao": "Leve, fofinho por dentro e com casquinha de açúcar. Ótimo com café e perfeito para tiramisù e pavê.",
+  "refeicoes": [
+    "lanche-da-tarde"
+  ],
+  "ocasioes": [
+    "dia-a-dia",
+    "visitas"
+  ],
+  "energia": "inspirada",
+  "tempoTotalMin": 45,
+  "maoNaMassaMin": 25,
+  "rendimento": "cerca de 25 biscoitos",
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "itens": [
+        "3 ovos em temperatura ambiente, com claras e gemas separadas",
+        "75 g de açúcar (cerca de 1/3 de xícara), dividido em duas partes",
+        "1 colher (chá) de essência de baunilha",
+        "1 pitada de sal",
+        "75 g de farinha de trigo (cerca de 1/2 xícara)",
+        "15 g de amido de milho (1 colher de sopa cheia)"
+      ]
+    },
+    {
+      "grupo": "Para polvilhar",
+      "itens": [
+        "3 colheres (sopa) de açúcar de confeiteiro"
+      ]
+    },
+    {
+      "grupo": "Utensílios",
+      "itens": [
+        "Batedeira ou fouet",
+        "Saco de confeitar com bico liso de 1 cm, ou um saquinho plástico resistente com a ponta cortada",
+        "2 assadeiras forradas com papel-manteiga"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Tiramisù simples",
+        "id": "tiramisu-simples"
+      },
+      {
+        "titulo": "Pavê de chocolate",
+        "id": "pave-de-chocolate"
+      }
+    ],
+    "bebidas": "Café preto coado, café com leite, chá ou chocolate quente."
+  },
+  "notaPassos": "As claras batidas perdem o ar com o tempo, por isso modele e asse logo depois de preparar a massa.",
+  "passos": [
+    {
+      "titulo": "Deixe tudo pronto",
+      "tempo": "5 min",
+      "texto": "Ligue o forno a 180 °C e forre as assadeiras com papel-manteiga. Separe as claras das gemas com cuidado: qualquer pinguinho de gema impede as claras de crescerem. Peneire juntos a farinha e o amido."
+    },
+    {
+      "titulo": "Bata as gemas",
+      "tempo": "5 min",
+      "texto": "Bata as gemas com metade do açúcar e a baunilha até o creme ficar claro, fofo e quase dobrar de volume."
+    },
+    {
+      "titulo": "Bata as claras",
+      "tempo": "5 min",
+      "texto": "Numa tigela limpa e seca, bata as claras com o sal até espumarem. Sem parar de bater, junte o restante do açúcar aos poucos e continue até formar picos firmes e brilhantes: ao virar a tigela, as claras não escorrem."
+    },
+    {
+      "titulo": "Junte tudo com delicadeza",
+      "tempo": "3 min",
+      "texto": "Misture 1/3 das claras nas gemas para soltar o creme. Junte o restante das claras e, por cima, peneire metade da farinha. Incorpore com uma espátula, em movimentos de baixo para cima. Repita com o resto da farinha. Pare assim que não houver mais farinha aparente; não bata."
+    },
+    {
+      "titulo": "Modele os biscoitos",
+      "tempo": "5 min",
+      "texto": "Coloque a massa no saco de confeitar e faça bastões de 8 a 10 cm na assadeira, com uns 3 cm de distância entre eles, porque crescem um pouco."
+    },
+    {
+      "titulo": "Polvilhe o açúcar duas vezes",
+      "tempo": "5 min",
+      "texto": "Peneire metade do açúcar de confeiteiro sobre os biscoitos, espere 5 minutos e peneire o restante. É isso que forma a casquinha crocante característica."
+    },
+    {
+      "titulo": "Asse",
+      "tempo": "10 a 12 min",
+      "texto": "Asse até as bordas ficarem levemente douradas e os biscoitos firmes ao toque. Se as duas assadeiras não couberem juntas, asse uma de cada vez."
+    },
+    {
+      "titulo": "Esfrie e guarde",
+      "tempo": "10 min",
+      "texto": "Solte os biscoitos do papel ainda mornos e deixe esfriar sobre uma grade. Guarde em pote bem fechado."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Tigela sem gordura.",
+      "texto": "Gordura ou água na tigela das claras impede que elas cheguem ao ponto de neve firme."
+    },
+    {
+      "titulo": "Ovos em temperatura ambiente.",
+      "texto": "Batem mais rápido e ganham mais volume do que ovos gelados."
+    },
+    {
+      "titulo": "Não bata depois de juntar a farinha.",
+      "texto": "A massa perde o ar, escorre na assadeira e os biscoitos ficam baixos e duros."
+    },
+    {
+      "titulo": "Para tiramisù ou pavê, faça na véspera.",
+      "texto": "Biscoitos de um dia ficam mais secos e absorvem o café ou a calda sem desmanchar."
+    }
+  ]
+}

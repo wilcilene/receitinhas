@@ -41,6 +41,26 @@ function montarApresentacao(receita) {
   return cabecalho;
 }
 
+// Um ingrediente pode apontar para outra receita do site com a marcação
+// [texto do link](id-da-receita), por exemplo:
+// "1 pacote de [biscoito champanhe](biscoito-champagne) (150 g)"
+const LINK_RECEITA = /\[([^\]]+)\]\(([a-z0-9-]+)\)/g;
+
+function montarItemIngrediente(texto) {
+  const item = el('li');
+  let inicio = 0;
+  for (const encontrado of texto.matchAll(LINK_RECEITA)) {
+    const [marcacao, rotuloLink, id] = encontrado;
+    item.append(texto.slice(inicio, encontrado.index));
+    const link = el('a', '', rotuloLink);
+    link.href = linkReceita(id);
+    item.append(link);
+    inicio = encontrado.index + marcacao.length;
+  }
+  item.append(texto.slice(inicio));
+  return item;
+}
+
 function montarIngredientes(receita) {
   const { no, h2 } = secao('titulo-ingredientes', 'Ingredientes');
   const topo = el('div', 'secao__topo');
@@ -51,7 +71,7 @@ function montarIngredientes(receita) {
     const bloco = el('div', 'grupo-ingredientes');
     if (grupo.grupo) bloco.append(el('h3', '', grupo.grupo));
     const itens = el('ul');
-    itens.append(...grupo.itens.map((item) => el('li', '', item)));
+    itens.append(...grupo.itens.map(montarItemIngrediente));
     bloco.append(itens);
     lista.append(bloco);
   }
