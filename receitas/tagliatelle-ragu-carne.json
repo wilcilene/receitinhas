@@ -1,0 +1,122 @@
+{
+  "id": "tagliatelle-ragu-carne",
+  "titulo": "Massa fresca com ragu de carne",
+  "descricao": "Tagliatelle feito em casa com molho de carne moída e tomate.",
+  "refeicoes": [
+    "almoco",
+    "jantar"
+  ],
+  "ocasioes": [
+    "especial"
+  ],
+  "energia": "inspirada",
+  "tempoTotalMin": 70,
+  "maoNaMassaMin": 45,
+  "rendimento": "2 pessoas",
+  "ingredientes": [
+    {
+      "grupo": "Massa fresca",
+      "itens": [
+        "200 g de farinha de trigo (ou 150 g de farinha e 50 g de sêmola de grano duro)",
+        "2 ovos",
+        "1 pitada de sal",
+        "Farinha extra para polvilhar"
+      ]
+    },
+    {
+      "grupo": "Ragu de carne",
+      "itens": [
+        "300 g de carne moída, de preferência com um pouco de gordura",
+        "1 fio de azeite",
+        "1/2 cebola picadinha",
+        "2 dentes de alho picados",
+        "1 colher (sopa) de extrato de tomate",
+        "50 ml de vinho tinto seco, opcional",
+        "1 lata de tomate pelado (400 g) amassado, ou 300 ml de passata",
+        "1 folha de louro",
+        "Sal e pimenta-do-reino a gosto",
+        "Algumas folhas de manjericão, opcional"
+      ]
+    },
+    {
+      "grupo": "Para finalizar",
+      "itens": [
+        "Sal grosso para a água do cozimento",
+        "Queijo parmesão ralado a gosto"
+      ]
+    }
+  ],
+  "acompanhar": {
+    "sobremesas": [
+      {
+        "titulo": "Tiramisù simples",
+        "id": "tiramisu-simples"
+      },
+      {
+        "titulo": "Mousse de limão",
+        "id": "mousse-de-limao"
+      },
+      {
+        "titulo": "Morangos com creme",
+        "id": "morangos-com-creme"
+      }
+    ],
+    "bebidas": "Vinho tinto de corpo médio, como Sangiovese (Chianti), Merlot ou Montepulciano, servido entre 15 e 17 °C. Sem álcool: suco de uva integral ou água com gás com limão."
+  },
+  "notaPassos": "O molho cozinha enquanto a massa descansa, por isso os tempos não se somam.",
+  "passos": [
+    {
+      "titulo": "Faça a massa",
+      "tempo": "15 min",
+      "texto": "Faça um monte com a farinha e o sal e abra um buraco no meio. Quebre os ovos no buraco, bata com um garfo e vá puxando a farinha das bordas até formar uma massa. Sove por 8 a 10 minutos, até ficar lisa e elástica. Se estiver grudando, junte um pouco de farinha; se estiver esfarelando, molhe as mãos."
+    },
+    {
+      "titulo": "Deixe a massa descansar",
+      "tempo": "30 min",
+      "texto": "Embrulhe a massa em filme plástico e deixe descansar fora da geladeira. Esse descanso deixa a massa mais fácil de abrir."
+    },
+    {
+      "titulo": "Doure a carne",
+      "tempo": "10 min",
+      "texto": "Enquanto a massa descansa, aqueça bem uma panela com um fio de azeite e coloque a carne espalhada. Deixe dourar sem mexer por uns 3 minutos e depois vá soltando com a colher até ficar toda dourada. Tempere com sal e pimenta."
+    },
+    {
+      "titulo": "Monte o ragu",
+      "tempo": "25 min",
+      "texto": "Junte a cebola e o alho e refogue até a cebola ficar macia. Acrescente o extrato de tomate e mexa por 1 minuto. Se usar o vinho, despeje agora, raspe o fundo da panela e deixe evaporar. Junte o tomate e o louro, abaixe o fogo, tampe parcialmente e cozinhe, mexendo de vez em quando, até o molho encorpar. Se secar demais, pingue um pouco de água."
+    },
+    {
+      "titulo": "Abra e corte a massa",
+      "tempo": "15 min",
+      "texto": "Ponha a água para ferver numa panela grande. Divida a massa em duas partes e abra cada uma com o rolo, sobre a bancada enfarinhada, até ficar bem fina, quase dando para ver a bancada através dela. Polvilhe farinha, enrole a folha sem apertar e corte tiras de cerca de 1 cm. Solte as tiras e polvilhe mais farinha para não grudarem."
+    },
+    {
+      "titulo": "Cozinhe a massa",
+      "tempo": "2 a 3 min",
+      "texto": "Salgue bem a água fervente e coloque a massa. Massa fresca cozinha muito rápido: prove com 2 minutos. Antes de escorrer, separe meia xícara da água do cozimento."
+    },
+    {
+      "titulo": "Finalize e sirva",
+      "tempo": "2 min",
+      "texto": "Retire o louro do molho. Passe a massa direto para a panela do ragu com um pouco da água reservada e misture em fogo baixo por 1 minuto, até o molho envolver bem a massa. Sirva com parmesão ralado e folhas de manjericão."
+    }
+  ],
+  "dicas": [
+    {
+      "titulo": "Doure a carne de verdade.",
+      "texto": "Se você mexer o tempo todo, a carne solta água e cozinha no vapor. É a casquinha dourada que dá o sabor do ragu."
+    },
+    {
+      "titulo": "Não pule o descanso da massa.",
+      "texto": "Sem ele, a massa encolhe toda vez que você tenta abrir."
+    },
+    {
+      "titulo": "Abra a massa bem fina.",
+      "texto": "Ela engrossa um pouco ao cozinhar; massa grossa fica pesada e borrachuda."
+    },
+    {
+      "titulo": "Não lave a massa depois de cozida.",
+      "texto": "O amido da superfície e a água do cozimento ajudam o molho a grudar na massa."
+    }
+  ]
+}
